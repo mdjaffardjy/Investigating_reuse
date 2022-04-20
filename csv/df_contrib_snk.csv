@@ -1,0 +1,715 @@
+,contributor,nb_wf,list_wf
+46,elimoss,47,"{'bhattlab/bhattlab_workflows/8', 'bhattlab/bhattlab_workflows/20', 'liluacrobat/Shotgun_inStrain/16', 'bhattlab/bhattlab_workflows/19', 'elimoss/lathe/1', 'liluacrobat/Shotgun_inStrain/9', 'elimoss/metagenomics_workflows/1', 'liluacrobat/Shotgun_inStrain/3', 'elimoss/metagenomics_workflows/3', 'liluacrobat/Shotgun_inStrain/13', 'liluacrobat/Shotgun_inStrain/5', 'liluacrobat/Shotgun_inStrain/21', 'bhattlab/bhattlab_workflows/12', 'liluacrobat/Shotgun_inStrain/10', 'liluacrobat/Shotgun_inStrain/6', 'bhattlab/bhattlab_workflows/2', 'liluacrobat/Shotgun_inStrain/4', 'bhattlab/bhattlab_workflows/25', 'bhattlab/bhattlab_workflows/3', 'elimoss/metagenomics_workflows/4', 'bhattlab/bhattlab_workflows/13', 'liluacrobat/Shotgun_inStrain/22', 'bhattlab/bhattlab_workflows/28', 'liluacrobat/Shotgun_inStrain/25', 'bhattlab/bhattlab_workflows/27', 'bhattlab/bhattlab_workflows/5', 'liluacrobat/Shotgun_inStrain/8', 'bhattlab/bhattlab_workflows/24', 'liluacrobat/Shotgun_inStrain/18', 'bhattlab/kraken2_classification/1', 'bhattlab/bhattlab_workflows/9', 'bhattlab/bhattlab_workflows/21', 'elimoss/metagenomics_workflows/5', 'liluacrobat/Shotgun_inStrain/12', 'bhattlab/bhattlab_workflows/6', 'bhattlab/lathe/1', 'liluacrobat/Shotgun_inStrain/14', 'liluacrobat/Shotgun_inStrain/7', 'liluacrobat/Shotgun_inStrain/2', 'bhattlab/bhattlab_workflows/14', 'liluacrobat/Shotgun_inStrain/24', 'liluacrobat/Shotgun_inStrain/15', 'bhattlab/bhattlab_workflows/15', 'bhattlab/bhattlab_workflows/10', 'bhattlab/bhattlab_workflows/16', 'bhattlab/bhattlab_workflows/7', 'bhattlab/bhattlab_workflows/4'}"
+283,bsiranosian,42,"{'bhattlab/bhattlab_workflows/8', 'bhattlab/bhattlab_workflows/20', 'liluacrobat/Shotgun_inStrain/16', 'bhattlab/bhattlab_workflows/19', 'liluacrobat/Shotgun_inStrain/9', 'liluacrobat/Shotgun_inStrain/3', 'liluacrobat/Shotgun_inStrain/5', 'liluacrobat/Shotgun_inStrain/13', 'liluacrobat/Shotgun_inStrain/21', 'bhattlab/bhattlab_workflows/12', 'liluacrobat/Shotgun_inStrain/10', 'liluacrobat/Shotgun_inStrain/6', 'bhattlab/bhattlab_workflows/2', 'liluacrobat/Shotgun_inStrain/4', 'bhattlab/bhattlab_workflows/25', 'bhattlab/bhattlab_workflows/3', 'bhattlab/bhattlab_workflows/13', 'liluacrobat/Shotgun_inStrain/22', 'bhattlab/bhattlab_workflows/28', 'liluacrobat/Shotgun_inStrain/25', 'bhattlab/bhattlab_workflows/27', 'bhattlab/bhattlab_workflows/5', 'liluacrobat/Shotgun_inStrain/8', 'bhattlab/bhattlab_workflows/24', 'liluacrobat/Shotgun_inStrain/18', 'bhattlab/kraken2_classification/1', 'bhattlab/bhattlab_workflows/9', 'bhattlab/bhattlab_workflows/21', 'liluacrobat/Shotgun_inStrain/12', 'bhattlab/bhattlab_workflows/6', 'bhattlab/lathe/1', 'liluacrobat/Shotgun_inStrain/14', 'liluacrobat/Shotgun_inStrain/7', 'liluacrobat/Shotgun_inStrain/2', 'bhattlab/bhattlab_workflows/14', 'liluacrobat/Shotgun_inStrain/24', 'liluacrobat/Shotgun_inStrain/15', 'bhattlab/bhattlab_workflows/15', 'bhattlab/bhattlab_workflows/10', 'bhattlab/bhattlab_workflows/16', 'bhattlab/bhattlab_workflows/7', 'bhattlab/bhattlab_workflows/4'}"
+309,jribado,40,"{'bhattlab/bhattlab_workflows/8', 'bhattlab/bhattlab_workflows/20', 'liluacrobat/Shotgun_inStrain/16', 'bhattlab/bhattlab_workflows/19', 'liluacrobat/Shotgun_inStrain/9', 'liluacrobat/Shotgun_inStrain/3', 'liluacrobat/Shotgun_inStrain/5', 'liluacrobat/Shotgun_inStrain/13', 'liluacrobat/Shotgun_inStrain/21', 'bhattlab/bhattlab_workflows/12', 'liluacrobat/Shotgun_inStrain/10', 'liluacrobat/Shotgun_inStrain/6', 'bhattlab/bhattlab_workflows/2', 'liluacrobat/Shotgun_inStrain/4', 'bhattlab/bhattlab_workflows/25', 'bhattlab/bhattlab_workflows/3', 'bhattlab/bhattlab_workflows/13', 'liluacrobat/Shotgun_inStrain/22', 'bhattlab/bhattlab_workflows/28', 'liluacrobat/Shotgun_inStrain/25', 'bhattlab/bhattlab_workflows/27', 'bhattlab/bhattlab_workflows/5', 'liluacrobat/Shotgun_inStrain/8', 'bhattlab/bhattlab_workflows/24', 'liluacrobat/Shotgun_inStrain/18', 'bhattlab/bhattlab_workflows/9', 'bhattlab/bhattlab_workflows/21', 'liluacrobat/Shotgun_inStrain/12', 'bhattlab/bhattlab_workflows/6', 'liluacrobat/Shotgun_inStrain/14', 'liluacrobat/Shotgun_inStrain/7', 'liluacrobat/Shotgun_inStrain/2', 'bhattlab/bhattlab_workflows/14', 'liluacrobat/Shotgun_inStrain/24', 'liluacrobat/Shotgun_inStrain/15', 'bhattlab/bhattlab_workflows/15', 'bhattlab/bhattlab_workflows/10', 'bhattlab/bhattlab_workflows/16', 'bhattlab/bhattlab_workflows/7', 'bhattlab/bhattlab_workflows/4'}"
+415,tamburinif,40,"{'bhattlab/bhattlab_workflows/8', 'bhattlab/bhattlab_workflows/20', 'liluacrobat/Shotgun_inStrain/16', 'bhattlab/bhattlab_workflows/19', 'liluacrobat/Shotgun_inStrain/9', 'liluacrobat/Shotgun_inStrain/3', 'liluacrobat/Shotgun_inStrain/5', 'liluacrobat/Shotgun_inStrain/13', 'liluacrobat/Shotgun_inStrain/21', 'bhattlab/bhattlab_workflows/12', 'liluacrobat/Shotgun_inStrain/10', 'liluacrobat/Shotgun_inStrain/6', 'bhattlab/bhattlab_workflows/2', 'liluacrobat/Shotgun_inStrain/4', 'bhattlab/bhattlab_workflows/25', 'bhattlab/bhattlab_workflows/3', 'bhattlab/bhattlab_workflows/13', 'liluacrobat/Shotgun_inStrain/22', 'bhattlab/bhattlab_workflows/28', 'liluacrobat/Shotgun_inStrain/25', 'bhattlab/bhattlab_workflows/27', 'bhattlab/bhattlab_workflows/5', 'liluacrobat/Shotgun_inStrain/8', 'bhattlab/bhattlab_workflows/24', 'liluacrobat/Shotgun_inStrain/18', 'bhattlab/bhattlab_workflows/9', 'bhattlab/bhattlab_workflows/21', 'liluacrobat/Shotgun_inStrain/12', 'bhattlab/bhattlab_workflows/6', 'liluacrobat/Shotgun_inStrain/14', 'liluacrobat/Shotgun_inStrain/7', 'liluacrobat/Shotgun_inStrain/2', 'bhattlab/bhattlab_workflows/14', 'liluacrobat/Shotgun_inStrain/24', 'liluacrobat/Shotgun_inStrain/15', 'bhattlab/bhattlab_workflows/15', 'bhattlab/bhattlab_workflows/10', 'bhattlab/bhattlab_workflows/16', 'bhattlab/bhattlab_workflows/7', 'bhattlab/bhattlab_workflows/4'}"
+374,navajain,40,"{'bhattlab/bhattlab_workflows/8', 'bhattlab/bhattlab_workflows/20', 'liluacrobat/Shotgun_inStrain/16', 'bhattlab/bhattlab_workflows/19', 'liluacrobat/Shotgun_inStrain/9', 'liluacrobat/Shotgun_inStrain/3', 'liluacrobat/Shotgun_inStrain/5', 'liluacrobat/Shotgun_inStrain/13', 'liluacrobat/Shotgun_inStrain/21', 'bhattlab/bhattlab_workflows/12', 'liluacrobat/Shotgun_inStrain/10', 'liluacrobat/Shotgun_inStrain/6', 'bhattlab/bhattlab_workflows/2', 'liluacrobat/Shotgun_inStrain/4', 'bhattlab/bhattlab_workflows/25', 'bhattlab/bhattlab_workflows/3', 'bhattlab/bhattlab_workflows/13', 'liluacrobat/Shotgun_inStrain/22', 'bhattlab/bhattlab_workflows/28', 'liluacrobat/Shotgun_inStrain/25', 'bhattlab/bhattlab_workflows/27', 'bhattlab/bhattlab_workflows/5', 'liluacrobat/Shotgun_inStrain/8', 'bhattlab/bhattlab_workflows/24', 'liluacrobat/Shotgun_inStrain/18', 'bhattlab/bhattlab_workflows/9', 'bhattlab/bhattlab_workflows/21', 'liluacrobat/Shotgun_inStrain/12', 'bhattlab/bhattlab_workflows/6', 'liluacrobat/Shotgun_inStrain/14', 'liluacrobat/Shotgun_inStrain/7', 'liluacrobat/Shotgun_inStrain/2', 'bhattlab/bhattlab_workflows/14', 'liluacrobat/Shotgun_inStrain/24', 'liluacrobat/Shotgun_inStrain/15', 'bhattlab/bhattlab_workflows/15', 'bhattlab/bhattlab_workflows/10', 'bhattlab/bhattlab_workflows/16', 'bhattlab/bhattlab_workflows/7', 'bhattlab/bhattlab_workflows/4'}"
+352,cosnicolaou,40,"{'bhattlab/bhattlab_workflows/8', 'bhattlab/bhattlab_workflows/20', 'liluacrobat/Shotgun_inStrain/16', 'bhattlab/bhattlab_workflows/19', 'liluacrobat/Shotgun_inStrain/9', 'liluacrobat/Shotgun_inStrain/3', 'liluacrobat/Shotgun_inStrain/5', 'liluacrobat/Shotgun_inStrain/13', 'liluacrobat/Shotgun_inStrain/21', 'bhattlab/bhattlab_workflows/12', 'liluacrobat/Shotgun_inStrain/10', 'liluacrobat/Shotgun_inStrain/6', 'bhattlab/bhattlab_workflows/2', 'liluacrobat/Shotgun_inStrain/4', 'bhattlab/bhattlab_workflows/25', 'bhattlab/bhattlab_workflows/3', 'bhattlab/bhattlab_workflows/13', 'liluacrobat/Shotgun_inStrain/22', 'bhattlab/bhattlab_workflows/28', 'liluacrobat/Shotgun_inStrain/25', 'bhattlab/bhattlab_workflows/27', 'bhattlab/bhattlab_workflows/5', 'liluacrobat/Shotgun_inStrain/8', 'bhattlab/bhattlab_workflows/24', 'liluacrobat/Shotgun_inStrain/18', 'bhattlab/bhattlab_workflows/9', 'bhattlab/bhattlab_workflows/21', 'liluacrobat/Shotgun_inStrain/12', 'bhattlab/bhattlab_workflows/6', 'liluacrobat/Shotgun_inStrain/14', 'liluacrobat/Shotgun_inStrain/7', 'liluacrobat/Shotgun_inStrain/2', 'bhattlab/bhattlab_workflows/14', 'liluacrobat/Shotgun_inStrain/24', 'liluacrobat/Shotgun_inStrain/15', 'bhattlab/bhattlab_workflows/15', 'bhattlab/bhattlab_workflows/10', 'bhattlab/bhattlab_workflows/16', 'bhattlab/bhattlab_workflows/7', 'bhattlab/bhattlab_workflows/4'}"
+281,sevance,40,"{'bhattlab/bhattlab_workflows/8', 'bhattlab/bhattlab_workflows/20', 'liluacrobat/Shotgun_inStrain/16', 'bhattlab/bhattlab_workflows/19', 'liluacrobat/Shotgun_inStrain/9', 'liluacrobat/Shotgun_inStrain/3', 'liluacrobat/Shotgun_inStrain/5', 'liluacrobat/Shotgun_inStrain/13', 'liluacrobat/Shotgun_inStrain/21', 'bhattlab/bhattlab_workflows/12', 'liluacrobat/Shotgun_inStrain/10', 'liluacrobat/Shotgun_inStrain/6', 'bhattlab/bhattlab_workflows/2', 'liluacrobat/Shotgun_inStrain/4', 'bhattlab/bhattlab_workflows/25', 'bhattlab/bhattlab_workflows/3', 'bhattlab/bhattlab_workflows/13', 'liluacrobat/Shotgun_inStrain/22', 'bhattlab/bhattlab_workflows/28', 'liluacrobat/Shotgun_inStrain/25', 'bhattlab/bhattlab_workflows/27', 'bhattlab/bhattlab_workflows/5', 'liluacrobat/Shotgun_inStrain/8', 'bhattlab/bhattlab_workflows/24', 'liluacrobat/Shotgun_inStrain/18', 'bhattlab/bhattlab_workflows/9', 'bhattlab/bhattlab_workflows/21', 'liluacrobat/Shotgun_inStrain/12', 'bhattlab/bhattlab_workflows/6', 'liluacrobat/Shotgun_inStrain/14', 'liluacrobat/Shotgun_inStrain/7', 'liluacrobat/Shotgun_inStrain/2', 'bhattlab/bhattlab_workflows/14', 'liluacrobat/Shotgun_inStrain/24', 'liluacrobat/Shotgun_inStrain/15', 'bhattlab/bhattlab_workflows/15', 'bhattlab/bhattlab_workflows/10', 'bhattlab/bhattlab_workflows/16', 'bhattlab/bhattlab_workflows/7', 'bhattlab/bhattlab_workflows/4'}"
+644,fcarelli,33,"{'fcarelli/glre/6', 'fcarelli/glre/5', 'fcarelli/glre/47', 'fcarelli/glre/19', 'fcarelli/glre/37', 'fcarelli/glre/44', 'fcarelli/glre/29', 'fcarelli/glre/34', 'fcarelli/glre/23', 'fcarelli/glre/33', 'fcarelli/glre/16', 'fcarelli/glre/25', 'fcarelli/glre/12', 'fcarelli/glre/20', 'fcarelli/glre/22', 'fcarelli/glre/17', 'fcarelli/glre/10', 'fcarelli/glre/14', 'fcarelli/glre/8', 'fcarelli/glre/30', 'fcarelli/glre/9', 'fcarelli/glre/13', 'fcarelli/glre/24', 'fcarelli/glre/43', 'fcarelli/glre/41', 'fcarelli/glre/7', 'fcarelli/glre/11', 'fcarelli/glre/38', 'fcarelli/glre/46', 'fcarelli/glre/18', 'fcarelli/glre/15', 'fcarelli/glre/35', 'fcarelli/glre/21'}"
+0,vodkatad,28,"{'vodkatad/WXS_SNV/11', 'vodkatad/snakegatk/11', 'vodkatad/snakegatk/5', 'vodkatad/WXS_SNV/15', 'vodkatad/snakegatk/7', 'vodkatad/snakegatk/9', 'vodkatad/snakegatk/12', 'vodkatad/snakegatk/4', 'vodkatad/WXS_SNV/14', 'vodkatad/snakegatk/18', 'vodkatad/WXS_SNV/5', 'vodkatad/WXS_SNV/7', 'vodkatad/snakegatk/14', 'vodkatad/snakegatk/8', 'vodkatad/snakegatk/10', 'vodkatad/snakegatk/13', 'vodkatad/WXS_SNV/4', 'vodkatad/WXS_SNV/3', 'vodkatad/WXS_SNV/13', 'vodkatad/WXS_SNV/10', 'vodkatad/WXS_SNV/9', 'vodkatad/snakegatk/6', 'vodkatad/snakegatk/19', 'vodkatad/WXS_SNV/17', 'vodkatad/WXS_SNV/6', 'vodkatad/WXS_SNV/18', 'vodkatad/snakegatk/20', 'vodkatad/WXS_SNV/16'}"
+413,hnawar,25,"{'mw55309/MAGCloudCosts/1', 'mw55309/MAGCloudCosts/5', 'WatsonLab/GoogleMAGs/8', 'WatsonLab/GoogleMAGs/7', 'WatsonLab/GoogleMAGs/9', 'WatsonLab/GoogleMAGs/1', 'mw55309/MAGCloudCosts/8', 'mw55309/MAGCloudCosts/4', 'mw55309/MAGCloudCosts/14', 'WatsonLab/GoogleMAGs/6', 'mw55309/MAGCloudCosts/13', 'mw55309/MAGCloudCosts/9', 'mw55309/MAGCloudCosts/7', 'mw55309/MAGCloudCosts/11', 'mw55309/MAGCloudCosts/15', 'mw55309/MAGCloudCosts/2', 'mw55309/MAGCloudCosts/12', 'WatsonLab/GoogleMAGs/4', 'mw55309/MAGCloudCosts/3', 'mw55309/MAGCloudCosts/10', 'WatsonLab/GoogleMAGs/10', 'WatsonLab/GoogleMAGs/2', 'WatsonLab/GoogleMAGs/3', 'mw55309/MAGCloudCosts/6', 'WatsonLab/GoogleMAGs/5'}"
+428,mw55309,25,"{'mw55309/MAGCloudCosts/1', 'mw55309/MAGCloudCosts/5', 'WatsonLab/GoogleMAGs/8', 'WatsonLab/GoogleMAGs/7', 'WatsonLab/GoogleMAGs/9', 'WatsonLab/GoogleMAGs/1', 'mw55309/MAGCloudCosts/8', 'mw55309/MAGCloudCosts/4', 'mw55309/MAGCloudCosts/14', 'WatsonLab/GoogleMAGs/6', 'mw55309/MAGCloudCosts/13', 'mw55309/MAGCloudCosts/9', 'mw55309/MAGCloudCosts/7', 'mw55309/MAGCloudCosts/11', 'mw55309/MAGCloudCosts/15', 'mw55309/MAGCloudCosts/2', 'mw55309/MAGCloudCosts/12', 'WatsonLab/GoogleMAGs/4', 'mw55309/MAGCloudCosts/3', 'mw55309/MAGCloudCosts/10', 'WatsonLab/GoogleMAGs/10', 'WatsonLab/GoogleMAGs/2', 'WatsonLab/GoogleMAGs/3', 'mw55309/MAGCloudCosts/6', 'WatsonLab/GoogleMAGs/5'}"
+429,bfremin,21,"{'bhattlab/bhattlab_workflows/8', 'bhattlab/bhattlab_workflows/20', 'bhattlab/bhattlab_workflows/19', 'bhattlab/bhattlab_workflows/12', 'bhattlab/bhattlab_workflows/2', 'bhattlab/bhattlab_workflows/25', 'bhattlab/bhattlab_workflows/3', 'bhattlab/bhattlab_workflows/13', 'bhattlab/bhattlab_workflows/28', 'bhattlab/bhattlab_workflows/27', 'bhattlab/bhattlab_workflows/5', 'bhattlab/bhattlab_workflows/24', 'bhattlab/bhattlab_workflows/9', 'bhattlab/bhattlab_workflows/21', 'bhattlab/bhattlab_workflows/6', 'bhattlab/bhattlab_workflows/14', 'bhattlab/bhattlab_workflows/10', 'bhattlab/bhattlab_workflows/15', 'bhattlab/bhattlab_workflows/16', 'bhattlab/bhattlab_workflows/7', 'bhattlab/bhattlab_workflows/4'}"
+446,huddlej,19,"{'nextstrain/lassa/1', 'nextstrain/rsv/1', 'blab/cartography/11', 'blab/cartography/8', 'blab/cartography/10', 'blab/cartography/9', 'nextstrain/dengue/1', 'blab/cartography/6', 'nextstrain/ebola/1', 'nextstrain/mumps/1', 'nextstrain/avian-flu/1', 'blab/cartography/7', 'blab/cartography/5', 'nextstrain/zika/1', 'blab/cartography/3', 'blab/cartography/4', 'nextstrain/measles/1', 'huddlej/example-nextstrain-workflow/1', 'nextstrain/tb/1'}"
+140,Tu6ka,16,"{'maxlcummins/pipelord/11', 'maxlcummins/pipelord/15', 'maxlcummins/pipelord/18', 'maxlcummins/pipelord/12', 'maxlcummins/pipelord/2', 'maxlcummins/pipelord/14', 'maxlcummins/pipelord/21', 'maxlcummins/pipelord/5', 'maxlcummins/pipelord/20', 'maxlcummins/pipelord/10', 'maxlcummins/pipelord/6', 'maxlcummins/pipelord/1', 'maxlcummins/pipelord/19', 'maxlcummins/pipelord/13', 'maxlcummins/pipelord/7', 'maxlcummins/pipelord/17'}"
+587,maxlcummins,16,"{'maxlcummins/pipelord/11', 'maxlcummins/pipelord/15', 'maxlcummins/pipelord/18', 'maxlcummins/pipelord/12', 'maxlcummins/pipelord/2', 'maxlcummins/pipelord/14', 'maxlcummins/pipelord/21', 'maxlcummins/pipelord/5', 'maxlcummins/pipelord/20', 'maxlcummins/pipelord/10', 'maxlcummins/pipelord/6', 'maxlcummins/pipelord/1', 'maxlcummins/pipelord/19', 'maxlcummins/pipelord/13', 'maxlcummins/pipelord/7', 'maxlcummins/pipelord/17'}"
+192,Redmar-van-den-Berg,14,"{'Miachol/hamlet/9', 'Miachol/hamlet/3', 'LUMC/HAMLET/5', 'Miachol/hamlet/7', 'LUMC/hutspot/1', 'LUMC/HAMLET/3', 'LUMC/HAMLET/6', 'LUMC/HAMLET/8', 'Miachol/hamlet/8', 'Miachol/hamlet/2', 'Miachol/hamlet/6', 'Miachol/hamlet/4', 'LUMC/HAMLET/2', 'LUMC/HAMLET/7'}"
+229,jbloom,14,"{'jbloomlab/SARS-CoV-2-RBD_MAP_Ellebedy_Abs/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_Vir_mAbs/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_LY-CoV555/1', 'jbloom/SARS-CoV-2_PRJNA612766/1', 'jbloomlab/SARS-CoV-2-RBD_DMS/1', 'jbloomlab/CoV_229E_antigenic_drift/1', 'jbloom/SARS-CoV-2_Shen_et_al/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_Crowe_antibodies/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_Moderna/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_clinical_Abs/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_AZ_Abs/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_RBD-nano-vax-NHP1/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_Rockefeller/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_HAARVI_sera/1'}"
+487,arushiv,14,"{'arushiv/regulatoryAnnotations_comparisons/12', 'arushiv/regulatoryAnnotations_comparisons/7', 'arushiv/regulatoryAnnotations_comparisons/10', 'arushiv/regulatoryAnnotations_comparisons/6', 'arushiv/islet_cage/3', 'arushiv/regulatoryAnnotations_comparisons/3', 'arushiv/islet_cage/8', 'arushiv/gwas_NHGRI/1', 'arushiv/regulatoryAnnotations_comparisons/15', 'arushiv/islet_cage/2', 'arushiv/islet_cage/7', 'arushiv/regulatoryAnnotations_comparisons/8', 'arushiv/regulatoryAnnotations_comparisons/19', 'arushiv/regulatoryAnnotations_comparisons/16'}"
+378,bow,13,"{'Miachol/hamlet/9', 'Miachol/hamlet/3', 'LUMC/HAMLET/5', 'Miachol/hamlet/7', 'LUMC/HAMLET/3', 'LUMC/HAMLET/6', 'LUMC/HAMLET/8', 'Miachol/hamlet/8', 'Miachol/hamlet/2', 'Miachol/hamlet/6', 'Miachol/hamlet/4', 'LUMC/HAMLET/2', 'LUMC/HAMLET/7'}"
+70,crazyhottommy,13,"{'liulab-dfci/CHIPS/19', 'liulab-dfci/CHIPS/11', 'liulab-dfci/CHIPS/12', 'liulab-dfci/CHIPS/24', 'liulab-dfci/MAESTRO/4', 'crazyhottommy/pyflow-ChIPseq/1', 'liulab-dfci/CHIPS/3', 'liulab-dfci/MAESTRO/5', 'liulab-dfci/CHIPS/9', 'liulab-dfci/CHIPS/4', 'liulab-dfci/CHIPS/13', 'WeiSong-bio/PocketChangeJ-pyflow-ChIPseq/1', 'liulab-dfci/CHIPS/2'}"
+244,gavinband,13,"{'longread-well/bakeoff/10', 'longread-well/bakeoff/9', 'longread-well/bakeoff/14', 'longread-well/bakeoff/15', 'longread-well/shortread-pipeline/2', 'longread-well/shortread-pipeline/4', 'longread-well/shortread-pipeline/3', 'longread-well/bakeoff/19', 'longread-well/shortread-pipeline/1', 'longread-well/shortread-pipeline/5', 'longread-well/bakeoff/12', 'longread-well/bakeoff/11', 'longread-well/bakeoff/7'}"
+120,tylernstarr,12,"{'jbloomlab/SARS-CoV-2-RBD_B.1.351/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_Ellebedy_Abs/1', 'jbloomlab/SARSr-CoV_homolog_survey/1', 'jbloomlab/SARSr-CoV_RBD_MAP/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_Vir_mAbs/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_LY-CoV555/1', 'jbloomlab/SARS-CoV-2-RBD_DMS/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_Crowe_antibodies/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_clinical_Abs/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_AZ_Abs/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_S2K146/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_minibinders/1'}"
+239,baigal628,11,"{'liulab-dfci/CHIPS/19', 'liulab-dfci/CHIPS/11', 'liulab-dfci/CHIPS/12', 'liulab-dfci/CHIPS/24', 'liulab-dfci/MAESTRO/4', 'liulab-dfci/CHIPS/3', 'liulab-dfci/MAESTRO/5', 'liulab-dfci/CHIPS/9', 'liulab-dfci/CHIPS/4', 'liulab-dfci/CHIPS/13', 'liulab-dfci/CHIPS/2'}"
+502,liulab-dfci,11,"{'liulab-dfci/CHIPS/19', 'liulab-dfci/CHIPS/11', 'liulab-dfci/CHIPS/12', 'liulab-dfci/CHIPS/24', 'liulab-dfci/MAESTRO/4', 'liulab-dfci/CHIPS/3', 'liulab-dfci/MAESTRO/5', 'liulab-dfci/CHIPS/9', 'liulab-dfci/CHIPS/4', 'liulab-dfci/CHIPS/13', 'liulab-dfci/CHIPS/2'}"
+479,kuruis,11,"{'eanbit-rt/ReproducibleResearch/6', 'eanbit-rt/ReproducibleResearch/7', 'eanbit-rt/ReproducibleResearch/8', 'eanbit-rt/ReproducibleResearch/3', 'eanbit-rt/ReproducibleResearch/4', 'eanbit-rt/ReproducibleResearch/10', 'eanbit-rt/ReproducibleResearch/5', 'eanbit-rt/ReproducibleResearch/9', 'eanbit-rt/ReproducibleResearch/2', 'eanbit-rt/ReproducibleResearch/1', 'eanbit-rt/ReproducibleResearch/11'}"
+643,jaimicore,11,"{'jaimicore/Epromoters/1', 'jaimicore/JASPAR_2020/5', 'jaimicore/JASPAR_2020/1', 'jaimicore/JASPAR_2020/7', 'arielgalindoalbarran/Epromoters/4', 'arielgalindoalbarran/Epromoters/1', 'jaimicore/Epromoters/4', 'jaimicore/JASPAR_2020/3', 'jaimicore/JASPAR_2020/4', 'jaimicore/JASPAR_2020/2', 'jaimicore/JASPAR_2020/6'}"
+88,trvrb,10,"{'nextstrain/dengue/1', 'nextstrain/measles/1', 'nextstrain/ebola/1', 'nextstrain/lassa/1', 'nextstrain/mumps/1', 'nextstrain/avian-flu/1', 'nextstrain/zika/1', 'nextstrain/rsv/1', 'nextstrain/mers-beast-tutorial/1', 'nextstrain/tb/1'}"
+547,ajgreaney,10,"{'jbloomlab/SARS-CoV-2-RBD_B.1.351/1', 'jbloomlab/SARS-CoV-2-RBD_DMS/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_Crowe_antibodies/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_Moderna/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_clinical_Abs/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_AZ_Abs/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_COV2-2955/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_RBD-nano-vax-NHP1/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_Rockefeller/1', 'jbloomlab/SARS-CoV-2-RBD_MAP_HAARVI_sera/1'}"
+231,dbrg77,10,"{'dbrg77/plate_scATAC-seq/4', 'dbrg77/plate_scATAC-seq/8', 'dbrg77/plate_scATAC-seq/5', 'dbrg77/scATAC_snakemake/3', 'dbrg77/scATAC_snakemake/2', 'dbrg77/plate_scATAC-seq/7', 'dbrg77/plate_scATAC-seq/2', 'dbrg77/scATAC_snakemake/1', 'dbrg77/plate_scATAC-seq/1', 'dbrg77/plate_scATAC-seq/6'}"
+132,Ellis-Anderson,10,"{'CGI-stLFR/CGI_WGS_Pipeline/1', 'CGI-stLFR/CGI_WGS_Pipeline/8', 'CGI-stLFR/CGI_supernova_Pipeline/1', 'CGI-stLFR/CGI_de_novo_real_Pipeline_no_seed/1', 'CGI-stLFR/CGI_WGS_Pipeline/2', 'CGI-stLFR/CGI_de_novo_real_Pipeline/1', 'CGI-stLFR/CGI_de_novo_sim_Pipeline/1', 'CGI-stLFR/CGI_de_novo_sim_Pipeline_no_seed/1', 'CGI-stLFR/CGI_WGS_Pipeline/4', 'CGI-stLFR/CGI_WGS_Pipeline/3'}"
+632,vrmarcelino,10,"{'vrmarcelino/MetaModels/1', 'vrmarcelino/MetaModels/9', 'vrmarcelino/MetaModels/8', 'vrmarcelino/MetaModels/11', 'vrmarcelino/MetaModels/3', 'vrmarcelino/MetaModels/5', 'vrmarcelino/MetaModels/4', 'vrmarcelino/MetaModels/10', 'vrmarcelino/MetaModels/2', 'vrmarcelino/MetaModels/12'}"
+609,annazhukova,10,"{'evolbioinfo/zika_Vietnam/1', 'evolbioinfo/phylocovid/3', 'evolbioinfo/HIV1-CRF19_Cuba/1', 'evolbioinfo/phylocovid/5', 'evolbioinfo/zika_Vietnam/4', 'evolbioinfo/zika_Vietnam/5', 'evolbioinfo/HIV1-CRF19_Cuba/4', 'evolbioinfo/phylocovid/4', 'evolbioinfo/HIV1-CRF19_Cuba/2', 'evolbioinfo/zika_Vietnam/3'}"
+512,alliblk,9,"{'blab/cartography/8', 'blab/cartography/4', 'blab/cartography/6', 'blab/cartography/10', 'blab/cartography/9', 'blab/cartography/7', 'blab/cartography/5', 'blab/cartography/3', 'blab/cartography/11'}"
+360,Shmuppel,9,"{'Shmuppel/diagnostic-genome-analysis/3', 'Shmuppel/diagnostic-genome-analysis/18', 'Shmuppel/diagnostic-genome-analysis/6', 'Shmuppel/diagnostic-genome-analysis/16', 'Shmuppel/diagnostic-genome-analysis/4', 'Shmuppel/diagnostic-genome-analysis/14', 'Shmuppel/diagnostic-genome-analysis/10', 'Shmuppel/diagnostic-genome-analysis/17', 'Shmuppel/diagnostic-genome-analysis/7'}"
+1,ecalfee,9,"{'ecalfee/hilo/11', 'ecalfee/hilo/9', 'ecalfee/hilo/4', 'ecalfee/hilo/3', 'ecalfee/hilo/12', 'ecalfee/hilo/5', 'ecalfee/hilo/6', 'ecalfee/hilo/2', 'ecalfee/hilo/13'}"
+151,nandsra21,9,"{'blab/cartography/8', 'blab/cartography/4', 'blab/cartography/6', 'blab/cartography/10', 'blab/cartography/9', 'blab/cartography/7', 'blab/cartography/5', 'blab/cartography/3', 'blab/cartography/11'}"
+255,sskashaf,9,"{'Finn-Lab/MAG_Snakemake_wf/9', 'skinmicrobiome/skin_MAGs/1', 'Finn-Lab/MAG_Snakemake_wf/6', 'Finn-Lab/MAG_Snakemake_wf/8', 'skinmicrobiome/skin_MAGs/6', 'Finn-Lab/skin_microbiome/6', 'Finn-Lab/MAG_Snakemake_wf/4', 'Finn-Lab/MAG_Snakemake_wf/7', 'Finn-Lab/skin_microbiome/1'}"
+562,troyrowan,9,"{'troyrowan/imputation-pipeline/5', 'troyrowan/imputation-pipeline/12', 'troyrowan/imputation-pipeline/4', 'troyrowan/imputation-pipeline/10', 'troyrowan/imputation-pipeline/11', 'troyrowan/imputation-pipeline/6', 'troyrowan/imputation-pipeline/8', 'troyrowan/imputation-pipeline/9', 'troyrowan/imputation-pipeline/1'}"
+191,pablo-gar,8,"{'pablo-gar/somatic_mutations_GTEx/3', 'pablo-gar/somatic_mutations_GTEx/9', 'pablo-gar/somatic_mutations_GTEx/5', 'pablo-gar/somatic_mutations_GTEx/18', 'pablo-gar/somatic_mutations_GTEx/11', 'pablo-gar/somatic_mutations_GTEx/15', 'pablo-gar/somatic_mutations_GTEx/1', 'pablo-gar/somatic_mutations_GTEx/16'}"
+674,mgalland,8,"{'BleekerLab/rnaseq-analysis-kallisto-sleuth/1', 'KoesGroup/Snakemake_salmon/1', 'mgalland/neurofjacobs/2', 'KoesGroup/Snakemake_trinity/1', 'KoesGroup/Snakemake_hisat-DESeq/1', 'BleekerLab/genotype_from_rnaseq/1', 'BleekerLab/snakemake_rnaseq/1', 'mgalland/neurofjacobs/1'}"
+157,miramastoras,8,"{'mydennislab/snake-fastcn/2', 'hennlab/snake-IBDne/2', 'mydennislab/snake-chipseq/2', 'hennlab/snake-SNP_QC/1', 'mydennislab/snake-chipseq/1', 'mydennislab/snake-fastcn/1', 'hennlab/AS-IBDNe/1', 'hennlab/snake-IBDne/1'}"
+528,bricoletc,8,"{'iqbal-lab-org/paper_gramtools_nesting/5', 'iqbal-lab-org/paper_gramtools_nesting/7', 'iqbal-lab-org/paper_gramtools_nesting/8', 'iqbal-lab-org/paper_gramtools_nesting/9', 'iqbal-lab-org/paper_gramtools_nesting/3', 'iqbal-lab-org/paper_gramtools_nesting/6', 'iqbal-lab-org/paper_gramtools_nesting/2', 'iqbal-lab-org/paper_gramtools_nesting/1'}"
+203,jfear,8,"{'jfear/ncbi_remap/8', 'jfear/ncbi_remap/16', 'jfear/ncbi_remap/15', 'lcdb/lcdb-test-data/1', 'jfear/sdic_query/1', 'jfear/ncbi_remap/14', 'Fear-Lab/biost2036-modern-methods/1', 'jfear/ncbi_remap/13'}"
+216,jzhang1994,8,"{'longread-well/bakeoff/10', 'longread-well/bakeoff/14', 'longread-well/bakeoff/9', 'longread-well/bakeoff/15', 'longread-well/bakeoff/19', 'longread-well/bakeoff/12', 'longread-well/bakeoff/11', 'longread-well/bakeoff/7'}"
+549,csoeder,7,"{'csoeder/VolkanLab_BehaviorGenetics/2', 'csoeder/PsiSeq2/2', 'csoeder/VolkanLab_BehaviorGenetics/3', 'csoeder/PsiSeq2/1', 'csoeder/VolkanLab_BehaviorGenetics/1', 'csoeder/VolkanLab_BehaviorGenetics/4', 'csoeder/PsiSeq2/3'}"
+550,itatop,7,"{'itatop/popsimenv/5', 'itatop/popsimenv/3', 'itatop/popsimenv/7', 'itatop/popsimenv/4', 'itatop/popsimenv/2', 'itatop/popsimenv/1', 'itatop/popsimenv/6'}"
+527,yss1,7,"{'songlab-cal/scquint/6', 'songlab-cal/scquint/3', 'songlab-cal/scquint/1', 'songlab-cal/scquint/5', 'songlab-cal/scquint/2', 'songlab-cal/scquint/4', 'songlab-cal/scquint/7'}"
+212,yeroslaviz,7,"{'yeroslaviz/bcfngs_Mapping_automation/6', 'yeroslaviz/bcfngs_Mapping_automation/5', 'yeroslaviz/bcfngs_Mapping_automation/2', 'yeroslaviz/bcfngs_Mapping_automation/7', 'yeroslaviz/bcfngs_Mapping_automation/4', 'yeroslaviz/bcfngs_Mapping_automation/1', 'yeroslaviz/bcfngs_Mapping_automation/3'}"
+245,paudano,7,"{'paudano/pbsv/4', 'EichlerLab/pav/6', 'EichlerLab/sniffles/1', 'EichlerLab/pbsv/3', 'EichlerLab/pav/2', 'paudano/pbsv/3', 'EichlerLab/pbsv/4'}"
+371,robinvanderlee,7,"{'jaimicore/JASPAR_2020/5', 'jaimicore/JASPAR_2020/1', 'jaimicore/JASPAR_2020/7', 'jaimicore/JASPAR_2020/3', 'jaimicore/JASPAR_2020/4', 'jaimicore/JASPAR_2020/2', 'jaimicore/JASPAR_2020/6'}"
+102,natir,7,"{'natir/yacrd-and-fpa-upstream-tools-for-lr-genome-assembly/5', 'natir/yacrd-and-fpa-upstream-tools-for-lr-genome-assembly/4', 'natir/yacrd-and-fpa-upstream-tools-for-lr-genome-assembly/3', 'natir/yacrd-and-fpa-upstream-tools-for-lr-genome-assembly/2', 'natir/yacrd-and-fpa-upstream-tools-for-lr-genome-assembly/6', 'natir/project-diploid-assembly-UAB-graph-analysis/1', 'natir/yacrd-and-fpa-upstream-tools-for-lr-genome-assembly/1'}"
+613,alexzaccaron,7,"{'alexzaccaron/2021_pms_mt/2', 'alexzaccaron/2021_enec_mt/5', 'alexzaccaron/2021_enec_mt/6', 'alexzaccaron/2021_pms_mt/1', 'alexzaccaron/2021_enec_mt/4', 'alexzaccaron/2021_pms_mt/4', 'alexzaccaron/2021_enec_mt/3'}"
+345,golankai,7,"{'itatop/popsimenv/5', 'itatop/popsimenv/3', 'itatop/popsimenv/7', 'itatop/popsimenv/4', 'itatop/popsimenv/2', 'itatop/popsimenv/1', 'itatop/popsimenv/6'}"
+431,gonzalobenegas,7,"{'songlab-cal/scquint/6', 'songlab-cal/scquint/3', 'songlab-cal/scquint/1', 'songlab-cal/scquint/5', 'songlab-cal/scquint/2', 'songlab-cal/scquint/4', 'songlab-cal/scquint/7'}"
+221,fabiopuddu,6,"{'fabiopuddu/augur-fermentorum/9', 'fabiopuddu/augur-fermentorum/8', 'fabiopuddu/augur-fermentorum/3', 'fabiopuddu/augur-fermentorum/2', 'fabiopuddu/augur-fermentorum/6', 'fabiopuddu/augur-fermentorum/4'}"
+568,vangalamaheshh,6,"{'dst-umms/MAMBA/9', 'dst-umms/MAMBA/4', 'hanfeisun/viper-rnaseq/1', 'dst-umms/MAMBA/8', 'dst-umms/MAMBA/2', 'dst-umms/MAMBA/11'}"
+28,danlooo,6,"{'bioinformatics-leibniz-hki/DAnIEL/1', 'bioinformatics-leibniz-hki/DAnIEL/9', 'bioinformatics-leibniz-hki/DAnIEL/3', 'bioinformatics-leibniz-hki/DAnIEL/8', 'bioinformatics-leibniz-hki/DAnIEL/10', 'bioinformatics-leibniz-hki/DAnIEL/5'}"
+197,tijsbliek,6,"{'BleekerLab/rnaseq-analysis-kallisto-sleuth/1', 'KoesGroup/Snakemake_salmon/1', 'KoesGroup/Snakemake_trinity/1', 'KoesGroup/Snakemake_plant_methylSeekR/1', 'KoesGroup/Snakemake_hisat-DESeq/1', 'BleekerLab/snakemake_rnaseq/1'}"
+619,harlydurbin,6,"{'harlydurbin/bovine_demo/1', 'harlydurbin/bovine_demo/4', 'harlydurbin/bovine_demo/9', 'harlydurbin/bovine_demo/8', 'harlydurbin/bovine_demo/13', 'harlydurbin/bovine_demo/10'}"
+109,terrimporter,6,"{'terrimporter/SCVUIU_ITS_metabarcode_pipeline/1', 'Hajibabaei-Lab/SCVUC_COI_metabarcode_pipeline/1', 'Hajibabaei-Lab/SCVUC_COI_metabarcode_pipeline/2', 'terrimporter/SCVUR_16S_metabarcode_pipeline/1', 'terrimporter/SCVURL_rbcL_metabarcode_pipeline/1', 'terrimporter/SCVUS_18S_metabarcode_pipeline/1'}"
+174,ia327,6,"{'fabiopuddu/augur-fermentorum/9', 'fabiopuddu/augur-fermentorum/8', 'fabiopuddu/augur-fermentorum/3', 'fabiopuddu/augur-fermentorum/2', 'fabiopuddu/augur-fermentorum/6', 'fabiopuddu/augur-fermentorum/4'}"
+232,boasvdp,6,"{'boasvdp/COMBAT/2', 'niekh-13/phylogenetic_workflows/2', 'boasvdp/COMBAT/1', 'niekh-13/phylogenetic_workflows/1', 'niekh-13/phylogenetic_workflows/3', 'boasvdp/COMBAT/3'}"
+582,sraorao,6,"{'sraorao/snakemake_cc_2021/7', 'sraorao/snakemake_GMS_MT2021/6', 'sraorao/snakemake_code_clinic_2/1', 'sraorao/snakemake_cc_2021/6', 'sraorao/snakemake_code_clinic_2/3', 'sraorao/snakemake_code_clinic_2/4'}"
+69,fburic,6,"{'franciscozorrilla/metaGEM/3', 'franciscozorrilla/metaGEM/1', 'fburic/candia/5', 'franciscozorrilla/metaGEM/2', 'fburic/candia/6', 'fburic/candia/1'}"
+704,linsalrob,6,"{'linsalrob/atavide/6', 'linsalrob/atavide/10', 'linsalrob/PPPF/1', 'linsalrob/PPPF/2', 'linsalrob/atavide/11', 'linsalrob/atavide/7'}"
+664,arcadianlyric,5,"{'CGI-stLFR/CGI_WGS_Pipeline/1', 'CGI-stLFR/CGI_WGS_Pipeline/8', 'CGI-stLFR/CGI_WGS_Pipeline/2', 'CGI-stLFR/CGI_WGS_Pipeline/3', 'CGI-stLFR/CGI_WGS_Pipeline/4'}"
+490,mestill7,5,"{'shenlab-sinai/Isoseq_processing/1', 'mestill7/Isoseq_processing/1', 'mestill7/CutAndRun/1', 'mestill7/HiC-fast/1', 'shenlab-sinai/NGS-Data-Charmer/1'}"
+207,andersonbrito,5,"{'andersonbrito/ncov/1', 'andersonbrito/ncovbr/1', 'grubaughlab/ncov/1', 'andersonbrito/latamvoc/1', 'andersonbrito/subsampler/1'}"
+368,emmahodcroft,5,"{'nextstrain/enterovirus_d68/1', 'nextstrain/cov/1', 'emmahodcroft/enterovirus_genome/1', 'nextstrain/tb/1', 'emmahodcroft/enterovirus_vp1/1'}"
+472,sagrudd,5,"{'imilenkovic/cDNA_DESeq2/1', 'nanoporetech/pipeline-transcriptome-de/1', 'callumparr/ont_tutorial_cdna_deseq2/1', 'rmtsoa/ont_tutorial_pinfish/1', 'callumparr/ont_tutorial_transcriptome/1'}"
+112,tsibley,5,"{'nextstrain/ebola/1', 'nextstrain/lassa/1', 'nextstrain/mumps/1', 'nextstrain/zika/1', 'nextstrain/tb/1'}"
+15,aryarm,5,"{'aryarm/as_analysis/2', 'aryarm/as_analysis/4', 'aryarm/as_analysis/3', 'aryarm/str_ase/1', 'aryarm/motif_check/1'}"
+710,mberacochea,5,"{'Finn-Lab/MAG_Snakemake_wf/9', 'Finn-Lab/MAG_Snakemake_wf/6', 'Finn-Lab/MAG_Snakemake_wf/8', 'Finn-Lab/MAG_Snakemake_wf/4', 'Finn-Lab/MAG_Snakemake_wf/7'}"
+376,liz-is,5,"{'vaquerizaslab/Ing-Simmons_et_al_dorsoventral_3D_genome/2', 'vaquerizaslab/Ing-Simmons_et_al_dorsoventral_3D_genome/4', 'vaquerizaslab/Ing-Simmons_et_al_dorsoventral_3D_genome/1', 'vaquerizaslab/chess-2021/1', 'vaquerizaslab/Ing-Simmons_et_al_dorsoventral_3D_genome/3'}"
+694,thw17,5,"{'thw17/ASU_BIO543_Genome_Assembly_2018/1', 'thw17/Sifaka_assembly/1', 'thw17/Mayo_breast_cancer_heterogeneity_assembly/1', 'thw17/Rupp_etal_Anole_DosageCompensation/1', 'thw17/Mayo_breast_cancer_heterogeneity_assembly/2'}"
+693,wdeleeuw,5,"{'UvA-MAD/NGS-pipelines/1', 'UvA-MAD/NGS-pipelines/4', 'UvA-MAD/NGS-pipelines/5', 'UvA-MAD/NGS-pipelines/2', 'UvA-MAD/NGS-pipelines/3'}"
+480,cchauve,5,"{'vpc-ccg/freddie/1', 'cchauve/AGapEs/3', 'cchauve/AGapEs/4', 'nluhmann/AGapEs/3', 'nluhmann/AGapEs/4'}"
+567,kapelletier,5,"{'dst-umms/MAMBA/9', 'dst-umms/MAMBA/4', 'dst-umms/MAMBA/8', 'dst-umms/MAMBA/2', 'dst-umms/MAMBA/11'}"
+238,vaquerizaslab,5,"{'vaquerizaslab/Ing-Simmons_et_al_dorsoventral_3D_genome/2', 'vaquerizaslab/Ing-Simmons_et_al_dorsoventral_3D_genome/4', 'vaquerizaslab/Ing-Simmons_et_al_dorsoventral_3D_genome/1', 'vaquerizaslab/chess-2021/1', 'vaquerizaslab/Ing-Simmons_et_al_dorsoventral_3D_genome/3'}"
+615,tijeco,4,"{'tijeco/FUSTr/6', 'tijeco/FUSTr/1', 'tijeco/FUSTr/7', 'tijeco/FUSTr/3'}"
+433,GSalma,4,"{'PEDIA-Charite/PEDIA-workflow/12', 'PEDIA-Charite/PEDIA-workflow/11', 'PEDIA-Charite/PEDIA-workflow/1', 'PEDIA-Charite/PEDIA-workflow/4'}"
+530,jvanheld,4,"{'jaimicore/Epromoters/1', 'jaimicore/Epromoters/4', 'arielgalindoalbarran/Epromoters/4', 'arielgalindoalbarran/Epromoters/1'}"
+149,leahkemp,4,"{'leahkemp/testing_seattleflu_assembly/1', 'leahkemp/testing_seattleflu_assembly/3', 'leahkemp/testing_seattleflu_assembly/4', 'leahkemp/testing_seattleflu_assembly/2'}"
+110,fredericlemoine,4,"{'evolbioinfo/zika_Vietnam/1', 'evolbioinfo/zika_Vietnam/4', 'evolbioinfo/zika_Vietnam/3', 'evolbioinfo/zika_Vietnam/5'}"
+49,dfloresDIL,4,"{'dfloresDIL/MEGA/4', 'dfloresDIL/MEGA/2', 'dfloresDIL/MEGA/3', 'dfloresDIL/MEGA/1'}"
+327,hchyang,4,"{'hchyang/PSiTE/2', 'hchyang/PSiTE/1', 'hchyang/PSiTE/3', 'hchyang/PSiTE/4'}"
+606,la60312,4,"{'PEDIA-Charite/PEDIA-workflow/12', 'PEDIA-Charite/PEDIA-workflow/11', 'PEDIA-Charite/PEDIA-workflow/1', 'PEDIA-Charite/PEDIA-workflow/4'}"
+8,dcsoto,4,"{'mydennislab/snake-chipseq/2', 'mydennislab/snake-chipseq/1', 'mydennislab/snake-fastcn/2', 'mydennislab/snake-fastcn/1'}"
+37,daler,4,"{'lcdb/lcdb-test-data-human/1', 'lcdb/lcdb-test-data/1', 'daler/chromhmm-enhancers-umel/1', 'daler/chromhmm-enhancers-umel/2'}"
+181,elfyly,4,"{'naturalis/brassicaceae-hybseq-pipeline/1', 'naturalis/brassicaceae-hybseq-pipeline/4', 'naturalis/brassicaceae-hybseq-pipeline/3', 'naturalis/brassicaceae-hybseq-pipeline/2'}"
+524,penglbio,4,"{'penglbio/RNA_Seq/2', 'penglbio/Trinity/1', 'penglbio/RNA_Seq/1', 'penglbio/RNA_Seq/3'}"
+179,timodonnell,4,"{'lasersonlab/phip-stat/3', 'lasersonlab/phip-stat/5', 'lasersonlab/phip-stat/1', 'lasersonlab/phip-stat/2'}"
+25,MigleSur,4,"{'MigleSur/Pactyper/1', 'MigleSur/BacDist/2', 'MigleSur/BacDist/1', 'MigleSur/Pactyper/2'}"
+339,icelu,4,"{'hchyang/PSiTE/2', 'hchyang/PSiTE/1', 'hchyang/PSiTE/3', 'hchyang/PSiTE/4'}"
+539,halexand,4,"{'shu251/tagseq-qiime2-snakemake/2', 'halexand/BUSCO-MAG-Phylogeny/1', 'shu251/tagseq-qiime2-snakemake/1', 'halexand/BUSCO-MAG-Phylogeny/2'}"
+317,guyov1,4,"{'PEDIA-Charite/PEDIA-workflow/12', 'PEDIA-Charite/PEDIA-workflow/11', 'PEDIA-Charite/PEDIA-workflow/1', 'PEDIA-Charite/PEDIA-workflow/4'}"
+39,laserson,4,"{'lasersonlab/phip-stat/3', 'lasersonlab/phip-stat/5', 'lasersonlab/phip-stat/1', 'lasersonlab/phip-stat/2'}"
+318,jlanga,4,"{'jlanga/smsk_smrtanalysis/5', 'jlanga/smsk_pantherscore/4', 'jlanga/smsk_smrtanalysis/2', 'jlanga/ttin_assembly/1'}"
+143,sztankatt,4,"{'sztankatt/brandeis-secondment/2', 'sztankatt/brandeis-secondment/1', 'sztankatt/brandeis-secondment/5', 'sztankatt/brandeis-secondment/4'}"
+614,HanqingZhao97,4,"{'kkchau/RNAseq_Pipeline/5', 'kkchau/RNAseq_Pipeline/4', 'kkchau/RNAseq_Pipeline/3', 'kkchau/RNAseq_Pipeline/2'}"
+106,alexhbnr,4,"{'alexhbnr/mitoBench-ancientMT/2', 'alexhbnr/effect_aDNAdamage_denovoassembly/1', 'alexhbnr/ONTseq_QC/1', 'alexhbnr/mitoBench-ancientMT/1'}"
+321,amedina-liigh,4,"{'jaimicore/Epromoters/1', 'jaimicore/Epromoters/4', 'arielgalindoalbarran/Epromoters/4', 'arielgalindoalbarran/Epromoters/1'}"
+171,visze,4,"{'PEDIA-Charite/PEDIA-workflow/12', 'PEDIA-Charite/PEDIA-workflow/11', 'PEDIA-Charite/PEDIA-workflow/1', 'PEDIA-Charite/PEDIA-workflow/4'}"
+27,susheelbhanu,4,"{'Mass23/EUCI_microbiome/5', 'Mass23/EUCI_microbiome/2', 'Mass23/EUCI_microbiome/4', 'susheelbhanu/snakemake-tutorial/1'}"
+26,c-mertes,4,"{'gagneurlab/OUTRIDER-analysis/2', 'gagneurlab/FRASER-analysis/1', 'gagneurlab/OUTRIDER-analysis/1', 'gagneurlab/ALS-kaggle/1'}"
+104,arielgalindoalbarran,4,"{'jaimicore/Epromoters/1', 'jaimicore/Epromoters/4', 'arielgalindoalbarran/Epromoters/4', 'arielgalindoalbarran/Epromoters/1'}"
+32,swo,4,"{'openbiome/donor-effects/3', 'openbiome/donors-16s/1', 'openbiome/donor-effects/2', 'openbiome/donor-effects/1'}"
+467,yongchao,4,"{'yongchao/motrpac_rnaseq/1', 'yongchao/motrpac_rrbs/1', 'yongchao/motrpac_rnaseq/4', 'yongchao/motrpac_rnaseq/2'}"
+705,jakob-he,4,"{'PEDIA-Charite/PEDIA-workflow/12', 'PEDIA-Charite/PEDIA-workflow/11', 'PEDIA-Charite/PEDIA-workflow/1', 'PEDIA-Charite/PEDIA-workflow/4'}"
+263,kkchau,4,"{'kkchau/RNAseq_Pipeline/5', 'kkchau/RNAseq_Pipeline/4', 'kkchau/RNAseq_Pipeline/3', 'kkchau/RNAseq_Pipeline/2'}"
+223,guillaumecharbonnier,4,"{'jaimicore/Epromoters/1', 'jaimicore/Epromoters/4', 'arielgalindoalbarran/Epromoters/4', 'arielgalindoalbarran/Epromoters/1'}"
+566,oskarvid,4,"{'oskarvid/snakemake_germline_legacy/1', 'oskarvid/snakemake-intro/1', 'oskarvid/snakemake-intro/3', 'oskarvid/snakemake-intro/2'}"
+285,chrishah,4,"{'chrishah/prepro/1', 'chrishah/phylogenomics-intro/1', 'chrishah/prepro/2', 'chrishah/AMEB_HPC_Snakemake/1'}"
+686,xiamaz,4,"{'PEDIA-Charite/PEDIA-workflow/12', 'PEDIA-Charite/PEDIA-workflow/11', 'PEDIA-Charite/PEDIA-workflow/1', 'PEDIA-Charite/PEDIA-workflow/4'}"
+599,rvosa,4,"{'naturalis/brassicaceae-hybseq-pipeline/1', 'naturalis/brassicaceae-hybseq-pipeline/4', 'naturalis/brassicaceae-hybseq-pipeline/3', 'naturalis/brassicaceae-hybseq-pipeline/2'}"
+272,scottgigante,4,"{'scottgigante/haplotyped-methylome/5', 'scottgigante/haplotyped-methylome/9', 'scottgigante/haplotyped-methylome/8', 'scottgigante/haplotyped-methylome/6'}"
+382,aineniamh,4,"{'futureprof2/artic-noro/2', 'aineniamh/artic-noro/3', 'aineniamh/artic-noro/2', 'futureprof2/artic-noro/3'}"
+204,jffcole7,4,"{'tijeco/FUSTr/6', 'tijeco/FUSTr/1', 'tijeco/FUSTr/7', 'tijeco/FUSTr/3'}"
+295,Oli4,4,"{'PEDIA-Charite/PEDIA-workflow/12', 'PEDIA-Charite/PEDIA-workflow/11', 'PEDIA-Charite/PEDIA-workflow/1', 'PEDIA-Charite/PEDIA-workflow/4'}"
+463,mchaisso,3,"{'ChaissonLab/danbing-tk/2', 'ChaissonLab/danbing-tk/1', 'ChaissonLab/danbing-tk/3'}"
+535,ajtock,3,"{'ajtock/Wheat_DMC1_ASY1_paper/5', 'ajtock/Wheat_DMC1_ASY1_paper/4', 'ajtock/Wheat_DMC1_ASY1_paper/3'}"
+266,mfansler,3,"{'Mayrlab/atlas-mm/1', 'Mayrlab/txcutr-db/1', 'Mayrlab/scUTRquant/1'}"
+322,taylorreiter,3,"{'montpetitlab/Aguilar_and_Paul_et_al_2020/3', 'montpetitlab/Aguilar_and_Paul_et_al_2020/1', 'montpetitlab/Aguilar_and_Paul_et_al_2020/2'}"
+323,rob-p,3,"{'COMBINE-lab/pufferfish_experiments/3', 'COMBINE-lab/pufferfish_experiments/2', 'COMBINE-lab/pufferfish_experiments/1'}"
+603,YutingPKU,3,"{'YutingPKU/Bulk_RNA-Seq_Workflow_Snakemake/3', 'YutingPKU/Bulk_RNA-Seq_Workflow_Snakemake/11', 'YutingPKU/Bulk_RNA-Seq_Workflow_Snakemake/5'}"
+262,Jeremy37,3,"{'opentargets/genetics-v2g-data/5', 'opentargets/genetics-v2d-data/6', 'opentargets/genetics-v2g-data/2'}"
+583,pmenzel,3,"{'pmenzel/ont-assembly-snake/1', 'pmenzel/score-assemblies/1', 'pmenzel/illumina-assembly-snake/1'}"
+3,filcfig,3,"{'filcfig/PCP/3', 'filcfig/PCP/2', 'filcfig/PCP/1'}"
+563,lculibrk,3,"{'lculibrk/canseq_pipeline/4', 'lculibrk/Ploidetect-pipeline/1', 'lculibrk/canseq_pipeline/1'}"
+457,ninsch3000,3,"{'zavolanlab/polyAsite_workflow/1', 'mortazavilab/polyAsite_workflow_GM12878/1', 'zavolanlab/polyAsite_workflow/2'}"
+247,ashwini06,3,"{'ashwini06/chipseq_pipeline/1', 'ashwini06/chipseq_pipeline/3', 'ashwini06/chipseq_pipeline/2'}"
+573,jameshadfield,3,"{'nextstrain/mers-beast-tutorial/1', 'nextstrain/zika/1', 'nextstrain/avian-flu/1'}"
+328,arubenstein,3,"{'yongchao/motrpac_rnaseq/1', 'yongchao/motrpac_rnaseq/4', 'yongchao/motrpac_rnaseq/2'}"
+160,XianXin0418,3,"{'XianXin0418/SWORD-pipeline/1', 'XianXin0418/SWORD-pipeline/3', 'XianXin0418/SWORD-pipeline/2'}"
+329,rostkick,3,"{'rostkick/frameshift/2', 'rostkick/frameshift/1', 'rostkick/frameshift/3'}"
+320,leaburkard,3,"{'kircherlab/TF_enrichment_workflow/1', 'kircherlab/cfDNA/1', 'kircherlab/cfDNA/2'}"
+590,Terkild,3,"{'Terkild/CITE-seq_optimization/2', 'Terkild/CITE-seq_optimization/3', 'Terkild/CITE-seq_optimization/1'}"
+442,fernanda-rodrigues,3,"{'ding-lab/germline_variant_snakemake/3', 'ding-lab/germline_variant_snakemake/2', 'ding-lab/germline_variant_snakemake/1'}"
+183,jcmcnch,3,"{'jcmcnch/MGPrimerEval/2', 'jcmcnch/MGPrimerEval/1', 'jcmcnch/MGPrimerEval/3'}"
+294,joyeuxnoel8,3,"{'ChaissonLab/danbing-tk/2', 'ChaissonLab/danbing-tk/1', 'ChaissonLab/danbing-tk/3'}"
+288,biplabua,3,"{'montpetitlab/Aguilar_and_Paul_et_al_2020/3', 'montpetitlab/Aguilar_and_Paul_et_al_2020/1', 'montpetitlab/Aguilar_and_Paul_et_al_2020/2'}"
+306,heylf,3,"{'BackofenLab/SalamiSnake/3', 'BackofenLab/SalamiSnake/4', 'BackofenLab/SalamiSnake/2'}"
+284,Ducklegs17,3,"{'Ducklegs17/tigersnakes/1', 'Ducklegs17/pacbio_clr/1', 'Ducklegs17/pacbio_hifi/1'}"
+38,jiyideanjiao,3,"{'jiyideanjiao/Alkaline_Adaptation/2', 'jiyideanjiao/Alkaline_Adaptation/3', 'jiyideanjiao/Alkaline_Adaptation/1'}"
+185,mdjaffardjy,3,"{'mdjaffardjy/reprohackaton_2021/1', 'mdjaffardjy/reprohackaton_2021/3', 'mdjaffardjy/reprohackaton_2021/2'}"
+310,alexpcheng,3,"{'alexpcheng/bisulfite_cfDNA/1', 'alexpcheng/bisulfite_cfDNA/2', 'alexpcheng/bisulfite_cfDNA/4'}"
+31,engreitz,3,"{'EngreitzLab/hypr-seq/2', 'broadinstitute/CRISPRiTilingDesign/1', 'EngreitzLab/hypr-seq/1'}"
+173,msauria,3,"{'msauria/T2T_Kmer_Analysis/1', 'msauria/T2T_MUK_Analysis/1', 'msauria/T2T_Encode_Analysis/1'}"
+311,awreynolds,3,"{'hennlab/snake-SNP_QC/1', 'hennlab/snake-IBDne/1', 'hennlab/snake-IBDne/2'}"
+6,DCGenomics,3,"{'NCBI-Hackathons/MassiveSeq/1', 'NCBI-Hackathons/MassiveSeq/2', 'NLM-Reproducibility-Project/Repro_PMID_29940028/1'}"
+276,johnne,3,"{'andnischneider/its_workflow/2', 'andnischneider/its_workflow/1', 'NBISweden/LTS-A_Andersson_2010-MASCSEQ/1'}"
+275,franciscozorrilla,3,"{'franciscozorrilla/metaGEM/2', 'franciscozorrilla/metaGEM/3', 'franciscozorrilla/metaGEM/1'}"
+591,peter-yufan-zeng,3,"{'peter-yufan-zeng/AN_WGS_script/4', 'peter-yufan-zeng/AN_WGS_script/2', 'peter-yufan-zeng/AN_WGS_script/1'}"
+695,niekh-13,3,"{'niekh-13/phylogenetic_workflows/1', 'niekh-13/phylogenetic_workflows/3', 'niekh-13/phylogenetic_workflows/2'}"
+589,Jyyin333,3,"{'Jyyin333/CLAPS-seq/3', 'Jyyin333/CLAPS-seq/2', 'Jyyin333/CLAPS-seq/1'}"
+158,bsipos,3,"{'nanoporetech/pipeline-transcriptome-de/1', 'nanoporetech/pipeline-pinfish-analysis/1', 'nanoporetech/pipeline-polya-ng/1'}"
+22,elipapa,3,"{'opentargets/genetics-v2g-data/5', 'opentargets/genetics-v2d-data/6', 'opentargets/genetics-v2g-data/2'}"
+625,kauralasoo,3,"{'kauralasoo/macrophage-tuQTLs/2', 'kauralasoo/macrophage-tuQTLs/3', 'kauralasoo/macrophage-tuQTLs/4'}"
+125,jacksoneyres,3,"{'AAFC-BICoE/snakemake-partial-genome-pipeline/1', 'AAFC-BICoE/snakemake-barcoding-assembly-pipeline/1', 'AAFC-BICoE/snakemake-barcoding-assembly-pipeline/2'}"
+516,tanaes,3,"{'tanaes/snakemake_shotqual/1', 'tanaes/snakemake_anvio/1', 'tanaes/snakemake_kneaddata/1'}"
+703,jmonlong,3,"{'jmonlong/pangenome-evaluation/1', 'jmonlong/sv-nicu/1', 'jmonlong/pangenome-evaluation/2'}"
+450,davidries84,3,"{'davidries84/bismark_snakemake/1', 'davidries84/bismark_snakemake/2', 'davidries84/bismark_snakemake/3'}"
+414,cgendreau,3,"{'AAFC-BICoE/snakemake-partial-genome-pipeline/1', 'AAFC-BICoE/snakemake-barcoding-assembly-pipeline/1', 'AAFC-BICoE/snakemake-barcoding-assembly-pipeline/2'}"
+671,mumichae,3,"{'mumichae/backsplice_code/1', 'populationgenomics/utr-variants/1', 'gagneurlab/ALS-kaggle/1'}"
+117,sebpott,3,"{'sebpott/dropseq_pipeline/3', 'sebpott/dropseq_pipeline/2', 'sebpott/dropseq_pipeline/1'}"
+71,jimkwon,3,"{'jimkwon/nar2020/3', 'jimkwon/nar2020/1', 'jimkwon/nar2020/2'}"
+648,razielar,3,"{'razielar/Identification-of-de-novo-lncRNA-genes/2', 'razielar/Identification-of-de-novo-lncRNA-genes/1', 'razielar/Identification-of-de-novo-lncRNA-genes/3'}"
+650,yuxuth,3,"{'yuxuth/snake_mRNA_v2/1', 'yuxuth/snakemake_RNAseq/1', 'yuxuth/snake_hisat_cutadapt/1'}"
+73,wenweiliang,3,"{'ding-lab/germline_variant_snakemake/3', 'ding-lab/germline_variant_snakemake/2', 'ding-lab/germline_variant_snakemake/1'}"
+706,leboralli,3,"{'leboralli/pipeline_ncrna/3', 'leboralli/pipeline_ncrna/1', 'leboralli/pipeline_ncrna/2'}"
+402,mrvollger,3,"{'mrvollger/SmkTemplate/1', 'mrvollger/StainedGlass/1', 'mrvollger/PhaseONT/1'}"
+101,jhavensHMC,3,"{'jhavensHMC/sciATAC/3', 'jhavensHMC/sciATAC/4', 'jhavensHMC/sciATAC/1'}"
+81,Mass23,3,"{'Mass23/EUCI_microbiome/5', 'Mass23/EUCI_microbiome/2', 'Mass23/EUCI_microbiome/4'}"
+97,paulimer,3,"{'paulimer/RNA-seq-analysis-pipeline/1', 'paulimer/RNA-seq-analysis-pipeline/2', 'paulimer/RNA-seq-analysis-pipeline/3'}"
+84,montpetitlab,3,"{'montpetitlab/Aguilar_and_Paul_et_al_2020/3', 'montpetitlab/Aguilar_and_Paul_et_al_2020/1', 'montpetitlab/Aguilar_and_Paul_et_al_2020/2'}"
+495,wrf,3,"{'conchoecia/hormiphora/1', 'conchoecia/hormiphora/3', 'conchoecia/hormiphora/2'}"
+94,nicolerg,3,"{'yongchao/motrpac_rnaseq/1', 'yongchao/motrpac_rnaseq/4', 'yongchao/motrpac_rnaseq/2'}"
+387,CarolinaPB,3,"{'CarolinaPB/population-structural-var-calling-smoove/1', 'CarolinaPB/nanopore-assembly/1', 'CarolinaPB/gbs-genetic-fitness/1'}"
+658,sfrenk,3,"{'sfrenk/variant_calling_pipeline/1', 'sfrenk/other-seq_pipelines/1', 'sfrenk/variant_calling_pipeline/2'}"
+501,shilpagarg,3,"{'shilpagarg/CRISPR_analysis/1', 'daewoooo/IntegrativePhasingPaper/1', 'AlgoLab/HapCHAT-experiments/1'}"
+12,shigdon,3,"{'shigdon/snakemake_mucilage-isolates/2', 'shigdon/snakemake_lactococcus/1', 'shigdon/snakemake_mucilage-isolates/1'}"
+432,edm1,3,"{'opentargets/genetics-v2g-data/5', 'opentargets/genetics-v2d-data/6', 'opentargets/genetics-v2g-data/2'}"
+447,ktsirigos,3,"{'opentargets/genetics-v2g-data/5', 'opentargets/genetics-v2d-data/6', 'opentargets/genetics-v2g-data/2'}"
+57,amholtz,3,"{'amholtz/snakemake_rabies/3', 'amholtz/snakemake_rabies/1', 'amholtz/snakemake_rabies/2'}"
+531,davemcg,3,"{'davemcg/NGS_genotype_calling/1', 'davemcg/casey_to_gemini/1', 'davemcg/NGS_genotype_calling/2'}"
+624,joverlee521,3,"{'nextstrain/ebola/1', 'nextstrain/mumps/1', 'nextstrain/zika/1'}"
+474,conchoecia,3,"{'conchoecia/hormiphora/1', 'conchoecia/hormiphora/3', 'conchoecia/hormiphora/2'}"
+336,hiraksarkar,3,"{'COMBINE-lab/pufferfish_experiments/3', 'COMBINE-lab/pufferfish_experiments/2', 'COMBINE-lab/pufferfish_experiments/1'}"
+627,shu251,3,"{'shu251/tagseq-qiime2-snakemake/2', 'shu251/qc-trim/1', 'shu251/tagseq-qiime2-snakemake/1'}"
+702,mauerjh,3,"{'leboralli/pipeline_ncrna/3', 'leboralli/pipeline_ncrna/1', 'leboralli/pipeline_ncrna/2'}"
+436,schrins,3,"{'AlBi-HHU/genetic-polyploid-phasing-suppl-material/1', 'AlBi-HHU/genetic-polyploid-phasing-suppl-material/3', 'AlBi-HHU/genetic-polyploid-phasing-suppl-material/2'}"
+343,tomsitter,3,"{'AAFC-BICoE/snakemake-mothur/3', 'AAFC-BICoE/snakemake-mothur/1', 'AAFC-BICoE/snakemake-mothur/2'}"
+421,ccwang002,3,"{'ding-lab/CPTAC3_splicing/1', 'ding-lab/HTAN_bulkRNA_expression/1', 'ding-lab/cptac_rna_expression/1'}"
+346,MostafaYA,3,"{'MostafaYA/snakeNullarbor/1', 'MostafaYA/SnakePipelines/5', 'MostafaYA/SnakePipelines/3'}"
+499,colinshew,3,"{'mydennislab/snake-chipseq/2', 'mydennislab/snake-chipseq/1', 'colinshew/multi-genome_oligo_design/1'}"
+356,liutiming,3,"{'liutiming/snakemake-workshop-files/1', 'liutiming/snakemake-workshop-files/3', 'liutiming/snakemake-workshop-files/2'}"
+521,fataltes,3,"{'COMBINE-lab/pufferfish_experiments/3', 'COMBINE-lab/pufferfish_experiments/2', 'COMBINE-lab/pufferfish_experiments/1'}"
+354,yp,3,"{'AlgoLab/MALVIRUS-data/1', 'AlgoLab/MALVIRUS-repro/2', 'AlgoLab/MALVIRUS-repro/1'}"
+680,agata-sm,3,"{'agata-sm/piRNA-seq_pipeline/1', 'agata-sm/5433_read_processing_pipelines/2', 'agata-sm/5433_read_processing_pipelines/1'}"
+677,haansi,3,"{'filcfig/PCP/3', 'filcfig/PCP/2', 'filcfig/PCP/1'}"
+269,fw262,2,"{'fw262/TAR-scRNA-seq/1', 'fw262/TAR-scRNA-seq/2'}"
+419,bdoughty,2,"{'EngreitzLab/hypr-seq/2', 'EngreitzLab/hypr-seq/1'}"
+558,claireewilliams,2,"{'claireewilliams/SnakeMakeQIIMECW/1', 'claireewilliams/SnakeMakeQIIMECW/2'}"
+280,margaret-xiao,2,"{'d-henness/deseq2_project/1', 'd-henness/deseq2_project/2'}"
+394,Bella2347,2,"{'Bella2347/snakemake-sex-chr/1', 'Bella2347/snakemake-sex-chr/3'}"
+396,bnovak1,2,"{'bnovak1/MARTINI-DNA-tutorials/2', 'bnovak1/MARTINI-DNA-tutorials/1'}"
+572,tyhsu389,2,"{'tyhsu389/uphl_reference_free/2', 'tyhsu389/uphl_reference_free/1'}"
+486,LIniguez,2,"{'LIniguez/Snakemaketest/2', 'LIniguez/Snakemaketest/1'}"
+397,deto,2,"{'deto/Snakemake_Tutorial/1', 'deto/Snakemake_Tutorial/2'}"
+399,rneher,2,"{'nextstrain/tb/1', 'nextstrain/zika/1'}"
+420,anoyaro84,2,"{'tgac-vumc/RNA-seq/1', 'tgac-vumc/QDNAseq.snakemake/1'}"
+571,rmvpaeme,2,"{'rmvpaeme/cfRRBS_manuscript/2', 'rmvpaeme/cfRRBS_manuscript/1'}"
+488,andnischneider,2,"{'andnischneider/its_workflow/2', 'andnischneider/its_workflow/1'}"
+482,benpkeith,2,"{'benpkeith/Furey-Lab-RNA-seq/2', 'benpkeith/Furey-Lab-RNA-seq/1'}"
+485,dustinbleile,2,"{'creisle/mavis_biof501a/1', 'lculibrk/Ploidetect-pipeline/1'}"
+469,yahan9416,2,"{'xindong95/DEAP/4', 'xindong95/DEAP/2'}"
+407,KBoehme,2,"{'KBoehme/ADGC_HRC_merge/4', 'KBoehme/ADGC_HRC_merge/1'}"
+330,hsigeman,2,"{'Bella2347/snakemake-sex-chr/1', 'Bella2347/snakemake-sex-chr/3'}"
+496,YanisChrys,2,"{'YanisChrys/borrelia_workflow/1', 'YanisChrys/borrelia_workflow/3'}"
+434,bgbrink,2,"{'bgbrink/PRJEB35632/2', 'bgbrink/PRJEB35632/1'}"
+307,skinmicrobiome,2,"{'skinmicrobiome/skin_MAGs/1', 'skinmicrobiome/skin_MAGs/6'}"
+453,murraypatterson,2,"{'AlgoLab/HapQual/1', 'AlgoLab/HapCHAT-experiments/1'}"
+514,StephenRicher,2,"{'StephenRicher/HiCFlow/1', 'StephenRicher/RNA-Flow/1'}"
+540,peterch405,2,"{'recombinationlab/sciL3Pipe/1', 'recombinationlab/sciL3Pipe/2'}"
+253,snystrom,2,"{'snystrom/faire-pipeline/1', 'snystrom/cutNrun-pipeline/1'}"
+451,williamjeong2,2,"{'williamjeong2/snakemake_RNA-seq/2', 'williamjeong2/snakemake_RNA-seq/1'}"
+351,dependabot[bot],2,"{'FordyceLab/tessellate/1', 'jbloomlab/SARS-CoV-2-RBD_DMS/1'}"
+455,gregdenay,2,"{'CVUA-RRW/RRW-PrimerBLAST/1', 'CVUA-RRW/BAnalyzer/1'}"
+350,jakevc,2,"{'maxsonBraunLab/cutAndQC---old/1', 'carbonelab/hic_workflow/1'}"
+349,rebecca-earnest,2,"{'grubaughlab/ncov/1', 'andersonbrito/ncov/1'}"
+435,anthfm,2,"{'anthfm/ExomeProcess/1', 'anthfm/ExomeProcess/4'}"
+465,angelat1020,2,"{'WilsonSayresLab/PopInf/1', 'WilsonSayresLab/PopInf/2'}"
+340,drdiran,2,"{'drdiran/DNA_Seq_GATK_snakemake/3', 'drdiran/DNA_Seq_GATK_snakemake/2'}"
+534,Tina04021997,2,"{'Tina04021997/How-to-RNAseq/1', 'Tina04021997/TCRsequencing/1'}"
+304,0mician,2,"{'LoGT-KULeuven/y2h_Bam35-Bt_analysis/1', 'LoGT-KULeuven/y2h_Bam35-Bt_analysis/2'}"
+511,sfletc,2,"{'Carroll-Lab/can_seq/1', 'Carroll-Lab/sRNA_fastq_to_fasta/1'}"
+545,meganamsu,2,"{'mydennislab/snake-chipseq/2', 'mydennislab/snake-chipseq/1'}"
+510,Mira0507,2,"{'Mira0507/snakemake_star/1', 'Mira0507/snakemake_alignment/1'}"
+300,fennerm,2,"{'fennerm/megadaph/1', 'fennerm/daphnia-mtdna-ma/1'}"
+466,chenfeiwang,2,"{'liulab-dfci/MAESTRO/5', 'liulab-dfci/MAESTRO/4'}"
+438,mckellardw,2,"{'fw262/TAR-scRNA-seq/1', 'fw262/TAR-scRNA-seq/2'}"
+439,sroener,2,"{'kircherlab/cfDNA/2', 'kircherlab/cfDNA/1'}"
+377,ctb,2,"{'ctb/2021-sourmash-greymake/1', 'dib-lab/sourmash-oddify/1'}"
+551,lch14forever,2,"{'lch14forever/gis_minion_basecall/1', 'lch14forever/gis_minion_basecall/2'}"
+441,letaylor,2,"{'letaylor/snakemake-qtl/2', 'letaylor/reference_1000G/1'}"
+331,kant,2,"{'liulab-dfci/MAESTRO/5', 'liulab-dfci/MAESTRO/4'}"
+504,elliekpursey,2,"{'elliekpursey/crispr-pathogens/2', 'elliekpursey/crispr-pathogens/1'}"
+385,SamStudio8,2,"{'SamStudio8/reticulatus/1', 'SamStudio8/reticulatus/2'}"
+293,yamrom,2,"{'iossifovlab/snakeobjectsTutorial/4', 'iossifovlab/snakeobjectsTutorial/1'}"
+291,heragaji,2,"{'heragaji/make_rep_database/1', 'heragaji/make_rep_database/2'}"
+290,Jessiesss,2,"{'xindong95/DEAP/4', 'xindong95/DEAP/2'}"
+381,colejensen,2,"{'colejensen/sarscov2/1', 'andersonbrito/ncov/1'}"
+230,GeorgiaBreckell,2,"{'GeorgiaBreckell/assembly_pipeline/1', 'GeorgiaBreckell/assembly_pipeline/2'}"
+459,anilthanki,2,"{'TGAC/lncRNA-analysis/1', 'TGAC/lncRNA-analysis/2'}"
+668,jmeppley,2,"{'jmeppley/np_read_clustering/3', 'jmeppley/np_read_clustering/4'}"
+155,mengxiao,2,"{'liulab-dfci/MAESTRO/5', 'liulab-dfci/MAESTRO/4'}"
+622,bhaddow,2,"{'bhaddow/pmindia-crawler/2', 'bhaddow/pmindia-crawler/1'}"
+672,bergeycm,2,"{'bergeycm/rhg-convergence-analysis/1', 'bergeylab/simple-snakemake-example/1'}"
+164,DongqingSun96,2,"{'liulab-dfci/MAESTRO/5', 'liulab-dfci/MAESTRO/4'}"
+165,supernifty,2,"{'supernifty/msi-diff/3', 'supernifty/msi-diff/4'}"
+617,sidiropoulos,2,"{'sidiropoulos/TCGAsnake/2', 'sidiropoulos/TCGAsnake/1'}"
+167,khavernathy,2,"{'NCBI-Hackathons/MassiveSeq/1', 'NCBI-Hackathons/MassiveSeq/2'}"
+170,kristyhoran,2,"{'willpitchers/Coreugate/1', 'MDU-PHL/Coreugate/1'}"
+175,aisakova,2,"{'aisakova/smart-seq-total/1', 'aisakova/smart-seq-total/2'}"
+180,barbarabarbosa,2,"{'tgac-vumc/RNA-seq/1', 'tgac-vumc/QDNAseq.snakemake/1'}"
+681,caipine,2,"{'caipine/Snakemake-CHIPseq/2', 'caipine/Snakemake-CHIPseq/1'}"
+182,aya49,2,"{'katrinleinweber/omics_asthma/1', 'aya49/omics_asthma/1'}"
+184,mmontemurro,2,"{'mmontemurro/clustering_benchmarking/1', 'mmontemurro/clustering_benchmarking/6'}"
+608,taoliu,2,"{'liulab-dfci/MAESTRO/5', 'liulab-dfci/MAESTRO/4'}"
+190,seb-mueller,2,"{'seb-mueller/snakemake-bisulfite/1', 'seb-mueller/snakemake_sRNAseq/1'}"
+193,Nardus,2,"{'YanisChrys/borrelia_workflow/1', 'YanisChrys/borrelia_workflow/3'}"
+195,rhpvorderman,2,"{'LUMC/gnomad-merge/1', 'LUMC/hutspot/1'}"
+669,anaghadesh,2,"{'WilsonSayresLab/PopInf/1', 'WilsonSayresLab/PopInf/2'}"
+150,nate-d-olson,2,"{'nate-d-olson/nist-sars-cov2-rtgm-seq/1', 'nate-d-olson/engineering-bio-lacI-landscape/1'}"
+688,jrhawley,2,"{'LupienLab/pipeline-bisulfite-sequencing/1', 'LupienLab/pipeline-chromatin-accessibility/5'}"
+148,bposzewiecka,2,"{'bposzewiecka/tytus/1', 'bposzewiecka/phaseDancer/4'}"
+103,twsaari,2,"{'russell-ryan-lab/CRISPRi_pipeline/1', 'umich-iwase-lab/Apricot/2'}"
+108,skingan,2,"{'skingan/gc_cov_2/1', 'skingan/gc_cov_snake/1'}"
+651,mirand863,2,"{'mirand863/ganon_cami2/1', 'mirand863/ganon_cami2/2'}"
+118,shoffm,2,"{'shoffm/ONT_unaligned_meth_calling/1', 'Snitkin-Lab-Umich/genome_downloading_snakemake/1'}"
+647,shiandy,2,"{'shiandy/ukbb-qc/1', 'shiandy/epi507-project/1'}"
+98,mathbionerd,2,"{'WilsonSayresLab/PopInf/1', 'WilsonSayresLab/PopInf/2'}"
+96,QiangTU,2,"{'liulab-dfci/MAESTRO/5', 'liulab-dfci/MAESTRO/4'}"
+122,michalogit,2,"{'michalogit/snake_hisat/2', 'michalogit/snake_hisat/1'}"
+93,d-henness,2,"{'d-henness/deseq2_project/1', 'd-henness/deseq2_project/2'}"
+90,nuan604,2,"{'liulab-dfci/MAESTRO/5', 'liulab-dfci/MAESTRO/4'}"
+86,silastittes,2,"{'silastittes/abc_maize/1', 'silastittes/slim_bgs/1'}"
+85,smithowenk,2,"{'straightlab/xenla-cen-dna-paper/1', 'straightlab/xenla-cen-dna-paper/2'}"
+633,eclarke,2,"{'ares-lab/assembler/1', 'eclarke/sisyphus/1'}"
+80,sciccolella,2,"{'AlgoLab/MALVIRUS-repro/2', 'AlgoLab/MALVIRUS-repro/1'}"
+142,pirovc,2,"{'pirovc/ganon_benchmark/2', 'pirovc/ganon_benchmark/1'}"
+76,maanmi,2,"{'MigleSur/BacDist/2', 'MigleSur/BacDist/1'}"
+626,arvestad,2,"{'arvestad/accuracy_in_prime/2', 'arvestad/accuracy_in_prime/3'}"
+199,inodb,2,"{'inodb/2014-09-haspeborg-moose-project/2', 'inodb/2014-05-mdopson-viral/1'}"
+611,koehlek99,2,"{'kircherlab/cfDNA/2', 'kircherlab/cfDNA/1'}"
+653,Faitero,2,"{'Faitero/iCount_snakemake/1', 'Faitero/iCount_snakemake/2'}"
+697,CharlotteAnne,2,"{'luslab/psiclip/2', 'luslab/psiclip/1'}"
+580,lmoncla,2,"{'nextstrain/mumps/1', 'nextstrain/avian-flu/1'}"
+596,geparada,2,"{'gp7-sanger/RNA_seq_course2020/1', 'geparada/RNA_seq_course2020/1'}"
+215,baskap,2,"{'bposzewiecka/tytus/1', 'bposzewiecka/phaseDancer/4'}"
+9,sndrtj,2,"{'LUMC/gnomad-merge/1', 'LUMC/hutspot/1'}"
+34,NielInfante,2,"{'NielInfante/RNAseq_snakemake/1', 'NielInfante/Pipeline_control/1'}"
+594,thomasbtf,2,"{'thomasbtf/hello-diamond/3', 'thomasbtf/hello-diamond/1'}"
+585,pmonnahan,2,"{'pmonnahan/admixMap/1', 'pmonnahan/CanSel/1'}"
+35,CancerGenetics007,2,"{'NCBI-Hackathons/MassiveSeq/1', 'NCBI-Hackathons/MassiveSeq/2'}"
+220,sailalithabollepalli,2,"{'sailalithabollepalli/ChIPSeqAnalysis/1', 'sailalithabollepalli/ChIPSeqAnalysis/2'}"
+699,xindong95,2,"{'xindong95/DEAP/4', 'xindong95/DEAP/2'}"
+228,zeeev,2,"{'phasegenomics/polar_star/1', 'zeeev/DASVC/1'}"
+707,cck42,2,"{'grubaughlab/ncov/1', 'andersonbrito/ncov/1'}"
+11,JihedC,2,"{'BleekerLab/snakemake_rnaseq/1', 'KoesGroup/Snakemake_hisat-DESeq/1'}"
+14,MuhammedHasan,2,"{'mortazavilab/polyAsite_workflow_GM12878/1', 'gagneurlab/ALS-kaggle/1'}"
+213,CJREID,2,"{'CJREID/snplord/2', 'CJREID/snplord/1'}"
+13,HeyLifeHD,2,"{'HeyLifeHD/ScSnakeMeth/1', 'HeyLifeHD/amplicon_seq_pipeline/1'}"
+577,bluegenes,2,"{'bluegenes/2020-simulate-rnaseq/5', 'bluegenes/2020-simulate-rnaseq/4'}"
+208,DongqingSun,2,"{'liulab-dfci/MAESTRO/5', 'liulab-dfci/MAESTRO/4'}"
+211,emorice,2,"{'emorice/RNASeq_example/2', 'emorice/RNASeq_example/1'}"
+251,HussainAther,2,"{'HussainAther/chipseq/1', 'HussainAther/chipseq/2'}"
+248,thomas-keller,2,"{'NCBI-Hackathons/MassiveSeq/1', 'NCBI-Hackathons/MassiveSeq/2'}"
+696,pkozyulina,2,"{'pkozyulina/pea2018_pipeline/1', 'pkozyulina/pea2018_pipeline/2'}"
+464,biorosetics,1,{'biorosetics/chipseq-snakemake/1'}
+462,JessAwBryant,1,{'JessAwBryant/qiime_with_snakemake/1'}
+506,rasi,1,{'rasilab/ribosome_collisions_yeast/3'}
+492,cgob,1,{'cgob/codonDT_snakemake/1'}
+493,kamimrcht,1,{'Malfoy/KFC/1'}
+663,gaofan83,1,{'caltech-bioinformatics-resource-center/Guttman_Ismagilov_Labs/1'}
+494,eggomez,1,{'thw17/Sifaka_assembly/1'}
+505,simakro,1,{'simakro/smk-artic-ont/1'}
+662,SarahEJensen,1,{'bpt26/tRAP/1'}
+655,dadahan,1,{'bhattlab/lathe/1'}
+661,drdariarago,1,{'drdariarago/organoids-probio/1'}
+708,mcornwell1957,1,{'hanfeisun/viper-rnaseq/1'}
+660,jaboehm,1,{'vivekbhr/cage_pipeline/1'}
+656,cmuyehara,1,{'snystrom/faire-pipeline/1'}
+497,russHyde,1,{'crazyhottommy/pyflow-ChIPseq/1'}
+498,jdblischak,1,{'jdblischak/cardioqtl/1'}
+712,JyotiDalal93,1,{'JyotiDalal93/bioinformatics_pipeline_ngs/1'}
+711,ddurai,1,{'SchulzLab/Aeron/2'}
+503,sylvainschmitt,1,{'sylvainschmitt/snakemake_singularity/1'}
+491,kkkaslikar,1,{'kkkaslikar/variant-calling-pipeline/1'}
+709,tianwen0003,1,{'tianwen0003/RNA-seq-data-analysis/1'}
+659,fieldima,1,{'fieldima/biof501-pipeline/1'}
+657,CFarcy,1,{'CFarcy/snakemake_for_tassel/1'}
+500,josephhalstead,1,{'josephhalstead/insilico_limit_of_detection/1'}
+687,EulleSA,1,{'EulleSA/Metagenomics_Analysis/1'}
+665,rbonneville,1,{'OSU-SRLab/SCLC-autopsy-genomics/1'}
+678,mikheyev,1,{'MaevaTecher/varroa-host-jump/1'}
+685,FleurGaBru,1,{'nioo-knaw/BSAnalyser/1'}
+684,Kirovez,1,{'Kirovez/NanoCasTE/1'}
+683,scbaca,1,{'scbaca/cwas/1'}
+689,ChDied,1,{'matthiasparusel/fpbiows18/1'}
+475,Magiduck,1,{'Magiduck/EindopdrachtOWE11/1'}
+690,vindarbot,1,{'vindarbot/RNA_Seq_Pipeline/3'}
+691,tatumdmortimer,1,{'gradlab/lsarp_gwas/1'}
+476,reedacartwright,1,{'MaevaTecher/varroa-host-jump/1'}
+477,mlweilert,1,{'mlweilert/chipnexus-processing-scripts/1'}
+692,RachelRodgers,1,{'RachelRodgers/VirusVariantViewR/1'}
+478,andrewmlynn,1,{'LynnGroup-SCIS-JNU/SnakeVar/1'}
+682,evodify,1,{'LUDC-bioinformatics/SMC_MYOCD/1'}
+679,tyh-19,1,{'tyh-19/cfRNAseq/1'}
+654,mmchaouchi,1,{'mmchaouchi/Cloud/1'}
+676,tkanholm,1,{'tkanholm/snakemake_pipelines/1'}
+489,bsennblad,1,{'NBISweden/LTS-A_Andersson_2010-MASCSEQ/1'}
+481,mniederhuber,1,{'snystrom/cutNrun-pipeline/1'}
+675,dbespiatykh,1,{'dbespiatykh/TBvar/1'}
+471,AidanMar,1,{'AidanMar/GSoC-2021-compara-deep-learning/1'}
+673,tjense25,1,{'tjense25/SRS_SV_calling/1'}
+698,shannonmargaret,1,{'Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline/1'}
+670,mrbarbitoff,1,{'bioinf/russian_exome_pipeline/1'}
+483,ChaimaeEH,1,{'anthony-moreau/hackaton-ACKP/1'}
+470,alneberg,1,{'alneberg/2015-04-BARM-Concoct/1'}
+484,danielzmbp,1,{'danielzmbp/wsgups/1'}
+468,xiaoyan-xu,1,{'xiaoyan-xu/snakemakefile/1'}
+700,jeskowagner,1,{'jeongdo801/scNOVA/1'}
+473,chuckzzzz,1,{'chuckzzzz/snake_make_tutorial/1'}
+667,wuv21,1,{'betts-lab/scc-proc/1'}
+666,ashwin-s-ranade,1,{'ashwin-s-ranade/creating-count-matrix/1'}
+701,ngocemy,1,{'ngocemy/HBV_HCC_cancer/1'}
+575,samleenz,1,{'samleenz/variant-calling/1'}
+507,Char-Al,1,{'dridk/tp_snakemake/1'}
+556,marcelm,1,{'AlgoLab/HapCHAT-experiments/1'}
+554,j23414,1,{'nextstrain/zika/1'}
+553,aschuerch,1,{'aschuerch/bactofidia/1'}
+597,mwort,1,{'mwort/snakemake_grass/2'}
+598,RuiyangLiu94,1,{'ding-lab/CPTAC3_splicing/1'}
+552,hbandukw,1,{'dilworthlab/CnT_pipeline_snakemake/1'}
+600,ALFLAG,1,{'ALFLAG/Viral_Variant_Visualiser/1'}
+601,aartrama,1,{'shenlab-sinai/NGS-Data-Charmer/1'}
+602,ropolomx,1,{'BeeCSI-Microbiome/taxonomic_profiling_pipeline/1'}
+604,rmcolq,1,{'rmcolq/rampart-coi/1'}
+548,laelbarlow,1,{'laelbarlow/typhaon/1'}
+605,vinay-swamy,1,{'vinay-swamy/ocular_transcriptomes_pipeline/1'}
+546,jahnl,1,{'mumichae/backsplice_code/1'}
+544,IgnatiusPang,1,{'IgnatiusPang/Snakemake_Demo/1'}
+607,MaybeJustJames,1,{'vibbits/example-bioinformatics-project/1'}
+543,arunbodd,1,{'arunbodd/MultiQC_WES/1'}
+610,hurrialice,1,{'getzlab/smk-m2/1'}
+542,abdeljalil-senhaji,1,{'abdeljalil-senhaji/DNAMethBS_pipeline/1'}
+555,cademirch,1,{'cademirch/Track-Hub-Maker/1'}
+595,creisle,1,{'creisle/mavis_biof501a/1'}
+508,cmkobel,1,{'cmkobel/assemblycomparator2/1'}
+557,DivyaGSun,1,{'BF528/project-3-lava-lamp/1'}
+576,yoann-dufresne,1,{'Malfoy/KFC/1'}
+570,johnlees,1,{'johnlees/PopPIPE/1'}
+569,wsteenhu,1,{'wsteenhu/demux-snakemake/1'}
+578,vivekbhr,1,{'vivekbhr/cage_pipeline/1'}
+579,reliscu,1,{'reliscu/sam_ampseq/1'}
+581,AlecJacobsen,1,{'BF528/project-3-lava-lamp/1'}
+584,DanieleDallOlio,1,{'infnttlab/biopipe/1'}
+565,binnisb,1,{'ORU-BIOI/rna-seq-workflow/1'}
+564,Juliepvr,1,{'Juliepvr/snakemake_metagenomic/1'}
+586,qfort,1,{'qfort/Projet_reprohackaton/1'}
+461,kpalin,1,{'kpalin/VirusIntegrationFinder/1'}
+588,endrebak,1,{'wdecoster/methplotlib/1'}
+561,IuriyLeb,1,{'IuriyLeb/drosophila_project/1'}
+560,pkerpedjiev,1,{'mrvollger/StainedGlass/1'}
+592,cyouh95,1,{'cyouh95/mRNA_seq_pipeline/1'}
+559,tobiasmarschall,1,{'daewoooo/IntegrativePhasingPaper/1'}
+593,standage,1,{'standage/noble/1'}
+541,tsnorri,1,{'algbio/panvc-sample-workflow/1'}
+538,tacazares,1,{'tacazares/snakeATAC/1'}
+612,nandankita,1,{'LupienLab/pipeline-chromatin-accessibility/5'}
+537,franskloet,1,{'BleekerLab/snakemake_rnaseq/1'}
+638,idolawoye,1,{'idolawoye/BAGEP/1'}
+522,tmuylder,1,{'vibbits/example-bioinformatics-project/1'}
+639,asmmhossain,1,{'asmmhossain/phlow/1'}
+640,z-sector,1,{'z-sector/stepik_snakemake/1'}
+574,cjsifuen,1,{'cjsifuen/Basic-Bulk-RNA-seq-Workflow/1'}
+642,jennahd,1,{'jennahd/HGT_trees/1'}
+520,yiwen99,1,{'yiwen99/kallisto-quant-on-small-sample/1'}
+519,SherineAwad,1,{'AlexanderMoerseburg/ATAC-Seq/1'}
+645,lyijin,1,{'lyijin/bismsmark/1'}
+518,flying-sheep,1,{'theislab/bartseq-pipeline/1'}
+517,crs,1,{'crs/cnv-exomeseq/1'}
+515,masterSplinter01,1,{'masterSplinter01/biopipeline/1'}
+646,hellosoni,1,{'hellosoni/finalproject/1'}
+513,dridk,1,{'dridk/tp_snakemake/1'}
+649,kpatel427,1,{'kpatel427/chipseq-snakemake/1'}
+652,gummystick,1,{'gummystick/snakemake/1'}
+509,lukenoaa,1,{'aomlomics/tourmaline/1'}
+637,andreashoek,1,{'andreashoek/wasp/1'}
+636,Kurtj-hub,1,{'BeeCSI-Microbiome/taxonomic_profiling_pipeline/1'}
+635,Marie-LB,1,{'qfort/Projet_reprohackaton/1'}
+623,lfdelzam,1,{'lfdelzam/contig_taxonomy/1'}
+616,raivivek,1,{'raivivek/Snakemake_WASP/1'}
+536,FroiL-L,1,{'plantgenomicslab/ALLHiC_Pipeline/1'}
+618,biopig,1,{'biopig/chip-seq.snakemake/1'}
+620,jasminesmn,1,{'jasminesmn/Snakemake/1'}
+621,wfondrie,1,{'wfondrie/snakemake-beer-proteomics/1'}
+533,nickjstevens,1,{'nickjstevens/analysis-workflow/1'}
+532,Marc-Ruebsam,1,{'Marc-Ruebsam/MeBaPiNa/1'}
+529,lparsons,1,{'lparsons/reference_processing/1'}
+523,karel-brinda,1,{'c2-d2/rase-pipeline/1'}
+628,SimranChhabria,1,{'SimranChhabria/miRNA-FeatureCounts/1'}
+629,dDrubay,1,{'Oncostat/BenchmarkNCVTools/1'}
+526,Exenter,1,{'Exenter/Comparing-two-RNAseq-analysis-tools-STAR-vs-Kallisto/1'}
+630,ilevkivskyi,1,{'sapfo/medeas/1'}
+525,pimentel,1,{'pimentel/bears_iplant/1'}
+631,sanjaynagi,1,{'sanjaynagi/Ne_Ag/1'}
+634,shawnpg,1,{'phasegenomics/polar_star/1'}
+641,nathanhaigh,1,{'Ducklegs17/pacbio_clr/1'}
+357,EnricoGiampieri,1,{'infnttlab/biopipe/1'}
+460,percyfal,1,{'percyfal/pytest-ngsfixtures/1'}
+135,Malfoy,1,{'Malfoy/KFC/1'}
+156,lachlandeer,1,{'lachlandeer/angrist-krueger-1991/1'}
+154,andyferraro,1,{'infnttlab/biopipe/1'}
+153,marcjwilliams1,1,{'marcjwilliams1/hscn_pipeline/2'}
+152,brielin,1,{'pachterlab/PCCA/1'}
+147,evogytis,1,{'nextstrain/mers-beast-tutorial/1'}
+146,khembach,1,{'csoneson/ARMOR/1'}
+145,callumparr,1,{'callumparr/ont_tutorial_transcriptome/1'}
+144,guanli,1,{'guanli/Muscle_adipose_comparison_paper/1'}
+141,MalbertRogers,1,{'aschuerch/bactofidia/1'}
+139,yangkcatiu,1,{'yijiaozhang/hypercompare/5'}
+138,yh154,1,{'yh154/Pyup/1'}
+137,shaunchuah,1,{'shaunchuah/cfdna_workflow/1'}
+136,mpre,1,{'AlgoLab/MALVIRUS-data/1'}
+134,apredeus,1,{'bioinf/russian_exome_pipeline/1'}
+161,winfrednyoroka,1,{'enezermjema/Mini-project-group-06/1'}
+133,cmdoret,1,{'ngocemy/HBV_HCC_cancer/1'}
+131,cErikson,1,{'cErikson/GeneLab_DADA2_snakemake_Pipeline/1'}
+130,yuewangpanda,1,{'Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline/1'}
+129,spaenigs,1,{'spaenigs/peptidereactor/81'}
+128,carissableker,1,{'csoneson/ARMOR/1'}
+127,andrewwiser,1,{'phasegenomics/polar_star/1'}
+126,martynakgajos,1,{'martynakgajos/nanopore-transcriptome-analysis/1'}
+124,aminaddetia,1,{'jbloomlab/SARS-CoV-2-RBD_MAP_clinical_Abs/1'}
+123,vyepez88,1,{'gagneurlab/ALS-kaggle/1'}
+121,kittyl,1,{'SydneyBioX/RNASeq/1'}
+119,makirc,1,{'kircherlab/CADD-SV/1'}
+116,mistyskye,1,{'Exenter/Comparing-two-RNAseq-analysis-tools-STAR-vs-Kallisto/1'}
+115,wdecoster,1,{'wdecoster/methplotlib/1'}
+159,betty-wu-1,1,{'betty-wu-1/RATTLE-pipeline/1'}
+162,matthiasparusel,1,{'matthiasparusel/fpbiows18/1'}
+227,w-bonelli,1,{'van-der-knaap-lab/varitome-variant-calling/2'}
+200,HosseinAsghari,1,{'vpc-ccg/freddie/1'}
+225,pawel125,1,{'pawel125/RNAseq_hpc_workflow/1'}
+224,JAlvarezJarreta,1,{'AidanMar/GSoC-2021-compara-deep-learning/1'}
+222,eiserdr,1,{'eiserdr/histone-chipseq/1'}
+219,yijiaozhang,1,{'yijiaozhang/hypercompare/5'}
+218,snaqvi1990,1,{'snaqvi1990/pgc_scrnaseq/1'}
+217,kernco,1,{'kernco/deg_pipeline/1'}
+214,xyg123,1,{'opentargets/genetics-v2d-data/6'}
+210,scsmncao,1,{'neherlab/enterovirus_a71/1'}
+209,lgruen,1,{'populationgenomics/utr-variants/1'}
+206,troycomi,1,{'PrincetonUniversity/msprime_scripts/1'}
+205,osvaldoreisss,1,{'osvaldoreisss/public_trapseq/1'}
+202,schanbaek,1,{'schanbaek/eif3_par-clip/1'}
+201,kleinertp,1,{'kircherlab/CADD-SV/1'}
+198,LucoLab,1,{'LucoLab/ChIPSeQ/1'}
+163,Hoeze,1,{'gagneurlab/ALS-kaggle/1'}
+196,owenwilkins,1,{'Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline/1'}
+194,sanjapriselac,1,{'sanjapriselac/InterdisciplinaryProject/1'}
+189,daisyhan97,1,{'BF528/project-3-lava-lamp/1'}
+188,martin-jeremy,1,{'StructVarGA/polledHiC/1'}
+187,rathmuth,1,{'rathmuth/RADseq/1'}
+186,philippmuench,1,{'philippmuench/OligoMM-report-v2/1'}
+178,MeHelmy,1,{'MeHelmy/covid-pipeline/1'}
+177,fedxa,1,{'fedxa/RPF_pipeline/1'}
+176,mariele-lensink,1,{'mariele-lensink/PopDiff/1'}
+172,mkarmona,1,{'opentargets/genetics-v2d-data/6'}
+169,marlonberg,1,{'marlonberg/ChIP-Seq-Pipeline/1'}
+168,jimmybgammyknee,1,{'UofABioinformaticsHub/RNAseq_snakemake/1'}
+166,Antoineabel,1,{'dridk/tp_snakemake/1'}
+114,RussellJHRyan,1,{'russell-ryan-lab/CRISPRi_pipeline/1'}
+113,LLansing,1,{'BeeCSI-Microbiome/taxonomic_profiling_pipeline/1'}
+111,deanpettinga,1,{'deanpettinga/ecc_workflow/1'}
+30,liangyy,1,{'liangyy/deep_variant_annotation/1'}
+52,waglecn,1,{'waglecn/helD_search/1'}
+51,abwolf,1,{'PrincetonUniversity/msprime_scripts/1'}
+50,sorjuela,1,{'csoneson/ARMOR/1'}
+48,rarey,1,{'rr39943/pop_density-edu_level/1'}
+47,desireetillo,1,{'desireetillo/CTCF_CutAndRun21/1'}
+45,willrosenow,1,{'willrosenow/RNA-seq-snakemake/1'}
+44,rmagoglia,1,{'TheFraserLab/Agoglia_HumanChimpanzee2020/1'}
+43,dilworthlab,1,{'dilworthlab/CnT_pipeline_snakemake/1'}
+42,laseaman,1,{'laseaman/odsc_snakemake_tutorial/1'}
+41,EPLeyne,1,{'EPLeyne/sm_test/1'}
+40,glchn,1,{'BeeCSI-Microbiome/taxonomic_profiling_pipeline/1'}
+36,ksw9,1,{'ksw9/mtb_pipeline/1'}
+33,tesa1,1,{'tesa1/gbuild_check/1'}
+29,amberr098,1,{'amberr098/snakemakeOWE11/1'}
+107,willpitchers,1,{'willpitchers/Coreugate/1'}
+24,MarineP-IODAA,1,{'qfort/Projet_reprohackaton/1'}
+23,naveen584,1,{'LynnGroup-SCIS-JNU/SnakeVar/1'}
+21,yyolanda,1,{'yyolanda/snakemake_for_rnaseq/1'}
+20,lig050129,1,{'dlsrnsi/snakemake_tutorial/1'}
+19,JoeBlackSci,1,{'JoeBlackSci/SAHDA/1'}
+18,martian-yan,1,{'martian-yan/Massive_Blast_Pipeline/1'}
+17,Piezoid,1,{'Malfoy/KFC/1'}
+16,cjw85,1,{'nanoporetech/pipeline-transcriptome-de/1'}
+10,vsoch,1,{'fbartusch/snakemake_tutorial/1'}
+7,rrodgers12,1,{'RachelRodgers/VirusVariantViewR/1'}
+5,BrandonJRomano,1,{'BrandonJRomano/initialRNAseq_snakemake/1'}
+4,calchoo,1,{'creisle/mavis_biof501a/1'}
+2,hevmarriott,1,{'hevmarriott/m00a-snakemake/1'}
+53,zhuchcn,1,{'zhuchcn/exceRNApipeline/1'}
+54,hjzhou988,1,{'umich-iwase-lab/Apricot/2'}
+55,athalexiou,1,{'athalexiou/DIANA-RSeq/1'}
+56,dmvandenberg,1,{'dmvandenberg/Snakemake-course-11/1'}
+105,erwinerdem,1,{'erwinerdem/STEAP/2'}
+100,jeongdo801,1,{'jeongdo801/scNOVA/1'}
+99,Tjitskedv,1,{'tgac-vumc/QDNAseq.snakemake/1'}
+95,mnavascues,1,{'mnavascues/ABC_TimeAdapt/1'}
+92,awilson0,1,{'haneylab/assembly_pipeline/1'}
+91,dgmaghini,1,{'bhattlab/lathe/1'}
+89,skhilton,1,{'jbloomlab/SARS-CoV-2-RBD_DMS/1'}
+87,PaulineTurk,1,{'anthony-moreau/hackaton-ACKP/1'}
+83,trofimovamw,1,{'trofimovamw/GInCovPipe/1'}
+82,user611,1,{'yh154/Pyup/1'}
+79,akirosingh,1,{'akirosingh/BC1bulk-rnaseq/1'}
+78,Tendo1434,1,{'enezermjema/Mini-project-group-06/1'}
+77,adadiehl,1,{'Boyle-Lab/short-read-seq_snakemake/1'}
+75,dvalenzu,1,{'algbio/panvc-sample-workflow/1'}
+74,cuttlefishh,1,{'aomlomics/tourmaline/1'}
+72,SchulzLab,1,{'SchulzLab/Aeron/2'}
+68,nataquinones,1,{'baymlab/2020_Owen-BstA/1'}
+67,jzehr,1,{'veg/coronavirus-comparative/1'}
+66,GitStudentKanomble,1,{'CyanoWorld/reciprocal_blast_pipeline/2'}
+65,sbamin,1,{'TheJacksonLaboratory/toymake/1'}
+64,mattdoug604,1,{'creisle/mavis_biof501a/1'}
+63,Kanomble,1,{'CyanoWorld/reciprocal_blast_pipeline/2'}
+62,fingerfen,1,{'fingerfen/WES_Short_Variant_and_CNV_Pipeline/1'}
+61,fionarhuang,1,{'csoneson/ARMOR/1'}
+60,MaleloAS,1,{'MaleloAS/Alice_MS/1'}
+59,JaneNjeri,1,{'enezermjema/Mini-project-group-06/1'}
+58,Xavster838,1,{'Xavster838/assembly_validation/1'}
+226,fmaguire,1,{'fmaguire/neisseria_amr_genomics/1'}
+233,dahjan,1,{'dahjan/OAS-MiXCR-pipeline/1'}
+458,bnelsj,1,{'bnelsj/bwa_mem_mapping/1'}
+373,olledejong,1,{'olledejong/Snakemake-Pipeline/1'}
+395,ThibautPayen,1,{'CarlborgGenomics/Stripes/2'}
+393,markrobinsonuzh,1,{'csoneson/ARMOR/1'}
+392,aganezov,1,{'aganezov/EnsemblePLInternal/3'}
+391,kdm9,1,{'kdm9/2020_snakemake-workshop/1'}
+390,ambenj,1,{'ambenj/bin_das_tool/1'}
+389,jmcbroome,1,{'jmcbroome/circleseq/1'}
+388,chowe303,1,{'eggleston-lab/Plumber/1'}
+386,burtonjz,1,{'UMich-Mind-Lab/pipeline-task-standard/1'}
+384,rblemma,1,{'rblemma/K562_Myb_ChIP-seq/1'}
+383,wir963,1,{'ruppinlab/CSI-Microbes-identification/6'}
+380,ziningchen,1,{'jtpoirier/proteomegenerator/1'}
+379,bballew,1,{'NLM-Reproducibility-Project/Repro_PMID_29940028/1'}
+375,duckien242,1,{'grubaughlab/ncov/1'}
+372,veerdonk,1,{'veerdonk/data_processing/1'}
+400,enezermjema,1,{'enezermjema/Mini-project-group-06/1'}
+370,emdann,1,{'emdann/HexamerBias/1'}
+369,OliverH2020,1,{'cmkobel/assemblycomparator2/1'}
+367,simonleandergrimm,1,{'neherlab/enterovirus_a71/1'}
+366,a-lud,1,{'UofABioinformaticsHub/RNAseq_snakemake/1'}
+365,bettybliu,1,{'bettybliu/snakeATAC-singularity/1'}
+364,petercombs,1,{'petercombs/dicty/1'}
+363,zhouhoo,1,{'zhouhoo/wiki_zh_vec/1'}
+362,github-classroom[bot],1,{'BF528/project-3-lava-lamp/1'}
+361,redekarnr,1,{'NCBR-FNLCR/Long-read-genome-assembly/1'}
+359,dfguan,1,{'dfguan/vcpipe/1'}
+358,lishen,1,{'shenlab-sinai/NGS-Data-Charmer/1'}
+355,boseHere,1,{'boseHere/sRNA_snakemake_workflow/1'}
+353,gaow,1,{'liangyy/deep_variant_annotation/1'}
+398,dantaki,1,{'dantaki/snakemake_tutorial/1'}
+401,tjbencomo,1,{'tjbencomo/bulk-rnaseq/1'}
+234,scholtalbers,1,{'scholtalbers/galaxy-genome-indexing/1'}
+425,mworkentine,1,{'ucvm/vmmp/1'}
+456,phiweger,1,{'phiweger/peek/1'}
+454,anthony-moreau,1,{'anthony-moreau/hackaton-ACKP/1'}
+452,mikael-s,1,{'Malfoy/KFC/1'}
+449,Lodewic,1,{'Lodewic/schiphol-assignment/1'}
+448,GeorgeRamaniuk,1,{'z-sector/stepik_snakemake/1'}
+445,Aexbrayat,1,{'Aexbrayat/snakevir/1'}
+444,AroArz,1,{'AroArz/Abrigahit/1'}
+443,dominikburri,1,{'zavolanlab/SCUREL/1'}
+440,groodri,1,{'aschuerch/bactofidia/1'}
+437,banerjeeshayantan,1,{'banerjeeshayantan/C3G_testsnakemake/1'}
+430,daoud-sie,1,{'tgac-vumc/QDNAseq.snakemake/1'}
+427,dgag0811,1,{'dgag0811/Snakemake-Diamond-Megan/1'}
+426,DarioS,1,{'SydneyBioX/RNASeq/1'}
+424,KXami2b2021,1,{'anthony-moreau/hackaton-ACKP/1'}
+403,AngryMaciek,1,{'zavolanlab/SCUREL/1'}
+423,KL-Bloomer,1,{'KL-Bloomer/mres-malaria-gene-expression/1'}
+422,alseguel,1,{'geparada/RNA_seq_course2020/1'}
+418,seung1yoo,1,{'seung1yoo/getMappedRawReads/1'}
+417,relorbany,1,{'relorbany/Exp1_prelim_analysis/1'}
+416,schmelling,1,{'CyanoWorld/reciprocal_blast_pipeline/2'}
+412,mmendeville,1,{'tgac-vumc/QDNAseq.snakemake/1'}
+411,sapfo,1,{'sapfo/medeas/1'}
+410,eriqande,1,{'eriqande/phase-chromosomes-snakeflow/1'}
+409,frederic-michaud,1,{'sapfo/medeas/1'}
+408,sschmutz,1,{'sschmutz/thesis-workflow/1'}
+406,jonathho,1,{'BeeCSI-Microbiome/taxonomic_profiling_pipeline/1'}
+405,mzapatka,1,{'mzapatka/p-dip/1'}
+404,wharvey31,1,{'wharvey31/megalodon-smk/1'}
+348,csoneson,1,{'csoneson/ARMOR/1'}
+347,skelviper,1,{'skelviper/BubbleCluster/1'}
+344,mzavolan,1,{'zavolanlab/SCUREL/1'}
+258,alimadani,1,{'LupienLab/pipeline-chromatin-accessibility/5'}
+278,rm93,1,{'rm93/Awesome-Workflow/1'}
+277,ryhui,1,{'ryhui/imputation-pipeline/1'}
+274,chrstraub,1,{'chrstraub/SNP_calling_workflow/1'}
+273,megancamilla,1,{'JoeBlackSci/SAHDA/1'}
+271,Jingyu-Fan,1,{'Jingyu-Fan/imputed_cistrome/1'}
+270,roshnipatel,1,{'roshnipatel/LocalAncestry/1'}
+268,sterrettJD,1,{'sterrettJD/Nicotine-Microbiome/1'}
+267,keyuxi,1,{'keyuxi/array_analysis/1'}
+265,stevenpastor,1,{'stevenpastor/snakemake-exome-workflow/1'}
+264,igrishaev,1,{'sapfo/medeas/1'}
+261,dwheelerau,1,{'dwheelerau/snakemake-vsearch-otutab/1'}
+260,ZacharieMenetrier,1,{'ZacharieMenetrier/Koffie/1'}
+259,alexstaritsky,1,{'rm93/Awesome-Workflow/1'}
+257,boulund,1,{'boulund/iceman_analysis/1'}
+342,mikelove,1,{'nanoporetech/pipeline-transcriptome-de/1'}
+256,dijashis,1,{'dijashis/TP_WORKFLOW_SNAKEMAKE/1'}
+254,pjedge,1,{'pjedge/SISSOR/1'}
+252,jessicalumian,1,{'jessicalumian/fryxell-phormidium/1'}
+250,fbartusch,1,{'fbartusch/snakemake_tutorial/1'}
+249,ireneisdoomed,1,{'opentargets/genetics-v2d-data/6'}
+246,MaryESavino,1,{'qfort/Projet_reprohackaton/1'}
+243,cgates,1,{'umich-iwase-lab/Apricot/2'}
+242,cesaake,1,{'BF528/project-3-lava-lamp/1'}
+241,maureensmith,1,{'trofimovamw/GInCovPipe/1'}
+240,dimitargnikolov,1,{'osome-iu/misinfo-partisanship-hksmisinforeview-2021/1'}
+237,marcodelapierre,1,{'marcodelapierre/nanopore-smk/1'}
+236,rr39943,1,{'rr39943/pop_density-edu_level/1'}
+235,Tobi1kenobi,1,{'Tobi1kenobi/snakemake-workshop/3'}
+279,xuzhougeng,1,{'xuzhougeng/auto_sra_rnaseq_pipeline/1'}
+282,thomasfaraut,1,{'StructVarGA/polledHiC/1'}
+286,samnooij,1,{'samnooij/FECBUD_reference-free_analysis/1'}
+287,dirkrepsilber,1,{'ORU-BIOI/rna-seq-workflow/1'}
+341,AmitBinf,1,{'Xiuying/CallVars/1'}
+338,jpvernadet,1,{'i2bc/TOP/1'}
+337,gradonion,1,{'gradonion/ATACseq_pipeline/1'}
+335,daewoooo,1,{'daewoooo/IntegrativePhasingPaper/1'}
+334,loire,1,{'loire/snakevirome/1'}
+333,DSJM,1,{'DSJM/ConbAC/1'}
+332,mwcrepeau,1,{'mwcrepeau/snakemake_kubernetes_test/1'}
+326,brechtmann,1,{'gagneurlab/ALS-kaggle/1'}
+325,ACSoupir,1,{'ACSoupir/SnakeMake/1'}
+324,jackhump,1,{'RajLabMSSM/leafcutter-pipeline/1'}
+319,elisevanbree,1,{'Frankjacobslab/ChIP-seq/1'}
+316,tjs000,1,{'Dartmouth-Data-Analytics-Core/DAC-RNAseq-pipeline/1'}
+315,icaromsc,1,{'csbl-inovausp/snakemake_lab_training/1'}
+314,okartal,1,{'okartal/population_epigenetics/2'}
+313,kosolapova,1,{'IuriyLeb/drosophila_project/1'}
+312,suecharo,1,{'suecharo/sapporo_test_workflows/1'}
+308,kevinrue,1,{'kevinrue/snakemake_alevin_citeseq_tutorial/1'}
+305,JDKling,1,{'JDKling/Syn_microdiversity/1'}
+303,gartician,1,{'maxsonBraunLab/hint-atac-old/1'}
+302,sorenwacker,1,{'gradlab/lsarp_gwas/1'}
+301,windyeeeee,1,{'windyeeeee/RNA-seq/1'}
+299,porchard,1,{'porchard/ATACseq-Snakemake/1'}
+298,khdusenbury,1,{'jbloomlab/SARS-CoV-2-RBD_MAP_HAARVI_sera/1'}
+297,bpt26,1,{'bpt26/tRAP/1'}
+296,baraaorabi,1,{'vpc-ccg/freddie/1'}
+292,fmarotta,1,{'fmarotta/bioinfoconda/1'}
+289,maickrau,1,{'SchulzLab/Aeron/2'}
+713,cvoinot,1,{'qfort/Projet_reprohackaton/1'}

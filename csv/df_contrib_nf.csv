@@ -1,0 +1,1079 @@
+,contributor,nb_wf,list_wf
+511,pditommaso,49,"{'nextflow-io/nfcamp-tutorial', 'stevekm/nextflow-demos', 'CRG-CNAG/CalliNGS-NF', 'cbcrg/nf-phdcourse21', 'harleenduggal/nfcore-rnaseq', 'evanfloden/nf-module-demo', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'nextflow-io/nf-hack17-tutorial', 'junyu-boston/dicerna-rnaseq', 'biocorecrg/indrop', 'FAANG/GSM-pipeline', 'pditommaso/nf-foo', 'IARCbioinfo/gatk4-HaplotypeCaller-nf', 'nf-core/methylseq', 'nextflow-io/blast-example', 'pilm-bioinformatics/pipelines-nf-fastrnaseq', 'pditommaso/nf-course-unimi-2021', 'nf-core/modules', 'nf-core/smrnaseq', 'nf-core/hlatyping', 'alam1988/Nextflow', 'tiwarialok/new-rnaseq', 'mageshwarm/rnaseq-nf-magesh', 'gis-rpd/rpd-sg10k-grch38-gatk4-gvcf-freebayes-vcf', 'lifebit-ai/kallisto-sra', 'biocorecrg/BioNextflow', 'CAMI-challenge/CAMITAX', 'biocorecrg/vectorQC', 'alesssia/YAMP', 'HPCBio/16S-rDNA-dada2-pipeline', 'tobsecret/BADAS_Nextflow_Tutorial', 'GMS6804-master/rnatoy', 'nextflow-io/gccbosc18-training', 'lauramble/rnaseq-vizfada', 'GMS6804-master/Sarek', 'biocorecrg/C4LWG-2018', 'Biocentric/rnaseq_debug', 'cbcrg/nf-phdcourse19', 'milescsmith/gcls-rnaseq-nf', 'GMS6804-master/YAMP', 'mageshwarm/blast-example-magesh', 'cbcrg/nf-phdcourse20', 'nf-core/cookiecutter', 'melnel000/Sarek_CBIO', 'nf-core/rnaseq', 'nextflow-io/rnaseq-nf', 'nextflow-io/nf-hack18', 'nextflow-io/elixir-workshop-21'}"
+499,maxulysse,46,"{'Gregor-Mendel-Institute/nf-methylpy', 'harleenduggal/nfcore-rnaseq', 'nf-core/ampliseq', 'nf-core/epitopeprediction', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'Leon-Bichmann/Phosphoproteomics', 'sickle-in-africa/saw.sarek', 'nf-core/viralrecon', 'sripaladugu/germline_somatic', 'junyu-boston/dicerna-rnaseq', 'FAANG/GSM-pipeline', 'nf-core/proteomicslfq', 'nf-core/atacseq', 'maxibor/coproID', 'nf-core/methylseq', 'lengfei5/atacseq_nf', 'nf-core/mag', 'nf-core/eager', 'nf-core/modules', 'nf-core/sarek', 'nf-core/rnavar', 'nf-core/smrnaseq', 'nf-core/hlatyping', 'alam1988/Nextflow', 'nf-core/nanoseq', 'nf-core/airrflow', 'nf-core/bacass', 'cgpu/PGP-UK-sarek', 'rastiks/viralrecon', 'nf-core/vipr', 'nf-core/cageseq', 'nf-core/scrnaseq', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'GMS6804-master/Sarek', 'Leon-Bichmann/diaproteomics', 'nf-core/mnaseseq', 'UMCUGenetics/sarek_ubec', 'nf-core/rnafusion', 'nf-core/kmermaid', 'nf-core/cookiecutter', 'nf-core/chipseq', 'melnel000/Sarek_CBIO', 'nf-core/rnaseq', 'nf-core/exoseq', 't-neumann/slamseq'}"
+543,ewels,45,"{'Gregor-Mendel-Institute/nf-methylpy', 'harleenduggal/nfcore-rnaseq', 'nf-core/ampliseq', 'nf-core/cutandrun', 'markgene/cutnrun', 'ewels/nf-core-dsl2pipelinetest', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'nf-core/viralrecon', 'junyu-boston/dicerna-rnaseq', 'FAANG/GSM-pipeline', 'nf-core/gwas', 'nf-core/atacseq', 'jiangfuqing/Chip-seq', 'nf-core/methylseq', 'lengfei5/atacseq_nf', 'nf-core/mag', 'nf-core/eager', 'nf-core/modules', 'nf-core/sarek', 'nf-core/smrnaseq', 'nf-core/hlatyping', 'alam1988/Nextflow', 'nf-core/nanoseq', 'nf-core/neutronstar', 'nf-core/testpipeline', 'nf-core/airrflow', 'nf-core/bacass', 'nf-core/bactmap', 'rastiks/viralrecon', 'nf-core/vipr', 'nf-core/cageseq', 'jianhong/nf-core-hicar', 'nf-core/clipseq', 'GMS6804-master/Sarek', 'Leon-Bichmann/diaproteomics', 'UMCUGenetics/sarek_ubec', 'nf-core/rnafusion', 'nf-core/kmermaid', 'nf-core/cookiecutter', 'nf-core/chipseq', 'melnel000/Sarek_CBIO', 'nf-core/rnaseq', 'nf-core/exoseq', 'jiangfuqing/atac-seq'}"
+1001,apeltzer,42,"{'harleenduggal/nfcore-rnaseq', 'nf-core/ampliseq', 'markgene/cutnrun', 'glormph/nf-core-dda-quant-proteomics', 'eQTL-Catalogue/rnaseq', 'nf-core/epitopeprediction', 'harleenduggal/RNASEQ', 'sickle-in-africa/saw.sarek', 'sripaladugu/germline_somatic', 'junyu-boston/dicerna-rnaseq', 'FAANG/GSM-pipeline', 'nf-core/atacseq', 'jiangfuqing/Chip-seq', 'maxibor/coproID', 'nf-core/methylseq', 'lengfei5/atacseq_nf', 'nf-core/mag', 'nf-core/eager', 'nf-core/modules', 'nf-core/sarek', 'nf-core/smrnaseq', 'nf-core/hlatyping', 'alam1988/Nextflow', 'nf-core/nascent', 'nf-core/nanostring', 'nf-core/airrflow', 'nf-core/bacass', 'cgpu/PGP-UK-sarek', 'nf-core/bactmap', 'nf-core/vipr', 'nf-core/cageseq', 'nf-core/scrnaseq', 'nf-core/dualrnaseq', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'UMCUGenetics/sarek_ubec', 'nf-core/cookiecutter', 'bhagesh-codebeast/nextflowdualrnaseq', 'tobsecret/covid19', 'nf-core/chipseq', 'nf-core/rnaseq', 'nf-core/exoseq', 'jiangfuqing/atac-seq'}"
+691,nf-core-bot,40,"{'harleenduggal/nfcore-rnaseq', 'nf-core/ampliseq', 'nf-core/cutandrun', 'nf-core/raredisease', 'nf-core/epitopeprediction', 'harleenduggal/RNASEQ', 'sickle-in-africa/saw.sarek', 'nf-core/viralrecon', 'sripaladugu/germline_somatic', 'junyu-boston/dicerna-rnaseq', 'FAANG/GSM-pipeline', 'nf-core/proteomicslfq', 'subwaystation/pangenome', 'nf-core/gwas', 'bigbio/quantms', 'nf-core/methylseq', 'nf-core/mag', 'nf-core/eager', 'nf-core/sarek', 'nf-core/rnavar', 'nf-core/smrnaseq', 'nf-core/hlatyping', 'alam1988/Nextflow', 'nf-core/nanoseq', 'nf-core/testpipeline', 'nf-core/airrflow', 'nf-core/bacass', 'nf-core/cageseq', 'nf-core/taxprofiler', 'nf-core/scrnaseq', 'nf-core/clipseq', 'jianhong/nf-core-hicar', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'nf-core/dualrnaseq', 'Leon-Bichmann/diaproteomics', 'UMCUGenetics/sarek_ubec', 'nf-core/funcscan', 'nf-core/kmermaid', 'bhagesh-codebeast/nextflowdualrnaseq', 'nf-core/rnaseq'}"
+461,drpatelh,34,"{'harleenduggal/nfcore-rnaseq', 'nf-core/ampliseq', 'markgene/cutnrun', 'harleenduggal/RNASEQ', 'nf-core/viralrecon', 'junyu-boston/dicerna-rnaseq', 'FAANG/GSM-pipeline', 'nf-core/gwas', 'nf-core/atacseq', 'jiangfuqing/Chip-seq', 'nf-core/methylseq', 'gwright99/nf-core-dragen', 'lengfei5/atacseq_nf', 'nf-core/eager', 'nf-core/modules', 'nf-core/smrnaseq', 'alam1988/Nextflow', 'nf-core/nanoseq', 'drpatelh/nf-core-sgrnaquant', 'nf-core/bacass', 'nf-core/bactmap', 'rastiks/viralrecon', 'drpatelh/nf-core-fetchdata', 'nf-core/cageseq', 'heuermh/artic', 'csawye01/nf-core-demultiplex', 'nf-core/clipseq', 'nf-core/mnaseseq', 'paulstretenowich/nf-core-viralrecon', 'tobsecret/covid19', 'nf-core/chipseq', 'nf-core/rnaseq', 'jiangfuqing/atac-seq', 't-neumann/slamseq'}"
+62,ggabernet,31,"{'harleenduggal/nfcore-rnaseq', 'nf-core/ampliseq', 'nf-core/epitopeprediction', 'harleenduggal/RNASEQ', 'Leon-Bichmann/Phosphoproteomics', 'sickle-in-africa/saw.sarek', 'nf-core/viralrecon', 'sripaladugu/germline_somatic', 'qbic-pipelines/vcreport', 'junyu-boston/dicerna-rnaseq', 'nf-core/proteomicslfq', 'nf-core/atacseq', 'lengfei5/atacseq_nf', 'nf-core/mag', 'nf-core/eager', 'nf-core/modules', 'FriederikeHanssen/bamtofastq', 'nf-core/sarek', 'nf-core/hlatyping', 'alam1988/Nextflow', 'qbic-pipelines/cellranger', 'nf-core/testpipeline', 'nf-core/airrflow', 'nf-core/bactmap', 'rastiks/viralrecon', 'nf-core/scrnaseq', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'UMCUGenetics/sarek_ubec', 'ggabernet/dsltwotest', 'ggabernet/elixir', 'nf-core/rnaseq'}"
+760,cgpu,29,"{'lifebit-ai/phewas', 'lifebit-ai/panelR', 'cgpu/sarek-mirror', 'cgpu/Mutect2TumorOnlyMode-nf', 'cgpu/sparkling-gatk', 'cgpu/pgp-chronek', 'cgpu/SelectVariants', 'lifebit-ai/bam2cram', 'lifebit-ai/pcgr-nf', 'lifebit-ai/GenomeChronicler-Sarek-nf', 'cgpu/PGP-UK-sarek', 'cgpu/samtools-index-nf', 'cgpu/multiVCF-chopper', 'cgpu/PON', 'cgpu/panelR', 'lifebit-ai/tinynf', 'Shicheng-Guo/gwasgsa', 'cgpu/sarek-mirror-cache', 'cgpu/ion-somatic-variant-calling', 'cgpu/sparkling-preprocessing', 'cgpu/covbench', 'lifebit-ai/relate', 'lifebit-ai/sanger-demo-rnaseq', 'cgpu/bamerge', 'lifebit-ai/long-reads', 'cgpu/valibam', 'lifebit-ai/simulate', 'cgpu/sarek-genomechronicler', 'cgpu/haplosarek'}"
+433,olgabot,27,"{'czbiohub/nextflow-tutorial-2019', 'harleenduggal/nfcore-rnaseq', 'czbiohub/nf-bowtie', 'harleenduggal/RNASEQ', 'sickle-in-africa/saw.sarek', 'sripaladugu/germline_somatic', 'czbiohub/nf-extractcoding', 'junyu-boston/dicerna-rnaseq', 'nf-core/crisprvar', 'czbiohub/nf-sicilian', 'nf-core/eager', 'czbiohub/nf-ortholog', 'nf-core/sarek', 'alam1988/Nextflow', 'czbiohub/nf-large-assembly', 'czbiohub/nf-core-test', 'czbiohub/nf-simulaternaseq', 'czbiohub/nf-predictorthologs', 'nf-core/scrnaseq', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'czbiohub/demux', 'UMCUGenetics/sarek_ubec', 'czbiohub/sc2-illumina-pipeline', 'czbiohub/nf-tracer', 'nf-core/kmermaid', 'nf-core/rnaseq', 'czbiohub/splicemotifs'}"
+694,PhilPalmer,24,"{'lifebit-ai/GangSTR', 'lifebit-ai/phewas', 'nf-core/ampliseq', 'raonyguimaraes/fast-ngs-admix', 'lifebit-ai/hisat2', 'PhilPalmer/get-sra-nf', 'lifebit-ai/HipSTR', 'lifebit-ai/qc-dsl2', 'lifebit-ai/somatic-variant-caller', 'lifebit-ai/strelka2', 'pprieto/dragen', 'lifebit-ai/prs', 'lifebit-ai/qc-nf', 'lifebit-ai/fam-gwas', 'PhilPalmer/lbf-hack-tutorial', 'lifebit-ai/roary', 'lifebit-ai/vcf-annotator', 'lifebit-ai/consensus-variant-caller', 'lifebit-ai/ExpansionHunter', 'TheJacksonLaboratory/splicing-pipelines-nf', 'lifebit-ai/sanger-demo-rnaseq', 'lifebit-ai/long-reads', 'lifebit-ai/Tardis', 'lifebit-ai/DeepVariant'}"
+777,KevinMenden,21,"{'harleenduggal/nfcore-rnaseq', 'nf-core/ampliseq', 'nf-core/cutandrun', 'nf-core/raredisease', 'nf-core/epitopeprediction', 'harleenduggal/RNASEQ', 'nf-core/viralrecon', 'nf-core/gwas', 'nf-core/mag', 'nf-core/modules', 'nf-core/smrnaseq', 'nf-core/rnavar', 'nf-core/nanoseq', 'KevinMenden/testpipe', 'nf-core/airrflow', 'nf-core/bacass', 'KevinMenden/hybrid-assembly', 'nf-core/cageseq', 'KevinMenden/nf-core-testpipeline', 'KevinMenden/tf-activity', 'nf-core/rnaseq'}"
+711,alneberg,21,"{'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'sickle-in-africa/saw.sarek', 'sripaladugu/germline_somatic', 'junyu-boston/dicerna-rnaseq', 'FAANG/GSM-pipeline', 'nf-core/methylseq', 'nf-core/mag', 'nf-core/sarek', 'alam1988/Nextflow', 'nf-core/nanoseq', 'cgpu/PGP-UK-sarek', 'nf-core/vipr', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'GMS6804-master/Sarek', 'UMCUGenetics/sarek_ubec', 'nf-core/cookiecutter', 'melnel000/Sarek_CBIO', 'nf-core/rnaseq', 'nf-core/exoseq'}"
+708,evanfloden,20,"{'nextflow-io/nfcamp-tutorial', 'CRG-CNAG/CalliNGS-NF', 'cbcrg/nf-phdcourse21', 'evanfloden/nf-module-demo', 'nextflow-io/nf-hack17-tutorial', 'pilm-bioinformatics/pipelines-nf-fastrnaseq', 'nf-core/eager', 'seqeralabs/gatk4-germline-snps-indels', 'tiwarialok/new-rnaseq', 'mageshwarm/rnaseq-nf-magesh', 'lifebit-ai/kallisto-sra', 'tobsecret/BADAS_Nextflow_Tutorial', 'lauramble/rnaseq-vizfada', 'Biocentric/rnaseq_debug', 'cbcrg/nf-phdcourse19', 'cbcrg/nf-phdcourse20', 'evanfloden/transXpress-nf', 'nextflow-io/rnaseq-nf', 'nextflow-io/nf-hack18', 'milescsmith/gcls-rnaseq-nf'}"
+100,abhi18av,17,"{'harleenduggal/nfcore-rnaseq', 'nf-modules/fastqc', 'abhi18av/nextflow_grid_search', 'seqeralabs/gatk4-germline-snps-indels', 'nf-modules/gatk', 'nf-core/modules', 'bioinformatics-lab/nf-core-singlegenometese', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-modules/picard', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'bioinformatics-lab/trigenome-analysis-nf', 'abhi18av/cookiecutter-nextflow', 'nf-core/gwas', 'nf-modules/samtools', 'nf-modules/trimmomatic'}"
+472,sminot,16,"{'jgolob/maliampi', 'Golob-Minot/geneshot', 'FredHutch/index-genomes-nf', 'FredHutch/AMGMA', 'FredHutch/diamond-build-tax-db', 'FredHutch/nf-pacbio-bacterial', 'FredHutch/cellprofiler-batch-nf', 'FredHutch/VMAA', 'FredHutch/prokka-nf', 'FredHutch/flye-nf', 'FredHutch/unicycler-nf', 'FredHutch/circulator-nf', 'FredHutch/ccs-nf', 'FredHutch/PGAP-nf', 'FredHutch/nf-sra', 'FredHutch/microbial-rnaseq'}"
+496,chelauk,16,"{'chelauk/nf-core-egatransfer', 'chelauk/nf-core-blasr', 'chelauk/test_nextflow_sarek', 'chelauk/nf-core-partial-umi', 'chelauk/nf-core-trimmomatic', 'chelauk/nf-core-mutectplatypus', 'chelauk/nf-core-platypus', 'chelauk/nf-core-deepsnv', 'chelauk/nf-core-umipreprocessing', 'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'chelauk/nf-core-umi_preprocessing', 'UMCUGenetics/sarek_ubec', 'chelauk/nf-core-hlatyping'}"
+515,maxibor,16,"{'maxibor/coproID', 'maxibor/anonymap', 'nf-core/mag', 'maxibor/enaprep', 'nf-core/eager', 'ParisDiderot-Bioinfo/nextflow-intro', 'nf-core/modules', 'maxibor/humann-nf', 'maxibor/metaphlan-nf', 'nf-core/taxprofiler', 'maxibor/admapipe', 'maxibor/dada2-nf', 'maxibor/bowtie2-lca', 'maxibor/test-nf-core-pipeline', 'maxibor/madman', 'maxibor/kraken-nf'}"
+649,dfornika,14,"{'BCCDC-PHL/ncov-tools-nf', 'BCCDC-PHL/troika-nf', 'BCCDC-PHL/routine-assembly', 'dfornika/nextflow-artic-ncov2019', 'dfornika/callVariants-with-codons', 'dfornika/stringmlst-nf', 'BCCDC-PHL/consensus-align-utr-trim', 'BCCDC-PHL/mykrobe-nf', 'dfornika/simulate-reads', 'connor-lab/ncov2019-artic-nf', 'dfornika/snippy-phylogenomics-nf', 'dfornika/nf-core-cpo', 'dfornika/simulate-outbreak-dataset', 'BCCDC-PHL/mlst-nf'}"
+754,hoelzer,14,"{'hoelzer/mgnify-lr', 'hoelzer/treat', 'hoelzer/nanovirus', 'hoelzer/virify', 'hoelzer/nf_blast', 'nanozoo/wf_prepare_submission_dammit', 'hoelzer/clean', 'hoelzer/wuhan', 'phiweger/isolate_pe', 'hoelzer/nf_example', 'hoelzer-lab/treat', 'hoelzer/dammit-nf', 'hoelzer/NEMO', 'replikation/poreCov'}"
+811,pprieto,14,"{'Biocentric/DeepVariantNF', 'pprieto/dragen', 'lifebit-ai/GangSTR', 'lifebit-ai/consensus-variant-caller', 'lifebit-ai/ExpansionHunter', 'lifebit-ai/DeepVariantTrain', 'TheJacksonLaboratory/splicing-pipelines-nf', 'lifebit-ai/long-reads', 'lifebit-ai/DeepVariantWGS', 'lifebit-ai/HipSTR', 'lifebit-ai/kallisto-sra', 'lifebit-ai/ukbb-tutorial', 'lifebit-ai/freebayes', 'lifebit-ai/DeepVariant'}"
+1022,arontommi,14,"{'harleenduggal/nfcore-rnaseq', 'nf-core/modules', 'harleenduggal/RNASEQ', 'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'alam1988/Nextflow', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'GMS6804-master/Sarek', 'melnel000/Sarek_CBIO', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'UMCUGenetics/sarek_ubec', 'arontommi/nf-mixcr'}"
+66,lucacozzuto,14,"{'elixir-cloud-proteomics-workflows/elixir_proteomics_QC', 'nextflow-io/elixir-workshop-21', 'biocorecrg/vectorQC', 'biocorecrg/SIB_course_nextflow_Nov_2021', 'biocorecrg/PHIND_course_nextflow_Feb_2022', 'biocorecrg/ELIXIR_containers_nextflow', 'biocorecrg/CoursesCRG_Containers_Nextflow_May_2021', 'biocorecrg/BioNextflow', 'biocorecrg/indrop', 'lucacozzuto/elixir_NF', 'biocorecrg/transcriptome_assembly', 'biocorecrg/C4LWG-2018', 'proteomicsunitcrg/qcloud2-pipeline', 'biocorecrg/allele_specific_RNAseq'}"
+31,marchoeppner,14,"{'marchoeppner/esga2', 'ikmb/vep', 'marchoeppner/outbreak-monitoring', 'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'marchoeppner/kinseq', 'ikmb/flye-assembly', 'alam1988/Nextflow', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'marchoeppner/trinoflow', 'ikmb/pacbio-preprocess', 'ikmb/ngs-qc'}"
+445,stevekm,13,"{'stevekm/MuTect2_target_chunking', 'stevekm/nextflow-samplesheet-demo', 'stevekm/nextflow-demos', 'tobsecret/BADAS_Nextflow_Tutorial', 'NYU-Molecular-Pathology/NGS580-nf', 'nf-core/modules', 'rastiks/viralrecon', 'stevekm/vcf-filter-annotate', 'stevekm/nextflow-pipeline-demo', 'nf-core/viralrecon', 'stevekm/vep-annotation-nf', 'stevekm/fastq-bed-subset', 'NYU-Molecular-Pathology/LG-PACT'}"
+193,FriederikeHanssen,13,"{'harleenduggal/nfcore-rnaseq', 'FriederikeHanssen/babysarek', 'nf-core/modules', 'FriederikeHanssen/bamtofastq', 'harleenduggal/RNASEQ', 'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'alam1988/Nextflow', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'UMCUGenetics/sarek_ubec'}"
+868,mashehu,13,"{'nf-core/methylseq', 'harleenduggal/nfcore-rnaseq', 'lengfei5/atacseq_nf', 'nf-core/modules', 'harleenduggal/RNASEQ', 'nf-core/cageseq', 'alam1988/Nextflow', 'nf-core/chipseq', 'junyu-boston/dicerna-rnaseq', 'mashehu/nf-core_test', 'FAANG/GSM-pipeline', 'nf-core/rnaseq', 'nf-core/atacseq'}"
+291,mahesh-panchal,13,"{'mahesh-panchal/test_nfcore_workflow_chain', 'Emilyaoc/Nextflow-selection-workflow', 'harleenduggal/nfcore-rnaseq', 'NBISweden/Earth-Biogenome-Project-pilot', 'nf-core/modules', 'mahesh-panchal/nextflow-docker-actions-test', 'harleenduggal/RNASEQ', 'mahesh-panchal/nf-core-alttemplate', 'NBISweden/pipelines-nextflow', 'GroundB/RepeatDefeaters', 'nf-core/rnaseq', 'mahesh-panchal/NBIS_project_template', 'mahesh-panchal/nf-core_modules_demo'}"
+981,mfoll,12,"{'Monia234/IARC-alignement', 'IARCbioinfo/fastqc-nf', 'IARCbioinfo/strelka2-nf', 'IARCbioinfo/nf_coverage_demo', 'IARCbioinfo/table_annovar-nf', 'IARCbioinfo/qualimap-nf', 'IARCbioinfo/NGSCheckMate-nf', 'Monia234/IARC-imputation', 'IARCbioinfo/Imputation-nf', 'Monia234/IARC-fastqc', 'lisemangiante/test_nextflow', 'IARCbioinfo/BQSR-nf'}"
+897,skrakau,12,"{'harleenduggal/nfcore-rnaseq', 'nf-core/mag', 'nf-core/epitopeprediction', 'harleenduggal/RNASEQ', 'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'alam1988/Nextflow', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'UMCUGenetics/sarek_ubec'}"
+380,Hammarn,12,"{'nf-core/methylseq', 'Gregor-Mendel-Institute/nf-methylpy', 'harleenduggal/nfcore-rnaseq', 'Hammarn/Popolipo', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'nf-core/smrnaseq', 'alam1988/Nextflow', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'FAANG/GSM-pipeline', 'nf-core/rnafusion'}"
+793,lescai,11,"{'nf-core/modules', 'nibscbioinformatics/viralevo', 'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'sripaladugu/germline_somatic', 'nibscbioinformatics/modules', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'nibscbioinformatics/scranger', 'nibscbioinformatics/humgen', 'UMCUGenetics/sarek_ubec', 'nibscbioinformatics/scoop'}"
+407,sven1103,11,"{'nf-core/methylseq', 'Gregor-Mendel-Institute/nf-methylpy', 'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'nf-core/hlatyping', 'alam1988/Nextflow', 'nf-core/cookiecutter', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'FAANG/GSM-pipeline'}"
+339,JoseEspinosa,10,"{'JoseEspinosa/nf-core-benchmark', 'harleenduggal/nfcore-rnaseq', 'cbcrg/nf-phdcourse21', 'nf-core/modules', 'rastiks/viralrecon', 'harleenduggal/RNASEQ', 'cbcrg/nf-phdcourse20', 'nf-core/viralrecon', 'biocorecrg/ELIXIR_containers_nextflow', 'nf-core/rnaseq'}"
+38,chuan-wang,10,"{'harleenduggal/nfcore-rnaseq', 'markgene/cutnrun', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'nf-core/smrnaseq', 'alam1988/Nextflow', 'nf-core/chipseq', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'jiangfuqing/Chip-seq'}"
+277,robsyme,10,"{'c3g/runvalidation', 'nf-core/methylseq', 'robsyme/nf-nucmercoverage', 'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'c3g/genflow-dnaseq', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'FAANG/GSM-pipeline'}"
+40,jemten,10,"{'harleenduggal/nfcore-rnaseq', 'nf-core/raredisease', 'eQTL-Catalogue/rnaseq', 'nf-core/modules', 'nf-core/smrnaseq', 'harleenduggal/RNASEQ', 'genomic-medicine-sweden/RareDisease_RNA_workflow', 'alam1988/Nextflow', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq'}"
+284,heuermh,10,"{'heuermh/nf-core-hlatyping2', 'nf-core/mag', 'nf-core/modules', 'rastiks/viralrecon', 'mahesh-panchal/nextflow-docker-actions-test', 'heuermh/sars-cov-2', 'heuermh/artic', 'nf-core/viralrecon', 'tobsecret/covid19', 'subwaystation/pangenome'}"
+707,lpantano,10,"{'pilm-bioinformatics/pipelines-nf-fastrnaseq', 'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'nf-core/smrnaseq', 'alam1988/Nextflow', 'pilm-bioinformatics/pipelines-nf-circtools', 'pilm-bioinformatics/pipelines-nf-genomes', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'egenesis/WF-NF-rnassembly'}"
+576,pcantalupo,10,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'alam1988/Nextflow', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'UMCUGenetics/sarek_ubec'}"
+575,colindaven,9,"{'nf-core/methylseq', 'harleenduggal/nfcore-rnaseq', 'nf-core/ampliseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'FAANG/GSM-pipeline'}"
+756,grst,9,"{'harleenduggal/nfcore-rnaseq', 'grst/nf-core-test', 'nf-core/modules', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'grst/bd_rhapsody_velocyto', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'icbi-lab/smartseq2_pipeline'}"
+1065,chris-cheshire,9,"{'luslab/luslab-nf-modules', 'harleenduggal/nfcore-rnaseq', 'nf-core/cutandrun', 'nf-core/modules', 'harleenduggal/RNASEQ', 'luslab/briscoe-nf-tobias', 'luslab/nf-clip', 'nf-core/rnaseq', 'luslab/nf-core-modules'}"
+313,sofiahaglund,9,"{'harleenduggal/nfcore-rnaseq', 'markgene/cutnrun', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/chipseq', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'jiangfuqing/Chip-seq'}"
+42,peterk87,9,"{'peterk87/nf-biohansel-snippy-comparison', 'peterk87/nf-villumina', 'peterk87/nf-virontus', 'nhhaidee/scovtree', 'peterk87/nf-biohansel-sra-benchmark', 'peterk87/nf-illmap', 'peterk87/nf-ionampliseq', 'peterk87/nf-cleanplex-preprocess', 'peterk87/nf-iav-illumina'}"
+410,d4straub,9,"{'nf-core/bacass', 'harleenduggal/nfcore-rnaseq', 'nf-core/mag', 'nf-core/ampliseq', 'nf-core/modules', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq'}"
+670,rsuchecki,9,"{'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'csiro-crop-informatics/repset', 'junyu-boston/dicerna-rnaseq', 'csiro-crop-informatics/reproducible_poc', 'nf-core/rnaseq', 'csiro-crop-informatics/nextflow-embl-abr-webinar'}"
+952,kviljoen,8,"{'harleenduggal/nfcore-rnaseq', 'HPCBio/16S-rDNA-dada2-pipeline', 'harleenduggal/RNASEQ', 'kviljoen/16S_quick_QC', 'alam1988/Nextflow', 'kviljoen/fastq_QC', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq'}"
+755,veeravalli,8,"{'gis-rpd/rpd-rnaseq', 'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'gis-rpd/rpd-sg10k-grch38-gatk4-gvcf-freebayes-vcf', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq'}"
+687,toniher,8,"{'biocorecrg/SIB_course_nextflow_Nov_2021', 'biocorecrg/PHIND_course_nextflow_Feb_2022', 'biocorecrg/ELIXIR_containers_nextflow', 'biocorecrg/CoursesCRG_Containers_Nextflow_May_2021', 'biocorecrg/BioNextflow', 'biocorecrg/C4LWG-2018', 'proteomicsunitcrg/qcloud2-pipeline', 'biocorecrg/vectorQC'}"
+241,pranathivemuri,8,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'czbiohub/nf-predictorthologs', 'czbiohub/nf-unsplicedcds', 'alam1988/Nextflow', 'nf-core/kmermaid', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq'}"
+571,jfy133,8,"{'maxibor/coproID', 'nf-core/mag', 'nf-core/eager', 'jfy133/archaeodiet', 'nf-core/modules', 'nf-core/taxprofiler', 'maxibor/madman', 'nf-core/funcscan'}"
+430,nalcala,8,"{'Monia234/IARC-alignement', 'IARCbioinfo/fastqc-nf', 'IARCbioinfo/table_annovar-nf', 'IARCbioinfo/qualimap-nf', 'IARCbioinfo/NGSCheckMate-nf', 'Monia234/IARC-fastqc', 'IARCbioinfo/strelka2-nf', 'IARCbioinfo/BQSR-nf'}"
+789,szilvajuhos,8,"{'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'GMS6804-master/Sarek', 'melnel000/Sarek_CBIO', 'UMCUGenetics/sarek_ubec', 'nf-core/rnafusion'}"
+257,phue,8,"{'nf-core/methylseq', 'nf-core/eager', 'nf-core/modules', 'phue/GWAS-nf', 'Gregor-Mendel-Institute/aradeepopsis', 'phue/aradeepopsis', 'FAANG/GSM-pipeline', 'Gregor-Mendel-Institute/kWIP-nf'}"
+942,kauralasoo,7,"{'eQTL-Catalogue/genimpute', 'eQTL-Catalogue/rnaseq', 'letaylor/qtlmap', 'eQTL-Catalogue/qcnorm', 'eQTL-Catalogue/genotype_qc', 'eQTL-Catalogue/colocalisation', 'eQTL-Catalogue/qtlmap'}"
+315,katiesevans,7,"{'AndersenLab/genomes-nf', 'AndersenLab/alignment-nf', 'AndersenLab/post-gatk-nf', 'AndersenLab/wi-gatk', 'AndersenLab/annotation-nf', 'AndersenLab/scan2-nf', 'AndersenLab/nil-ril-nf'}"
+286,jianhong,7,"{'jianhong/universalModule', 'jianhong/16S_pipeline', 'nf-core/modules', 'jianhong/shotgun', 'jianhong/nf-core-hicar', 'jianhong/ATACseqQCnextflow', 'jianhong/nextflowTutorial'}"
+521,senthil10,7,"{'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'junyu-boston/dicerna-rnaseq', 'nf-core/rnaseq', 'nf-core/exoseq'}"
+823,lconde-ucl,7,"{'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'UCL-BLIC/rnaseq_variant_calling', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'UCL-BLIC/wgsalign', 'UMCUGenetics/sarek_ubec'}"
+81,brucemoran,7,"{'brucemoran/tumour_only', 'brucemoran/somatic_n-of-1', 'brucemoran/nanopore_gDNA_CNA', 'brucemoran/batch_somatic', 'brucemoran/DNAseq_references', 'brucemoran/RNAseq_kallisto', 'cgpu/somatic_exome_n-of-1'}"
+1039,sk-sahu,7,"{'lifebit-ai/prs', 'lifebit-ai/drs-nf', 'TheJacksonLaboratory/splicing-pipelines-nf', 'nf-core/scrnaseq', 'codingene/nextflow-base', 'lifebit-ai/htslib-s3-nf', 'Shicheng-Guo/gwasgsa'}"
+669,ypriverol,7,"{'BlackburnLab/pgdb', 'BlackburnLab/nfcorepgdb', 'bigbio/pgdb', 'nf-core/proteomicslfq', 'bigbio/proteomicstmt', 'bigbio/nf-workflows', 'bigbio/quantms'}"
+525,erikrikarddaniel,7,"{'nf-core/ampliseq', 'LNUc-EEMiS/metatdenovo-dsl1', 'nf-core/modules', 'LNUc-EEMiS/magmap', 'erikrikarddaniel/magmap', 'erikrikarddaniel/pfitmap-nextflow', 'bioatlas/ampliflow'}"
+1040,kerimoff,7,"{'eQTL-Catalogue/genimpute', 'eQTL-Catalogue/rnaseq', 'letaylor/qtlmap', 'eQTL-Catalogue/qcnorm', 'eQTL-Catalogue/colocalisation', 'kerimoff/qtlquant', 'eQTL-Catalogue/qtlmap'}"
+156,jiangweiyao,7,"{'jiangweiyao/coregenome_align_nf', 'jiangweiyao/sra_mash_nf', 'jiangweiyao/metaphlan_nf', 'jiangweiyao/paramsReadernf2', 'jiangweiyao/RefNAAP_nf', 'jiangweiyao/kraken2_biom_nf', 'jiangweiyao/quaisar_nf'}"
+230,stekaz,7,"{'ampatchlab/nf-dnaseq', 'ampatchlab/nf-pdx', 'ampatchlab/nf-rnasnv', 'ampatchlab/nf-bam2fastq', 'ampatchlab/nf-typeHLA', 'ampatchlab/nf-isoseq', 'ampatchlab/nf-rnaseq'}"
+498,luisas,7,"{'Biocentric/DeepVariantNF', 'lifebit-ai/DeepVariantTrain', 'lifebit-ai/strelka2', 'lifebit-ai/DeepVariantWGS', 'lifebit-ai/kallisto-sra', 'lifebit-ai/freebayes', 'lifebit-ai/DeepVariant'}"
+607,davidealbanese,7,"{'metashot/busco', 'metashot/prok-quality', 'metashot/prok-annotate', 'metashot/prok-pan', 'metashot/prok-snp', 'metashot/mag-illumina', 'metashot/kraken2'}"
+591,malinlarsson,7,"{'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'GMS6804-master/Sarek', 'melnel000/Sarek_CBIO', 'UMCUGenetics/sarek_ubec'}"
+510,ggrimes,6,"{'ggrimes/clair_nf', 'ggrimes/ttseq', 'ggrimes/nf_fastqc', 'ggrimes/nextflow_rnaseq_training_dataset', 'ggrimes/crispy-chainsaw', 'ggrimes/nf-fastp'}"
+385,na399,6,"{'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+602,alemenze,6,"{'alemenze/ONT-multi-assembly', 'alemenze/magicuniqueamplicons', 'alemenze/Illumina-ShotgunQuant', 'alemenze/bact-builder', 'alemenze/ONT-basecalling', 'alemenze/ONT-polish'}"
+423,jordwil,6,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'jordwil/nextflow-bowtie2', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+121,valleem,6,"{'IARCbioinfo/gatk4-DataPreProcessing-nf', 'IARCbioinfo/qualimap-nf', 'IARCbioinfo/gatk4-GenotypeGVCFs-nf', 'IARCbioinfo/NGSCheckMate-nf', 'IARCbioinfo/gatk4-HaplotypeCaller-nf', 'Monia234/gatk4-GenotypeGVCFs-IARC'}"
+812,Galithil,6,"{'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+857,rfenouil,6,"{'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+165,xiaoli-dong,6,"{'ABMicroBioinf/magph', 'xiaoli-dong/pathogen', 'ABMicroBioinf/pathogen', 'ABMicroBioinf/nf-qc', 'ABMicroBioinf/nf-tb', 'xiaoli-dong/magph'}"
+858,j23414,6,"{'j23414/desc_workflows', 'j23414/wgcna_nf', 'j23414/compare_workflows', 'isugifNF/blast', 'isugifNF/freebayes', 'isugifNF/RNAseq'}"
+731,matrulda,6,"{'harleenduggal/nfcore-rnaseq', 'FriederikeHanssen/bamtofastq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+1054,javaidm,6,"{'javaidm/layer_lab_somatic_sv', 'ryanlayerlab/layer_lab_caw', 'javaidm/layer_lab_dna_seq_vc', 'javaidm/obsolete_layer_lab_caw', 'javaidm/layer_lab_vc', 'ryanlayerlab/layer_lab_chco'}"
+290,vezzi,6,"{'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+37,aanil,6,"{'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+451,alesssia,6,"{'nf-core/methylseq', 'alesssia/YAMP', 'GMS6804-master/YAMP', 'HadrienG/nanoflow', 'kviljoen/fastq_QC', 'FAANG/GSM-pipeline'}"
+211,BABS-STP1,6,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'crickbabs/BABS-RNASeq', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+222,drejom,6,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'drejom/bam2fastq-nf', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+293,jun-wan,6,"{'harleenduggal/nfcore-rnaseq', 'eQTL-Catalogue/rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+1041,charles-plessy,6,"{'luslab/luslab-nf-modules', 'oist/plessy_Nextflow_SpliceLeaderCAGE', 'nf-core/eager', 'nf-core/modules', 'oist/plessy_CAGEscan_Nextflow', 'oist/plessy_draft_nf-busco'}"
+295,jfnavarro,6,"{'nf-core/modules', 'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'UMCUGenetics/sarek_ubec'}"
+717,mvanins,6,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'mvanins/stress_granule_RNA_manuscript', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+176,tdelhomme,6,"{'IARCbioinfo/fastqc-nf', 'tdelhomme/vcf_ancestry-nf', 'IARCbioinfo/table_annovar-nf', 'IARCbioinfo/qualimap-nf', 'Monia234/IARC-fastqc', 'IARCbioinfo/TCGA_platypus-nf'}"
+329,cjfields,5,"{'h3abionet/node-accreditation', 'HPCBio/16S-rDNA-dada2-pipeline', 'nf-core/cutandrun', 'h3abionet/h3arefgraph', 'h3abionet/HPCBio-Refgraph_pipeline'}"
+890,danielecook,5,"{'AndersenLab/variant-simulations-nf', 'AndersenLab/genomes-nf', 'AndersenLab/wi-gatk', 'AndersenLab/alignment-nf', 'AndersenLab/nil-ril-nf'}"
+1003,Midnighter,5,"{'nf-core/modules', 'UnseenBio/shotgun-qc-nf', 'UnseenBio/build-sourmash-index', 'UnseenBio/bracken-nf', 'nf-core/funcscan'}"
+553,lindaxiang,5,"{'icgc-argo-workflows/open-access-variant-filtering', 'icgc-argo-workflows/sanger-wgs-variant-calling', 'icgc-argo-workflows/sanger-wxs-variant-calling', 'icgc-argo-workflows/dna-seq-processing-wfs', 'icgc-argo-workflows/nextflow-data-processing-utility-tools'}"
+896,ppericard,5,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+326,Vlad-Dembrovskyi,5,"{'lifebit-ai/relate', 'TheJacksonLaboratory/Star_indices', 'TheJacksonLaboratory/splicing-pipelines-nf', 'lifebit-ai/pcgr-nf', 'lifebit-ai/DeepVariant'}"
+826,thanhleviet,5,"{'nf-core/bactmap', 'thanhleviet/nf-nanopore-assembly', 'nf-core/modules', 'connor-lab/ncov2019-artic-nf', 'food-safety-bioinformatics-hackathon/benchmarking-refseq'}"
+753,priesgo,5,"{'TRON-Bioinformatics/tronflow-mutect2', 'TRON-Bioinformatics/tronflow-haplotype-caller', 'TRON-Bioinformatics/tronflow-bam-preprocessing', 'TRON-Bioinformatics/tronflow-template', 'TRON-Bioinformatics/covigator-ngs-pipeline'}"
+341,fmaguire,5,"{'fmaguire/mag_binning_workflow', 'fmaguire/filter_flow', 'fmaguire/diamond_workflow', 'bactopia/bactopia', 'fmaguire/mag_sweep'}"
+936,jburos,5,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+972,HadrienG,5,"{'nf-core/mag', 'HadrienG/nanoflow', 'HadrienG/gwas_benchmarks', 'HadrienG/2018_coral_16S', 'HadrienG/arbetsprov'}"
+138,mpozuelo,5,"{'mpozuelo/MGI_demux', 'mpozuelo/demultiplexing', 'mpozuelo/illumina_demux', 'mpozuelo/exome_mosdepth', 'mpozuelo/QC_demux'}"
+224,adigenova,5,"{'IARCbioinfo/bam2cram', 'IARCbioinfo/purple-nf', 'IARCbioinfo/NGSCheckMate-nf', 'IARCbioinfo/nf-gene-fusions', 'Monia234/IARC-RNA-seq'}"
+605,zxl124,5,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+852,SpikyClip,5,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'SpikyClip/llrnaseq', 'nf-core/rnaseq', 'Lewsey-Lab/lims-rnaseq'}"
+593,replikation,5,"{'RVanDamme/MUFFIN', 'nanozoo/wf_prepare_submission_dammit', 'replikation/docker_pipelines', 'replikation/blastn_so_hot', 'replikation/poreCov'}"
+929,Amanj1,5,"{'Amanj1/Discovery2', 'Amanj1/TTV-primer-analysis', 'Amanj1/PhyloProtTTV', 'Amanj1/TTVnucleoTranslations', 'Amanj1/variantSeeker'}"
+302,mamanambiya,5,"{'mamanambiya/phasing_vcf_eagle', 'mamanambiya/popfreqs', 'h3abionet/popfreqs', 'h3abionet/recalling', 'h3abionet/chipimputation_evaluate_chips'}"
+681,Emiller88,5,"{'harleenduggal/nfcore-rnaseq', 'nf-core/modules', 'NCBI-Codeathons/lung-rna-seq', 'harleenduggal/RNASEQ', 'nf-core/rnaseq'}"
+469,Mxrcon,5,"{'Mxrcon/Nextflow-study', 'Mxrcon/Savio_alignments_nf', 'nf-core/modules', 'Mxrcon/Gustavo_protein_anotation_nf', 'bactopia/bactopia'}"
+74,orionzhou,5,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+75,paulklemm,5,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+682,junjun-zhang,5,"{'icgc-argo-workflows/icgc-argo-sv-copy-number', 'icgc-argo-workflows/sanger-wgs-variant-calling', 'icgc-argo-workflows/sanger-wxs-variant-calling', 'icgc-argo-workflows/dna-seq-processing-wfs', 'icgc-argo-workflows/nextflow-data-processing-utility-tools'}"
+473,esrice,5,"{'WarrenLab/longread-svs-nf', 'WarrenLab/shortread-polish-nf', 'WarrenLab/longread-polish-nf', 'esrice/workflows', 'WarrenLab/purge-haplotigs-nf'}"
+67,antunderwood,5,"{'antunderwood/nextflow-aws-batch-issue-1024', 'nf-core/bactmap', 'nf-core/modules', 'antunderwood/amr_prediction', 'nf-core/viralrecon'}"
+475,imendes93,5,"{'imendes93/sv-nf', 'lifebit-ai/bam2cram', 'imendes93/ReleaseTheKraken', 'lifebit-ai/pcgr-nf', 'lifebit-ai/ReleaseTheKraken'}"
+802,davidmasp,5,"{'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'UMCUGenetics/sarek_ubec'}"
+497,amayer21,5,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+690,silviamorins,5,"{'harleenduggal/nfcore-rnaseq', 'harleenduggal/RNASEQ', 'alam1988/Nextflow', 'nf-core/rnaseq', 'junyu-boston/dicerna-rnaseq'}"
+25,adrlar,5,"{'nf-core/sarek', 'sickle-in-africa/saw.sarek', 'sripaladugu/germline_somatic', 'Genomic-Medicine-Linkoping/nf-core-sarek', 'UMCUGenetics/sarek_ubec'}"
+420,brwnj,5,"{'brwnj/upward', 'quinlan-lab/preon', 'brwnj/seqcover-nf', 'brwnj/freebayes-nf', 'BigelowLab/gorg-classifier'}"
+658,grbot,5,"{'HPCBio/16S-rDNA-dada2-pipeline', 'grbot/nf-core-test', 'grbot/nf-core-example', 'h3abionet/recalling', 'grbot/run-fastqc'}"
+85,remiolsen,5,"{'nf-core/cookiecutter', 'remiolsen/hicscaff', 'remiolsen/outlaw', 'remiolsen/nf-core-radseq', 'nf-core/neutronstar'}"
+1056,MGordon09,5,"{'nibscbioinformatics/nf-core-bagobugs', 'nf-core/modules', 'nibscbioinformatics/nf-core-buggybarcodes', 'MGordon09/nf-core-bagobugs', 'MGordon09/nf-core-buggybarcodes'}"
+801,ajodeh-juma,4,"{'ajodeh-juma/rvfvtyping', 'ajodeh-juma/viclara', 'nf-core/modules', 'Vikash84/viclara'}"
+983,cmatKhan,4,"{'cmatKhan/rnaseq_pipeline_rewrite', 'cmatKhan/brentlab_rnaseq_nf', 'cmatKhan/bartNPNF', 'cmatKhan/nf-core-rw'}"
+1046,CharlotteAnne,4,"{'luslab/nf-clip', 'goodwright/imaps-nf', 'nf-core/clipseq', 'luslab/nf-core-modules'}"
+285,lwratten,4,"{'lwratten/nf_example', 'nf-core/nanoseq', 'lwratten/nanorna', 'lwratten/nanorna-bam'}"
+158,gn5,4,"{'wtsi-hgi/nf_irods_to_lustre', 'wtsi-hgi/nextflow_ci', 'wtsi-hgi/nf_scrna_deconvolution', 'wtsi-hgi/nextflow-pipelines'}"
+49,c-mertes,4,"{'nf-core/modules', 'harleenduggal/RNASEQ', 'harleenduggal/nfcore-rnaseq', 'nf-core/rnaseq'}"
+309,spficklin,4,"{'nf-core/modules', 'SystemsGenetics/transcript_corral', 'mmcogle/GEMmakerCam', 'SystemsGenetics/GEMmaker'}"
+744,wtsi-mercury,4,"{'wtsi-hgi/nf_irods_to_lustre', 'wtsi-hgi/nextflow_ci', 'wtsi-hgi/nf_scrna_deconvolution', 'wtsi-hgi/nextflow-pipelines'}"
+212,sguizard,4,"{'sguizard/nf-feelnc', 'sguizard/nf-core-tamanmd', 'nf-core/modules', 'sguizard/isoseq'}"
+678,ATpoint,4,"{'ATpoint/sc_preprocess', 'ATpoint/nf_blank', 'ATpoint/atac_chip_preprocess', 'ATpoint/rnaseq_preprocess'}"
+310,samlhao,4,"{'czbiohub/sc2-illumina-pipeline', 'samlhao/hgtsimulation', 'czbiohub/sc2-ngs-analysis', 'samlhao/nextflow-spid'}"
+1051,pinin4fjords,4,"{'ebi-gene-expression-group/scanpy-workflow', 'ebi-gene-expression-group/isl_refs_to_refgenie', 'ebi-gene-expression-group/scxa-bundle-workflow', 'ebi-gene-expression-group/scxa-droplet-quantification-workflow'}"
+280,mmeier93,4,"{'lifebit-ai/metagwas', 'lifebit-ai/simulate', 'lifebit-ai/prs', 'lifebit-ai/phewas'}"
+69,glormph,4,"{'sickle-in-africa/saw.structural-variants', 'glormph/nf-core-lfquandenser', 'glormph/nf-core-labelcheck', 'glormph/nf-core-dda-quant-proteomics'}"
+482,marc-jones,4,"{'marc-jones/nextflow-example', 'luslab/luslab-nf-modules', 'goodwright/imaps-nf', 'luslab/nf-core-modules'}"
+360,marcodelapierre,4,"{'marcodelapierre/illumina-nf', 'marcodelapierre/demo-shpc-nf', 'marcodelapierre/trinity-nf', 'marcodelapierre/nanopore-nf'}"
+58,alexthiery,4,"{'Streit-lab/streitlab-nf-modules', 'luslab/luslab-nf-modules', 'luslab/nf-clip', 'luslab/nf-core-modules'}"
+641,fmalmeida,4,"{'nf-core/modules', 'fmalmeida/ngs-preprocess', 'fmalmeida/bacannot', 'fmalmeida/MpGAP'}"
+587,k-florek,4,"{'wslh-bio/spriggan', 'wslh-bio/dryad', 'k-florek/mirkwater', 'UPHL-BioNGS/Cecret'}"
+187,svarona,4,"{'BU-ISCIII/panelLowFreq-nf', 'rastiks/viralrecon', 'BU-ISCIII/SARS_Cov2_consensus-nf', 'nf-core/viralrecon'}"
+20,amchakra,4,"{'luslab/luslab-nf-modules', 'luslab/nf-clip', 'nf-core/clipseq', 'luslab/nf-core-modules'}"
+1035,caspargross,4,"{'caspargross/HybridAssembly', 'caspargross/nf-core-denovohybrid', 'imgag/plasmIDent', 'caspargross/plasmIDent'}"
+350,saramonzon,4,"{'BU-ISCIII/panelLowFreq-nf', 'rastiks/viralrecon', 'BU-ISCIII/SARS_Cov2_consensus-nf', 'nf-core/viralrecon'}"
+19,angelovangel,4,"{'replikation/poreCov', 'nf-core/bacass', 'angelovangel/nxf-fastqc', 'angelovangel/nxf-kraken2'}"
+128,jambler24,4,"{'uct-cbio/bacterial_variant_calling', 'jambler24/bacterial_transcriptomics', 'h3abionet/h3arefgraph', 'jambler24/bac_pangenome'}"
+137,mariach,4,"{'lifebit-ai/DeepVariantWGS', 'Biocentric/DeepVariantNF', 'lifebit-ai/DeepVariantTrain', 'lifebit-ai/DeepVariant'}"
+340,Zethson,4,"{'subwaystation/pangenome', 'Leon-Bichmann/Phosphoproteomics', 'nf-core/proteomicslfq', 'jiangfuqing/CRISPR-Cas-off-target-identification'}"
+926,faithman,4,"{'AndersenLab/SEmRNA-seq-nf', 'AndersenLab/wi-gatk', 'faithman/variant-nf', 'AndersenLab/alignment-nf'}"
+660,liameabbott,4,"{'liameabbott/drop-seq-tools-pipeline', 'gates-mri-bioinformatics/reference-database', 'liameabbott/reference-database', 'liameabbott/bulk-rna-seq-pipeline'}"
+503,olavurmortensen,4,"{'fargenfo/linkseq-demux', 'fargenfo/gatk-joint-genotyping', 'fargenfo/linkseq', 'olavurmortensen/demuxlink'}"
+914,jpfeuffer,4,"{'bigbio/proteomicstmt', 'Leon-Bichmann/Phosphoproteomics', 'bigbio/quantms', 'nf-core/proteomicslfq'}"
+134,photocyte,4,"{'photocyte/luciferase-PPX-predictor-nf', 'photocyte/genomeScope_nf', 'photocyte/repeatModeler2_nf', 'photocyte/doSameSpeciesLiftOver_nextflow'}"
+917,m-bull,4,"{'connor-lab/qc_nextflow', 'mikek498/artic-gls', 'connor-lab/ncov2019-artic-nf', 'connor-lab/PenGU-testdata-build'}"
+814,t-neumann,4,"{'PavriLab/repliseq-nf', 'ZuberLab/crispr-process-nf', 't-neumann/slamseq', 't-neumann/salmon-nf'}"
+265,ljmesi,4,"{'nf-core/raredisease', 'nf-core/taxprofiler', 'nf-core/modules', 'genomic-medicine-sweden/JASEN'}"
+894,jvpon,4,"{'biocorecrg/CoursesCRG_Containers_Nextflow_May_2021', 'biocorecrg/ELIXIR_containers_nextflow', 'biocorecrg/vectorQC', 'biocorecrg/SIB_course_nextflow_Nov_2021'}"
+394,mbosio85,4,"{'mbosio85/CNVcall', 'inab/RDConnect_RNASeq', 'mbosio85/ngs_variant_calling', 'mbosio85/nf-core-gatkcohortcall'}"
+1025,FelixKrueger,4,"{'nf-core/modules', 'nf-core/methylseq', 's-andrews/nextflow_pipelines', 'FAANG/GSM-pipeline'}"
+226,yuifu,4,"{'bioinfo-tsukuba/nf-fastqc', 'rikenbit/ramdaq', 'rikenbit/RamDAQ-prototype', 'yuifu/nextflow_cwl_example'}"
+488,kevbrick,4,"{'nf-core/modules', 'nf-core/ssds', 'kevbrick/pipeIt', 'kevbrick/ssds_nfcore'}"
+545,charlotte-west,4,"{'nf-core/clipseq', 'luslab/luslab-nf-modules', 'nf-core/cutandrun', 'luslab/nf-core-modules'}"
+95,juneb4869,4,"{'ssun1116/meripseqpipe', 'canceromics/MeRIPseqPipe', 'juneb4869/new_meripseqpipe', 'kingzhuky/meripseqpipe'}"
+913,doudoufeishangtian,4,"{'doudoufeishangtian/WGSpipe-nf', 'doudoufeishangtian/bacDENOVO-nf', 'doudoufeishangtian/smRNApipe-nf', 'doudoufeishangtian/RNApipe-nf'}"
+362,MillironX,3,"{'nf-core/modules', 'ksumngs/v-met', 'ksumngs/nf-modules'}"
+458,J35P312,3,"{'genomic-medicine-sweden/RareDisease_RNA_workflow', 'GMS6804-master/Sarek', 'melnel000/Sarek_CBIO'}"
+956,varshini712,3,"{'NYU-Molecular-Pathology/LG-PACT', 'NYU-Molecular-Pathology/NGS580-nf', 'varshini712/mutect2-nf'}"
+338,emi80,3,"{'guigolab/rnaseq-nf', 'CRG-CNAG/CalliNGS-NF', 'nextflow-io/nf-hack18'}"
+718,seandavi,3,"{'seandavi/curatedMetagenomicsNextflow', 'seandavi/cmgd_coordinator', 'seandavi/nf-core-cmgd'}"
+919,nvk747,3,"{'nf-core/methylseq', 'nf-core/hlatyping', 'FAANG/GSM-pipeline'}"
+1011,AbigailShockey,3,"{'wslh-bio/spriggan', 'wslh-bio/dryad', 'AbigailShockey/augur-nf'}"
+795,bwlang,3,"{'replikation/poreCov', 'AGROSAVIABIOUNIT/nextflow_conda_cutadapt', 'nebiolabs/EM-seq'}"
+270,sunitj,3,"{'FischbachLab/nf-readqc', 'FischbachLab/nf-reads-profiler', 'FischbachLab/nf-midas'}"
+273,jinmingda,3,"{'nf-core/modules', 'lengfei5/atacseq_nf', 'nf-core/atacseq'}"
+863,FilipThorn,3,"{'FilipThorn/nf_mito-mania', 'FilipThorn/nf-variantcaller', 'FilipThorn/nf-GL_popstructure'}"
+1043,subwaystation,3,"{'nf-core/modules', 'nf-core/airrflow', 'subwaystation/pangenome'}"
+240,BrianLohman,3,"{'BrianLohman/star-rsem-scrnaseq-nf', 'BrianLohman/pdx-nf', 'BrianLohman/RNAseq-variant-calling-nf'}"
+262,waffle-iron,3,"{'sickle-in-africa/saw.structural-variants', 'GMS6804-master/Sarek', 'melnel000/Sarek_CBIO'}"
+947,ppedrioli,3,"{'digitalproteomes/NF-DIAUmpire', 'digitalproteomes/NF-SpectraST', 'digitalproteomes/NF-CometTPP'}"
+643,nservant,3,"{'bioinfo-pf-curie/as-mapping', 'bioinfo-pf-curie/nf-VIF', 'bioinfo-pf-curie/annotationMaker'}"
+647,lskatz,3,"{'nf-core/modules', 'lskatz/Kessel-run', 'lskatz/nf-core-mlst'}"
+214,lstevens17,3,"{'lstevens17/busco-nf', 'tolkit/nemADSQ', 'lstevens17/nemAsm'}"
+234,MarieGurke,3,"{'MarieGurke/nfconsensus', 'MarieGurke/nfvacal', 'MarieGurke/nfmap'}"
+934,lynn-sanford,3,"{'Dowell-Lab/Bidirectional-Flow', 'Dowell-Lab/RNAseq-Flow', 'Dowell-Lab/Nascent-Flow'}"
+859,biggstd,3,"{'biggstd/nf-core-gsfworkflow', 'SystemsGenetics/GEMmaker', 'mmcogle/GEMmakerCam'}"
+860,marcelm,3,"{'sickle-in-africa/saw.structural-variants', 'GMS6804-master/Sarek', 'melnel000/Sarek_CBIO'}"
+218,tiagochst,3,"{'nf-core/chipseq', 'jiangfuqing/Chip-seq', 'markgene/cutnrun'}"
+529,pallolason,3,"{'sickle-in-africa/saw.structural-variants', 'GMS6804-master/Sarek', 'melnel000/Sarek_CBIO'}"
+1055,alexcorm,3,"{'alexcorm/quick_phylo_BUSCO', 'ifremer-bioinformatics/samba', 'ifremer-bioinformatics/pallor'}"
+958,rivera10,3,"{'Aveglia/vAMPirus', 'PalMuc/TransPi', 'nf-core/bacass'}"
+758,avantonder,3,"{'nf-core/modules', 'avantonder/assembleBAC', 'nf-core/bactmap'}"
+792,likelet,3,"{'likelet/circPipe', 'canceromics/MeRIPseqPipe', 'likelet/MesKit'}"
+442,nebfield,3,"{'PGScatalog/pgsc_calc', 'nebfield/snpQT', 'nf-core/modules'}"
+994,AlfredUg,3,"{'galaxyuvri-ea/UvriMetaSeq', 'galaxyuvri-ea/qiime2-pipeline', 'AlfredUg/QuasiFlow'}"
+603,PiscatorX,3,"{'PiscatorX/videre-pipeline', 'PiscatorX/pool-ezRAD', 'PiscatorX/ezRAD-Pool-seq'}"
+87,kojix2,3,"{'nf-core/modules', 'kojix2/simple_mixcr_nextflow', 'CRG-CNAG/CalliNGS-NF'}"
+148,bschiffthaler,3,"{'bschiffthaler/nf-radseq', 'bschiffthaler/nf-modules', 'bschiffthaler/nf-pseudopipe'}"
+523,erinyoung,3,"{'UPHL-BioNGS/Grandeur', 'UPHL-BioNGS/Donut_Falls', 'UPHL-BioNGS/Cecret'}"
+88,evagradovich,3,"{'lifebit-ai/metagwas', 'lifebit-ai/prs', 'lifebit-ai/phewas'}"
+144,rpetit3,3,"{'nf-core/modules', 'CDCgov/mycosnp-nf', 'bactopia/bactopia'}"
+395,hknahal,3,"{'icgc-argo-workflows/sanger-wgs-variant-calling', 'icgc-argo-workflows/sanger-wxs-variant-calling', 'icgc-argo-workflows/dna-seq-processing-wfs'}"
+745,c-guzman,3,"{'heinzlab/chip-seq-pipeline', 'heinzlab/smrna-seq-pipeline', 'heinzlab/csrna'}"
+700,jackmo375,3,"{'sickle-in-africa/saw.structural-variants', 'sickle-in-africa/saw.snv-indel', 'sickle-in-africa/saw.sarek'}"
+6,winni2k,3,"{'nf-core/chipseq', 'jiangfuqing/Chip-seq', 'markgene/cutnrun'}"
+79,loipf,3,"{'loipf/SOMvc-pipeline', 'loipf/DNAseq-pipeline', 'loipf/DNAsmash-pipeline'}"
+613,lengfei5,3,"{'lengfei5/atacseq_nf', 'lengfei5/nf_visium_kallisto', 'lengfei5/smallRNA_nf'}"
+825,kaurravneet4123,3,"{'nibscbioinformatics/nf-core-viralevo', 'nibscbioinformatics/nf-core-conva', 'nf-core/modules'}"
+898,edgano,3,"{'edgano/C3G_longRead2020', 'edgano/TCoffee-NatureProtocol-nf', 'edgano/nf_phylo3D'}"
+297,vpeddu,3,"{'vpeddu/ev-meta', 'michellejlin/covid_swift_pipeline', 'vpeddu/Slowqc'}"
+495,chewbeckie,3,"{'chewbeckie/flye_ntedit_polish_graph_workflow', 'chewbeckie/Outbreak_EnrichmentCulture', 'chewbeckie/BacAss'}"
+688,rbpisupati,3,"{'rbpisupati/nf-repeatexplorer', 'Gregor-Mendel-Institute/nf-methylpy', 'rbpisupati/nf-haplocaller'}"
+500,annacprice,3,"{'nf-core/modules', 'oxfordmmm/preprocessing', 'annacprice/autodatabase'}"
+1009,adomingues,3,"{'harleenduggal/RNASEQ', 'harleenduggal/nfcore-rnaseq', 'nf-core/rnaseq'}"
+893,emnilsson,3,"{'nf-core/modules', 'nf-core/ampliseq', 'LNUc-EEMiS/metatdenovo'}"
+810,Rotholandus,3,"{'nf-core/chipseq', 'jiangfuqing/Chip-seq', 'markgene/cutnrun'}"
+508,kmayerb,3,"{'kmayerb/nf-corncob', 'kmayerb/nf-mixcr', 'kmayerb/knead-docker'}"
+967,cschu,3,"{'zellerlab/vortex_light', 'zellerlab/gaga2', 'cschu/vortex_knight'}"
+887,bentsherman,3,"{'mmcogle/GEMmakerCam', 'SystemsGenetics/GEMmaker', 'SystemsGenetics/KINC-nf'}"
+714,LaurenceKuhl,3,"{'FriederikeHanssen/shrnacount', 'qbic-pipelines/vcreport', 'LaurenceKuhl/shrnacount'}"
+965,candiceh08,3,"{'nf-core/modules', 'luslab/luslab-nf-modules', 'luslab/nf-clip'}"
+635,jcurado-flomics,3,"{'rastiks/viralrecon', 'Flomics/joao-test', 'nf-core/viralrecon'}"
+15,george-hall-ucl,3,"{'harleenduggal/RNASEQ', 'harleenduggal/nfcore-rnaseq', 'nf-core/rnaseq'}"
+1034,drewjbeh,3,"{'lengfei5/atacseq_nf', 'nf-core/chipseq', 'nf-core/atacseq'}"
+971,lepsalex,3,"{'icgc-argo-workflows/nextflow-data-processing-utility-tools', 'lepsalex/nextflow-pcawg-bwa-mem-workflow', 'icgc-argo-workflows/dna-seq-processing-wfs'}"
+656,cimendes,3,"{'cimendes/metaFlow', 'imendes93/sv-nf', 'NCBI-Hackathons/Nasty_Metagenomes'}"
+170,KevinSayers,3,"{'nextflow-io/nf-hack18', 'nextflow-io/nf-hack17-tutorial', 'tobsecret/BADAS_Nextflow_Tutorial'}"
+807,tronbfxdev,3,"{'TRON-Bioinformatics/tronflow-mutect2', 'TRON-Bioinformatics/tronflow-bam-preprocessing', 'TRON-Bioinformatics/covigator-ngs-pipeline'}"
+885,ImaneLboukili,3,"{'IARCbioinfo/qualimap-nf', 'IARCbioinfo/fastqc-nf', 'Monia234/IARC-fastqc'}"
+379,drpowell,3,"{'harleenduggal/RNASEQ', 'harleenduggal/nfcore-rnaseq', 'nf-core/rnaseq'}"
+73,BioinformaticsLabAtMUN,3,"{'BioinformaticsLabAtMUN/sRNACharP', 'BioinformaticsLabAtMUN/sRNACharP-sRNARanking', 'BioinformaticsLabAtMUN/sRNA-Detect'}"
+706,alexandregilardet,3,"{'nf-core/modules', 'nf-core/bactmap', 'nf-core/eager'}"
+808,tmuylder,3,"{'vibbits/nextflow-jnj', 'biocorecrg/ELIXIR_containers_nextflow', 'vibbits/chipseq-nextflow'}"
+184,projectoriented,3,"{'nf-core/raredisease', 'genomic-medicine-sweden/RareDisease_RNA_workflow', 'nf-core/modules'}"
+536,christopher-mohr,2,"{'nf-core/epitopeprediction', 'nf-core/hlatyping'}"
+790,V-Catherine,2,"{'Monia234/IARC-alignement', 'IARCbioinfo/BQSR-nf'}"
+544,a-lud,2,"{'danielyao12/Sanders-workflows', 'sagc-bioinformatics/modules'}"
+484,WhalleyT,2,"{'WhalleyT/neoantigen_prediction', 'WhalleyT/RECIPIENT'}"
+891,Tingvall,2,"{'Tingvall/macs2_idr', 'Tingvall/cutntag'}"
+542,snafees,2,"{'nf-core/kmermaid', 'czbiohub/nf-unsplicedcds'}"
+780,kaitlinchaung,2,"{'czbiohub/nf-sicilian', 'salzmanlab/ReadZS'}"
+746,rernst,2,"{'UMCUGenetics/DxNextflowWES', 'UMCUGenetics/NextflowModules'}"
+877,nschan,2,"{'Gregor-Mendel-Institute/aradeepopsis', 'phue/aradeepopsis'}"
+749,pgonzale60,2,"{'tolkit/nemADSQ', 'pgonzale60/genokmer_hifi'}"
+330,shyaman,2,"{'AgBC-UoP/mapNclean-nf', 'AgBC-UoP/seq-contamination-QC-nf'}"
+323,BrunoGrandePhD,2,"{'UMCUGenetics/sarek_ubec', 'nf-core/sarek'}"
+784,neevor,2,"{'czbiohub/sc2-illumina-pipeline', 'czbiohub/nextflow-tutorial-2019'}"
+778,anfederico,2,"{'montilab/pipeliner-2', 'montilab/pipeliner'}"
+318,Darcy220606,2,"{'nf-core/modules', 'nf-core/funcscan'}"
+538,alexwhan,2,"{'csiro-crop-informatics/repset', 'csiro-crop-informatics/reproducible_poc'}"
+308,angarb,2,"{'TheJacksonLaboratory/Star_indices', 'TheJacksonLaboratory/splicing-pipelines-nf'}"
+818,bunop,2,"{'nf-core/modules', 'bunop/nextflow-training'}"
+855,supark87,2,"{'supark87/prac_nextflow', 'supark87/minion_hrp2'}"
+331,Jeremy1805,2,"{'nf-core/modules', 'Jeremy1805/nf-core-influenzangs'}"
+665,phupe,2,"{'bioinfo-pf-curie/geniac-template', 'bioinfo-pf-curie/geniac-demo-dsl2'}"
+440,AntoniaSchuster,2,"{'nf-core/modules', 'nf-core/mag'}"
+378,JohnHadish,2,"{'mmcogle/GEMmakerCam', 'SystemsGenetics/GEMmaker'}"
+512,tmc-hematopath,2,"{'tmc-hematopath/NextSeq_MIPS_NextflowMutationDetector', 'tmc-hematopath/smMIPS-Detection-Pipeline'}"
+770,dthorburn,2,"{'dthorburn/Agam_Methylation', 'dthorburn/Genomic_Read_Processing'}"
+386,gdevailly,2,"{'nf-core/methylseq', 'FAANG/GSM-pipeline'}"
+435,palfalvi,2,"{'palfalvi/nanoporeseq', 'palfalvi/rnaseq'}"
+835,kingzhuky,2,"{'ssun1116/meripseqpipe', 'kingzhuky/meripseqpipe'}"
+393,ameintjes,2,"{'h3abionet/chipimputation_evaluate_chips', 'h3abionet/popfreqs'}"
+507,ThamLe2601,2,"{'ThamLe2601/nextflow-rnaseq-modules', 'PI-Bioinfo/thamlee-nxf-rnaseq'}"
+833,riederd,2,"{'icbi-lab/nextNEOpi', 'nf-core/modules'}"
+399,reganhayward,2,"{'bhagesh-codebeast/nextflowdualrnaseq', 'nf-core/dualrnaseq'}"
+829,dshafranskaya,2,"{'ablab/metaGT', 'ablab/graphamr'}"
+431,didillysquat,2,"{'didillysquat/kopp_2021_fowl', 'didillysquat/yamada'}"
+428,Gwennid,2,"{'nf-core/raredisease', 'nf-core/modules'}"
+824,Lipinski-B,2,"{'IARCbioinfo/Imputation-nf', 'Monia234/IARC-imputation'}"
+426,isugif,2,"{'isugifNF/freebayes', 'isugifNF/blast'}"
+425,daichengxin,2,"{'bigbio/proteomicstmt', 'bigbio/quantms'}"
+411,robinfchan,2,"{'robinfchan/citeseq-nf', 'robinfchan/bisulfite_align_nf'}"
+413,trev-f,2,"{'trev-f/SRAlign', 'trev-f/SRAtac'}"
+417,ellendejong,2,"{'UMCUGenetics/DxNextflowWES', 'UMCUGenetics/NextflowModules'}"
+418,oxfordfun,2,"{'oxfordmmm/preprocessing', 'oxfordfun/FunSnippy'}"
+516,dependabot[bot],2,"{'lifebit-ai/bam2cram', 'vib-singlecell-nf/vsn-pipelines'}"
+375,sdjebali,2,"{'FAANG/analysis-TAGADA', 'nf-core/smrnaseq'}"
+520,csawye01,2,"{'nf-core/nanoseq', 'csawye01/nf-core-demultiplex'}"
+798,ignaciot,2,"{'nf-core/nascent', 'Dowell-Lab/Nascent-Flow'}"
+751,Biocentric,2,"{'Biocentric/DeepVariantNF', 'Biocentric/rnaseq_debug'}"
+870,KaiLiCn,2,"{'bzhanglab/DeepRescore', 'bzhanglab/neoflow'}"
+337,lbarquist,2,"{'bhagesh-codebeast/nextflowdualrnaseq', 'nf-core/dualrnaseq'}"
+796,phileastbioinf,2,"{'crickbabs/nextflow_toolbox', 'crickbabs/BABS-aDNASeq'}"
+869,melferink,2,"{'UMCUGenetics/DxNextflowWES', 'UMCUGenetics/NextflowModules'}"
+797,michellejlin,2,"{'michellejlin/covid_swift_pipeline', 'greninger-lab/demux'}"
+343,mikek498,2,"{'mikek498/artic-gls', 'connor-lab/ncov2019-artic-nf'}"
+531,MarieLataretu,2,"{'hoelzer/clean', 'replikation/poreCov'}"
+530,kkerns85,2,"{'kkerns85/midas_nextflow', 'kkerns85/midas_nf_tower'}"
+864,bleazard,2,"{'nibscbioinformatics/humgen', 'nibscbioinformatics/viralevo'}"
+371,wenbostar,2,"{'bzhanglab/DeepRescore', 'bzhanglab/neoflow'}"
+448,njspix,2,"{'nf-core/modules', 'njspix/ref_genomes'}"
+355,dvolk,2,"{'tiwarialok/new-rnaseq', 'davideyre/bug-flow'}"
+446,porchard,2,"{'porchard/ATACseq-NextFlow', 'porchard/RNAseq-NextFlow'}"
+771,phoenixAja,2,"{'nf-core/kmermaid', 'czbiohub/nf-predictorthologs'}"
+365,cnoel-sebimer,2,"{'ifremer-bioinformatics/samba', 'ifremer-bioinformatics/FLORA'}"
+366,l-modolo,2,"{'LBMC/readthroughpombe', 'clemgoub/dnaPipeTE2'}"
+492,noelnamai,2,"{'noelnamai/differential-expression-analysis', 'bzhanglab/neoflow'}"
+522,ameynert,2,"{'ameynert/base-space-download-fastq-with-checksums', 'ameynert/bam2fastq'}"
+370,jgolob,2,"{'jgolob/maliampi', 'Golob-Minot/geneshot'}"
+387,Thomieh73,2,"{'NorwegianVeterinaryInstitute/Talos', 'NorwegianVeterinaryInstitute/Nepal'}"
+477,myoshimura080822,2,"{'rikenbit/ramdaq', 'rikenbit/RamDAQ-prototype'}"
+147,jherrero,2,"{'UCL-BLIC/wgsalign', 'UCL-BLIC/nf-ginkgo'}"
+701,edg1983,2,"{'edg1983/NF_variant_annotation', 'edg1983/WGS_pipeline'}"
+990,RenzoTale88,2,"{'RenzoTale88/nf-LO', 'evotools/nf-LO'}"
+638,jeslipp,2,"{'ZuberLab/crispr-process-nf', 'ZuberLab/crispr-nf'}"
+143,hseabolt,2,"{'nf-core/modules', 'CDCgov/mycosnp-nf'}"
+703,bioinformatist,2,"{'likelet/circPipe', 'bioinformatist/nf-core-metaamplicon'}"
+899,ralf-tambets,2,"{'eQTL-Catalogue/qtlmap', 'eQTL-Catalogue/genimpute'}"
+71,saioruganti,2,"{'mmcogle/GEMmakerCam', 'SystemsGenetics/GEMmaker'}"
+149,michaelbale,2,"{'michaelbale/JLab-ATACFlow', 'michaelbale/JLab-IPSeqFlow'}"
+150,noirot,2,"{'nf-core/methylseq', 'FAANG/GSM-pipeline'}"
+151,jimmyliu1326,2,"{'jimmyliu1326/tCANS', 'jimmyliu1326/SamnSero_Nextflow'}"
+704,Sanger-ad7,2,"{'wtsi-hgi/eqtl', 'wtsi-hgi/associations'}"
+159,anwarMZ,2,"{'anwarMZ/nf-upcoast-v', 'cidgoh/cidgoh_qc'}"
+64,zmaas,2,"{'Dowell-Lab/RNAseq-Flow', 'Dowell-Lab/Nascent-Flow'}"
+1036,rwtaylor,2,"{'rwtaylor/mpcr-analyses-pipelines', 'rwtaylor/nextflow-pipelines'}"
+680,ramprasadn,2,"{'nf-core/raredisease', 'nf-core/modules'}"
+600,lekhakaranam,2,"{'czbiohub/nextflow-tutorial-2019', 'czbiohub/nf-predictorthologs'}"
+171,alexhbnr,2,"{'maxibor/madman', 'nf-core/eager'}"
+54,Gustius,2,"{'Gustius/omics-analyser', 'Gustius/MOFA'}"
+178,jamez-eh,2,"{'jamez-eh/nf-fh-pcp-wes-align', 'jamez-eh/nf-fh-pcp-wes-mutect2'}"
+180,fredericlemoine,2,"{'evolbioinfo/gotree_usecase', 'evolbioinfo/booster-workflows'}"
+47,viktorlj,2,"{'viktorlj/SarGet', 'viktorlj/SarekCLLPostProcess'}"
+586,brentp,2,"{'Monia234/IARC-alignement', 'brentp/rare-disease-wf'}"
+189,mohammedkhalfan,2,"{'gencorefacility/nf-workflows', 'gencorefacility/variant-calling-pipeline-gatk4'}"
+190,iferres,2,"{'iferres/CSI-nf', 'microgenlab/porefile'}"
+191,fanninpm,2,"{'usafsam/mad_river_wf', 'UPHL-BioNGS/Cecret'}"
+1021,b600a,2,"{'b600a/tuber', 'CENMIG/snpplet'}"
+609,ryanlayer,2,"{'javaidm/obsolete_layer_lab_caw', 'javaidm/layer_lab_dna_seq_vc'}"
+135,praveenraj2018,2,"{'nf-core/modules', 'nf-core/rnavar'}"
+1053,higsch,2,"{'higsch/togetherforever', 'nf-core/rnafusion'}"
+1028,tiagofilipe12,2,"{'ielis/nextflow-example', 'tiagofilipe12/pATLAS-db-creation'}"
+97,yuukiiwa,2,"{'nf-core/modules', 'nf-core/nanoseq'}"
+98,gavinf97,2,"{'gavinf97/groupnextflow', 'gavinf97/Nextflow_AntiSMASH'}"
+629,happykhan,2,"{'happykhan/nf-scripts', 'happykhan/nf-klebtest'}"
+689,agahkarakuzu,2,"{'agahkarakuzu/mtsatflow', 'courtois-neuromod/anat-processing'}"
+1015,louperelo,2,"{'nf-core/modules', 'louperelo/longmetarg'}"
+1014,cwytko,2,"{'mmcogle/GEMmakerCam', 'SystemsGenetics/GEMmaker'}"
+107,lkuchenb,2,"{'Leon-Bichmann/diaproteomics', 'nf-core/epitopeprediction'}"
+625,erikwaskiewicz,2,"{'erikwaskiewicz/ctdna-project', 'erikwaskiewicz/bamsurgeon-nextflow'}"
+110,rannick,2,"{'nf-core/raredisease', 'nf-core/modules'}"
+624,tamara-hodgetts,2,"{'nf-core/modules', 'tamara-hodgetts/nf-atac-seq'}"
+112,MiguelJulia,2,"{'rastiks/viralrecon', 'nf-core/viralrecon'}"
+692,sarahbonnin,2,"{'biocorecrg/CoursesCRG_Containers_Nextflow_May_2021', 'biocorecrg/ELIXIR_containers_nextflow'}"
+621,JPWerling,2,"{'Clinical-Genomics-Linkoping/gms-JASEN', 'genomic-medicine-sweden/JASEN'}"
+686,sateeshperi,2,"{'nf-core/modules', 'CDCgov/mycosnp-nf'}"
+119,suzannejin,2,"{'nf-core/modules', 'suzannejin/nf-proportionality'}"
+685,dlemas,2,"{'GMS6804-master/YAMP', 'GMS6804-master/rnatoy'}"
+90,t-f-freeman,2,"{'trev-f/SRAlign', 'trev-f/SRAtac'}"
+684,mageshwarm,2,"{'mageshwarm/blast-example-magesh', 'mageshwarm/rnaseq-nf-magesh'}"
+615,merszym,2,"{'mpieva/quicksand', 'mpieva/quicksand-build'}"
+127,jvierstra,2,"{'jvierstra/nf-genotyping', 'jvierstra/nf-index'}"
+84,aurelieGabriel,2,"{'IARCbioinfo/Imputation-nf', 'Monia234/IARC-imputation'}"
+83,SannaAb,2,"{'SannaAb/Mutation_Calling', 'SannaAb/RNA_Seq_Pipe'}"
+130,bhbhjs,2,"{'b600a/tuber', 'CENMIG/snpplet'}"
+699,steepale,2,"{'steepale/wgsfastqtobam', 'steepale/nf-core-mutenrich'}"
+634,matt-sd-watson,2,"{'matt-sd-watson/nextflow_misc', 'matt-sd-watson/nextflow_for_nextstrain'}"
+955,DiegoBrambilla,2,"{'bioatlas/ampliflow', 'nf-core/ampliseq'}"
+198,mjmansfi,2,"{'luslab/nf-core-denovohybrid', 'luslab/luslab-nf-modules'}"
+1066,sivakhno,2,"{'lifebit-ai/DeepVariantWGS', 'lifebit-ai/DeepVariantTrain'}"
+562,drbecavin,2,"{'becavin-lab/nf-rnaseq', 'becavin-lab/nf-blast'}"
+203,seppinho,2,"{'askimed/nf-test-examples', 'genepi/nf-gwas'}"
+13,vsoch,2,"{'marcodelapierre/demo-shpc-nf', 'GMS6804-master/rnatoy'}"
+737,hirenbioinfo,2,"{'hirenbioinfo/Nanopipe', 'hirenbioinfo/nextflow_pipeline'}"
+558,andricDu,2,"{'icgc-argo-workflows/nextflow-data-processing-utility-tools', 'icgc-argo-workflows/dna-seq-processing-wfs'}"
+253,MSBradshaw,2,"{'javaidm/layer_lab_vc', 'ryanlayerlab/layer_lab_chco'}"
+254,ffmmulder,2,"{'UMCUGenetics/sarek_ubec', 'UMCUGenetics/NextflowModules'}"
+557,gf-atebbe,2,"{'goldfinchbio/sentieon-nextflow', 'goldfinchbio/gatk-nextflow'}"
+1069,sidorov-si,2,"{'nf-core/modules', 'luslab/luslab-nf-modules'}"
+256,vladsaveliev,2,"{'vladsaveliev/cawdor', 'vladsaveliev/umcaw'}"
+258,LordRust,2,"{'Clinical-Genomics-Linkoping/gms-JASEN', 'genomic-medicine-sweden/JASEN'}"
+916,andersgs,2,"{'nf-core/modules', 'MDU-PHL/kovid-trees-nf'}"
+915,tobsecret,2,"{'tobsecret/covid19', 'tobsecret/BADAS_Nextflow_Tutorial'}"
+264,fredjaya,2,"{'fredjaya/mutscape', 'fredjaya/msmc-nf'}"
+912,rmcolq,2,"{'virus-evolution/phylopipe', 'COG-UK/datapipe'}"
+10,rolivella,2,"{'elixir-cloud-proteomics-workflows/elixir_proteomics_QC', 'proteomicsunitcrg/qcloud2-pipeline'}"
+1071,PeterBailey,2,"{'jiangfuqing/scrna-seq', 'nf-core/scrnaseq'}"
+911,rmoran7,2,"{'rmoran7/dx_sarek', 'rmoran7/custom_sarek'}"
+7,lukfor,2,"{'askimed/nf-test-examples', 'genepi/nf-gwas'}"
+909,jerdra,2,"{'jerdra/BOONStim', 'jerdra/TIGR_PURR'}"
+274,nhhaidee,2,"{'nhhaidee/scovtree', 'peterk87/phylogenetictree'}"
+907,maallen3,2,"{'Dowell-Lab/RNAseq-Flow', 'Dowell-Lab/Nascent-Flow'}"
+276,phelelani,2,"{'phelelani/nf-rnaSeqCount', 'phelelani/nf-rnaSeqMetagen'}"
+554,BarryDigby,2,"{'BarryDigby/circ', 'BarryDigby/nextflow_bits'}"
+551,sofsta,2,"{'Clinical-Genomics-Linkoping/gms-JASEN', 'genomic-medicine-sweden/JASEN'}"
+902,Sebastian-D,2,"{'GMS6804-master/Sarek', 'melnel000/Sarek_CBIO'}"
+1075,ktrns,2,"{'rastiks/viralrecon', 'nf-core/viralrecon'}"
+289,AGROSAVIABIOUNIT,2,"{'AGROSAVIABIOUNIT/MT', 'AGROSAVIABIOUNIT/nextflow_conda_cutadapt'}"
+247,coraliegimonnet,2,"{'coraliegimonnet/ChIP-seq_pipeline', 'coraliegimonnet/BS-Seq_pipeline'}"
+1020,ntoda03,2,"{'nf-core/modules', 'ntoda03/cycleassembler'}"
+734,Shuaishuail-mun,2,"{'BioinformaticsLabAtMUN/sRNACharP-sRNARanking', 'BioinformaticsLabAtMUN/sRNA-Detect'}"
+573,jchoude,2,"{'scilus/tractoflow-pve', 'scilus/tractoflow'}"
+34,cguyomar,2,"{'cguyomar/nf-ase', 'FAANG/analysis-TAGADA'}"
+950,ythaworn,2,"{'b600a/tuber', 'CENMIG/snpplet'}"
+1057,carlo-berg,2,"{'Clinical-Genomics-Linkoping/gms-JASEN', 'genomic-medicine-sweden/JASEN'}"
+674,sylvinite,2,"{'Clinical-Genomics-Linkoping/gms-JASEN', 'genomic-medicine-sweden/JASEN'}"
+210,bokelund,2,"{'Clinical-Genomics-Linkoping/gms-JASEN', 'genomic-medicine-sweden/JASEN'}"
+215,aersoares81,2,"{'NBISweden/pipelines-nextflow', 'NBISweden/Earth-Biogenome-Project-pilot'}"
+216,pericsson,2,"{'nf-core/modules', 'nf-core/smrnaseq'}"
+1060,ThiloSchulze,2,"{'ThiloSchulze/eukaryotic-genome-assembly', 'ThiloSchulze/orthology-inference'}"
+944,hysteron,2,"{'Monia234/IARC-alignement', 'IARCbioinfo/table_annovar-nf'}"
+231,peterwharrison,2,"{'FAANG/analysis-TAGADA', 'sguizard/isoseq'}"
+26,BioWilko,2,"{'BioWilko/genotyping-pipeline', 'BioWilko/Papaya'}"
+733,Puumanamana,2,"{'Puumanamana/nf-modules', 'hawaiidatascience/metaflowmics'}"
+933,gongyh,2,"{'gongyh/nf-core-scp', 'gongyh/nf-core-scgs'}"
+654,bozmik,2,"{'bhagesh-codebeast/nextflowdualrnaseq', 'nf-core/dualrnaseq'}"
+24,sharma-shruti,2,"{'nf-modules/fastqc', 'nf-modules/trimmomatic'}"
+653,telatin,2,"{'telatin/nextflow-example', 'NailouZhang/nf-core-virome'}"
+672,sarahjeeeze,1,{'epi2me-labs/wf-transcript-target'}
+673,shashidhar22,1,{'WarrenLabFH/viral_genomics'}
+675,TatsuyaDaniel,1,{'Thomas-LeCoent/reprohackathon-bioinfo'}
+667,cgroza,1,{'cgroza/nextflow_scripts'}
+676,pwanj,1,{'GoalConsortium/goal_misc'}
+779,GroundB,1,{'GroundB/RepeatDefeaters'}
+683,ramadatta,1,{'ramadatta/nextflow'}
+668,TeresaRubio,1,{'ConesaLab/TCR_nextflow'}
+776,dembra96,1,{'zenomeplatform/nf-germline-mapping'}
+775,BBJamge,1,{'BBJamge/bedtools_Danpos_NF'}
+677,jennomics,1,{'jennomics/parallel-blast'}
+769,ssnn-airr,1,{'ConesaLab/TCR_nextflow'}
+773,RJ333,1,{'RJ333/calculate-functional-trees'}
+671,andrewprzh,1,{'ablab/metaGT'}
+679,idelim09,1,{'Irvibena/Groupe10_Hackaton'}
+772,zlye,1,{'zlye/RVE'}
+774,sinonkt,1,{'sinonkt/gemini-load-nf'}
+743,friesac,1,{'usafsam/mad_river_wf'}
+693,muffato,1,{'nf-core/modules'}
+721,vmikk,1,{'telatin/nextflow-example'}
+723,aduvermy,1,{'aduvermy/quantitative_nucleosome_analysis'}
+724,aferriz,1,{'icgc-argo-workflows/icgc-argo-sv-copy-number'}
+725,jgriss,1,{'bigbio/nf-workflows'}
+726,sripaladugu,1,{'sripaladugu/nextflow_align'}
+727,cflerin,1,{'vib-singlecell-nf/vsn-pipelines'}
+728,husensofteng,1,{'bigbio/nf-workflows'}
+729,Alexey-ebi,1,{'sguizard/isoseq'}
+730,ecerami,1,{'ecerami/nextflow_sandbox'}
+781,athbaltzis,1,{'athbaltzis/diff-AS-nf'}
+732,BonaBeavis,1,{'BonaBeavis/nf-core-prototype'}
+735,CENMIG,1,{'CENMIG/snpplet'}
+736,ZandraFagernas,1,{'nf-core/eager'}
+752,shaze,1,{'HadrienG/nanoflow'}
+750,sc13-bioinf,1,{'nf-core/eager'}
+748,gabiherman,1,{'jerdra/TIGR_PURR'}
+747,schorlton,1,{'awilson0/bugseq-pipeline'}
+738,b16joski,1,{'jkirangw/WORMpipe'}
+739,MaxGreil,1,{'MaxGreil/sradcqc'}
+740,jonasscheid,1,{'nf-core/epitopeprediction'}
+741,SimonDMurray,1,{'SimonDMurray/DNA-pipeline'}
+742,octavia-c,1,{'biomedbigdata/nf-core-circRNA-sponging'}
+722,andrewmlynn,1,{'naveen584/nextflow-variantcalling'}
+720,FloWuenne,1,{'nf-core/modules'}
+768,fuxialexander,1,{'fuxialexander/nf-cojo'}
+757,nick297,1,{'oxfordmmm/SARS-CoV2_workflows'}
+695,phiweger,1,{'phiweger/isolate_pe'}
+696,Mondale-tw,1,{'CommonMindConsortium/RAPiD-nf'}
+697,mdziurzynski,1,{'DEMBresearch/rnaseq_qc'}
+698,ntanh1999,1,{'ntanh1999/nextflow'}
+767,rnharmening,1,{'rnharmening/nf-multipleReferenceMapper'}
+766,scarlhoff,1,{'nf-core/eager'}
+765,kstawiski,1,{'nf-core/smrnaseq'}
+764,josephhalstead,1,{'josephhalstead/nextflow_small_germline_panel'}
+702,asadprodhan,1,{'asadprodhan/How-to-run-Kraken2-on-HPC-using-Singularity-container-and-Nextflow'}
+763,Thomas-LeCoent,1,{'Thomas-LeCoent/reprohackathon-bioinfo'}
+705,fminneci,1,{'genomicsengland/minimal_subset_genomic_dataset'}
+762,batson,1,{'czbiohub/sc2-illumina-pipeline'}
+761,thomcuddihy,1,{'Vikash84/micropipe'}
+709,Lcornet,1,{'Lcornet/ORPER'}
+710,calkan,1,{'calkan/TARDIS-CRAM-NextFlow'}
+712,Jokendo-collab,1,{'Jokendo-collab/MS_database_search'}
+759,rene-janssen,1,{'RJ333/calculate-functional-trees'}
+713,aleks96n,1,{'aleks96n/BioInfoKallisto'}
+715,rubenchazarra,1,{'ebi-gene-expression-group/cell-types-eval-control-workflow-cross-validation'}
+716,michael-ta,1,{'michael-ta/longitudinal-GWAS-pipeline'}
+719,GuilleGorines,1,{'GuilleGorines/nfcore-pikavirus-legacy'}
+0,bj8th,1,{'sheynkman-lab/IsoSeq-Nextflow'}
+874,lilu-martin,1,{'bbi-lab/bbi-sci'}
+782,aldembert,1,{'lifebit-ai/relate'}
+987,razielar,1,{'razielar/lncRNA_annotation_cufflinks_nf'}
+976,haqle314,1,{'PlantGGHLab/qiime2-nf'}
+977,jashapiro,1,{'AlexsLemonade/scpca-nf'}
+978,lbresadola,1,{'TRON-Bioinformatics/tronflow-bam-preprocessing'}
+979,nathanhaigh,1,{'sagc-bioinformatics/modules'}
+980,SimiliSerpent,1,{'Irvibena/Groupe10_Hackaton'}
+982,JezSw,1,{'oxfordmmm/SARS-CoV2_workflows'}
+984,damjanaram,1,{'nextflow-io/nf-hack18'}
+985,sawibo,1,{'UMCUGenetics/NextflowModules'}
+986,GuillaumeTh,1,{'scilus/tractoflow'}
+988,yuxuth,1,{'jianhong/nf-core-hicar'}
+939,alexa-salsbury,1,{'NCBI-Codeathons/lung-rna-seq'}
+989,mdeloger,1,{'bioinfo-pf-curie/annotationMaker'}
+991,harleenduggal,1,{'harleenduggal/NEXTFLOW-fastqc'}
+992,luissian,1,{'luissian/nf-core-assemblybacterias'}
+993,marissaDubbelaar,1,{'nf-core/epitopeprediction'}
+995,Navrique,1,{'Navrique/ANAPURNA-seq_old'}
+996,MJDelas,1,{'luslab/briscoe-nf-tobias'}
+997,Leon-Bichmann,1,{'Leon-Bichmann/diaproteomics'}
+998,maxemil,1,{'maxemil/PhyloMagnet'}
+999,alexandrebouchard,1,{'UBC-Stat-ML/humi2'}
+975,alperyilmaz,1,{'alperyilmaz/nextflow-rnaseq'}
+974,AndreaGuarracino,1,{'subwaystation/pangenome'}
+973,Crone0610,1,{'Crone0610/nf-core-refcaller'}
+970,misssoft,1,{'tiwarialok/new-rnaseq'}
+941,stjacqrm,1,{'stjacqrm/berrywood'}
+943,leiendeckerlu,1,{'ObenaufLab/sv-calling-nf'}
+945,cbirbes,1,{'cbirbes/NextFlowPipeline'}
+946,bioinformaticscloudhk,1,{'bioinformaticsclouds/nextflow'}
+948,bewt85,1,{'nf-core/bacass'}
+949,ortzf,1,{'vibbits/NextFlow_pipelines'}
+951,jeantristanb,1,{'jeantristanb/h3abionetimp_spezone'}
+953,davepallot,1,{'ASKAP-EMUCat/emucat_workflows'}
+954,nanjalaruth,1,{'nanjalaruth/HLA-typing'}
+957,mdesco,1,{'scilus/tractoflow'}
+959,yuantianhpc,1,{'h3abionet/HPCBio-Refgraph_pipeline'}
+960,abner24,1,{'abner24/AbinitioTraining'}
+961,noamteyssier,1,{'noamteyssier/nextflow_pipelines'}
+962,keng404,1,{'keng404/nextflow_test'}
+963,IngoMue,1,{'IngoMue/nf-umap'}
+964,tranwin,1,{'tranwin/nextflow-rnaseq'}
+966,kjsanger,1,{'connor-lab/ncov2019-artic-nf'}
+968,DimmestP,1,{'DimmestP/nextflow_paired_reads_pipeline'}
+969,samirelanduk,1,{'goodwright/imaps-nf'}
+1000,garf0012,1,{'garfinjm/legsta-nf'}
+1002,jongtaek-kim,1,{'GMS6804-master/Sarek'}
+1004,genericdata,1,{'gencorefacility/variant-calling-pipeline-gatk4'}
+1042,R-Cardenas,1,{'R-Cardenas/nextflow_pipelines'}
+1045,amazon-auto,1,{'aws-samples/aws-gatk-recipe-nextflow-pipeline'}
+1047,lmfaber,1,{'hoelzer-lab/treat'}
+1048,BrianReevz,1,{'BrianReevz/GoogleCloudLifeSciSeq'}
+1049,sghurst,1,{'fmalmeida/bacannot'}
+1050,abyssum,1,{'icbi-lab/nextNEOpi'}
+1052,maelyg,1,{'eresearchqut/VirReport'}
+1058,tskir,1,{'EBIvariation/variant-remapping'}
+1059,espelpz,1,{'espelpz/genebygenebact'}
+1061,agower,1,{'compbiomed/RNA_Seq'}
+1062,stevin-wilson,1,{'nf-core/viralrecon'}
+1063,lizheng141026,1,{'likelet/MesKit'}
+1064,Rhine-cats,1,{'KlausVG/reproHack'}
+1067,molecules,1,{'nextflow-io/rnaseq-nf'}
+1068,kaizhang,1,{'kaizhang/scATAC-benchmark'}
+1070,AJHodgkinson,1,{'anna-saukkonen/PAC'}
+1072,mult1fractal,1,{'replikation/docker_pipelines'}
+1073,marcusrussi,1,{'covidestim/dailyFlow'}
+1074,JamesChoi94,1,{'JamesChoi94/LipidModule'}
+1076,hclimente,1,{'hclimente/gwas-tools'}
+1044,aivo0,1,{'taltechnlp/est-asr-pipeline'}
+1038,oalmelid,1,{'oalmelid/lift-over-nf'}
+1005,fullerharrison,1,{'fullerharrison/afs505_u3_project'}
+1037,laurabiggins,1,{'s-andrews/nextflow_pipelines'}
+1006,garfinjm,1,{'garfinjm/legsta-nf'}
+1007,vadimzalunin,1,{'NCBI-Hackathons/Nasty_Metagenomes'}
+1008,wjv,1,{'mpieva/quicksand'}
+1010,dladd,1,{'nf-core/cutandrun'}
+1012,marcocrotti,1,{'marcocrotti/radseq-processing-nf'}
+1013,sysbiocoder,1,{'nf-core/modules'}
+1016,vivianepasteau,1,{'Irvibena/Groupe10_Hackaton'}
+1017,lakinsm,1,{'lakinsm/bear-wgs'}
+1018,nidhi12k,1,{'tmc-hematopath/smMIPS-Detection-Pipeline'}
+1019,alex-botzki,1,{'vibbits/rnaseq-editing'}
+1023,ielis,1,{'ielis/nextflow-example'}
+1024,RVanDamme,1,{'RVanDamme/MUFFIN'}
+1026,cjjossart,1,{'CDCgov/mycosnp-nf'}
+1027,allyhawkins,1,{'AlexsLemonade/scpca-nf'}
+1029,LehmannN,1,{'LehmannN/scAnnotatiONT'}
+1030,MrMarkW,1,{'MrMarkW/nf-core-readtwoalign'}
+1031,jhagberg,1,{'sickle-in-africa/saw.structural-variants'}
+1032,thomasyu888,1,{'Sage-Bionetworks-Challenges/nf-model2data'}
+1033,aarandad,1,{'aarandad/demuxer'}
+940,heathervant,1,{'awilson0/bugseq-pipeline'}
+938,CGUTA,1,{'CGUTA/hugeheat'}
+783,genomicsITER,1,{'genomicsITER/NanoCLUST'}
+841,mtmcgowan,1,{'SystemsGenetics/transcript_corral'}
+830,veitveit,1,{'veitveit/nf-core-wombatp'}
+831,Ichaffurin,1,{'Ilchaffurin/Pipeline-RBMS'}
+832,mikecormier,1,{'mikecormier/neoseq-seqcover-nf'}
+834,peikovakate,1,{'peikovakate/fastq'}
+836,JingQiChong,1,{'JingQiChong/nf_CRACpipeline'}
+837,bartcharbon,1,{'bartcharbon/nextflowVipPoc'}
+838,Ramanandan,1,{'Ramanandan/rnaseq_nextflow'}
+839,WhoisDonlee,1,{'ErasmusMC-Bioinformatics/NextFlow-VC-pipeline'}
+840,kkowalden,1,{'h3abionet/HPCBio-Refgraph_pipeline'}
+842,piotr-faba-ardigen,1,{'nf-core/modules'}
+937,jmarvil,1,{'ASKAP-EMUCat/emucat_workflows'}
+843,tlawrence3,1,{'tlawrence3/covid_nextflow'}
+844,bjohnnyd,1,{'nf-core/modules'}
+845,davismcc,1,{'davismcc/nf-hipsci-fibro'}
+846,abenjak,1,{'icgc-argo-workflows/icgc-argo-sv-copy-number'}
+847,brunoand,1,{'brunoand/NMP'}
+848,Linxian0816,1,{'AnneCharlotteMichel/Reprohackathon'}
+849,fbeghini,1,{'seandavi/curatedMetagenomicsNextflow'}
+850,ray1919,1,{'ray1919/lRNA-Seq'}
+851,BBQuercus,1,{'episkadlo/anglerFISH'}
+828,i-pletenev,1,{'nf-core/modules'}
+827,lassefolkersen,1,{'nf-core/modules'}
+822,msmallegan,1,{'msmallegan/rmghc-workshop-19'}
+821,simozhou,1,{'simozhou/epi-awesome'}
+785,leomrtns,1,{'food-safety-bioinformatics-hackathon/benchmarking-refseq'}
+786,sarseq,1,{'sarseq/sarseq2'}
+787,Eugloh,1,{'Eugloh/AmpliconPCR-nf'}
+788,BaronKoy,1,{'EBIvariation/variant-remapping'}
+791,GCJMackenzie,1,{'nf-core/modules'}
+794,manoj039,1,{'tiwarialok/new-rnaseq'}
+799,sheenamt,1,{'sheenamt/hrd_pipeline'}
+800,arzwa,1,{'arzwa/whaleprep'}
+803,samuell,1,{'sickle-in-africa/saw.structural-variants'}
+804,xmzhuo,1,{'xmzhuo/fastp-nf'}
+805,LeuThrAsp,1,{'StaPH-B/mycosnp'}
+806,Bhagyshree,1,{'Bhagyshree/bedtools_NF'}
+809,kazumaxneo,1,{'kazumaxneo/Nextflow_test_code'}
+813,abeaude,1,{'hugovaysset/ReproHackaton'}
+815,frheault,1,{'scilus/tractoflow'}
+816,bhagesh-codebeast,1,{'bhagesh-codebeast/nextflowdualrnaseq'}
+817,TGotwig,1,{'bactopia/bactopia'}
+819,duanjunhyq,1,{'cidgoh/cidgoh_qc'}
+820,emmakwiener,1,{'emmakwiener/PhD-CNV-Analysis'}
+853,npacc,1,{'npacc/HIV-Drug-Resistance'}
+854,torchij,1,{'torchij/nextflow'}
+856,mgcam,1,{'connor-lab/ncov2019-artic-nf'}
+900,twesigomwedavid,1,{'twesigomwedavid/open-science'}
+903,DevNambi,1,{'FredHutch/cellprofiler-batch-nf'}
+904,Paulrkcruz,1,{'Paul-rk-cruz/HRV_Pipeline'}
+905,aishwaryagogate,1,{'bbi-lab/bbi-sci'}
+906,Remi-Montagne,1,{'bioinfo-pf-curie/annotationMaker'}
+908,SPPearce,1,{'nf-core/modules'}
+910,dkj,1,{'connor-lab/ncov2019-artic-nf'}
+918,sb10,1,{'connor-lab/ncov2019-artic-nf'}
+920,s-andrews,1,{'s-andrews/nextflow_pipelines'}
+921,ashildv,1,{'nf-core/eager'}
+922,naliebe,1,{'vpeddu/Slowqc'}
+923,aghozlane,1,{'QuentinLetourneur/Let-it-bin'}
+924,RichardCorbett,1,{'bcgsc/TMBur'}
+925,Diren52,1,{'Diren52/ExpansionHunter-nf'}
+927,dmalzl,1,{'PavriLab/repliseq-nf'}
+928,ssnnm,1,{'ConesaLab/TCR_nextflow'}
+930,plateau-gao,1,{'plateau-gao/CUTnTag'}
+931,StongeEtienne,1,{'scilus/tractoflow-pve'}
+932,TDMedina,1,{'TDMedina/Nextflow_test'}
+935,xlinxlin,1,{'nf-core/bacass'}
+901,RHReynolds,1,{'nf-core/modules'}
+895,lsuhpchelp,1,{'chenyuetian/nextflow'}
+861,anu9109,1,{'anu9109/nf'}
+892,ksaunders73,1,{'NCBI-Codeathons/lung-rna-seq'}
+862,MohammadSorkhian,1,{'BioinformaticsLabAtMUN/sRNACharP'}
+865,raonyguimaraes,1,{'raonyguimaraes/nextflow-hello'}
+866,hugovaysset,1,{'hugovaysset/ReproHackaton'}
+867,tristanpwdennis,1,{'tristanpwdennis/basicwgs'}
+871,pettestor,1,{'Clinical-Genomics-Lund/nextflow_oxfordnanopore_sv'}
+872,sandrocarollo,1,{'icbi-lab/smartseq2_pipeline'}
+873,Paul-rk-cruz,1,{'Paul-rk-cruz/HRV_Pipeline'}
+875,xec-cm,1,{'MicrobialGenomics/TTrichiura_Tubulin'}
+876,SarahMaman,1,{'SarahMaman/NextflowRNAseq'}
+878,slsevilla,1,{'NCBI-Hackathons/Nasty_Metagenomes'}
+879,oskarvid,1,{'oskarvid/nextflow-GermlineVarCall'}
+880,hustal,1,{'hustal/rnasequmi'}
+881,dstrib,1,{'RenneLab/CnR-flow'}
+882,morpholino,1,{'rastiks/viralrecon'}
+883,bluegenes,1,{'czbiohub/nf-predictorthologs'}
+884,ErikDanielsson,1,{'nf-core/smrnaseq'}
+886,KrisDavie,1,{'vib-singlecell-nf/vsn-pipelines'}
+888,RemyNicolle,1,{'RemyNicolle/DummyNF'}
+889,plarosa,1,{'bioinfo-pf-curie/geniac-demo-dsl2'}
+666,Solyris83,1,{'Solyris83/xPORE_nextflow'}
+539,druvus,1,{'genomicsITER/NanoCLUST'}
+664,Haelmorn,1,{'DEMBresearch/rnaseq_qc'}
+228,aneichyk,1,{'independentdatalab/nf-riboseq'}
+208,rfara,1,{'goodwright/imaps-nf'}
+209,thibaultdestanque,1,{'thibaultdestanque/RNA_seq_Nextflow'}
+213,fullama,1,{'nf-core/modules'}
+217,vmurigneu,1,{'Vikash84/micropipe'}
+219,cmdoret,1,{'cmdoret/vapormap'}
+220,alexpiper,1,{'alexpiper/piperline'}
+221,espirado,1,{'espirado/lncrna_annotation_nextflow'}
+223,luomei308,1,{'luomei308/RNA_Seq'}
+225,brgew,1,{'bbi-lab/bbi-sci'}
+227,shaunchuah,1,{'shaunchuah/cfdna_nextflow'}
+229,rutendos,1,{'Dowell-Lab/Bidirectional-Flow'}
+206,wathom,1,{'matthiasheinig/scworkflows'}
+232,embatty,1,{'connor-lab/ncov2019-artic-nf'}
+233,DossenaCarolina,1,{'DossenaCarolina/TF_footprint'}
+235,Akazhiel,1,{'Akazhiel/NeoPred-NF'}
+236,vntasis,1,{'vntasis/stan-nf'}
+237,GhadaNOUAIRIA,1,{'erikrikarddaniel/pfitmap-nextflow'}
+238,glmanhtu,1,{'glmanhtu/nf-workflows'}
+239,BHNtools,1,{'NajlaBioinfo/hisq_paired_rnasq'}
+242,sarahdrury,1,{'gavinf97/groupnextflow'}
+243,Ed-G655,1,{'Ed-G655/nf-miRNA-SNPs-classify.nf'}
+244,mal2017,1,{'mal2017/sfr'}
+207,idfarbanecha,1,{'metagenlab/nanopore'}
+205,yqshao,1,{'yqshao/tips'}
+246,cometsong,1,{'cometsong/ATAC_Seq_nxf'}
+185,Thatguy027,1,{'Thatguy027/CePopulationGenetics-nf'}
+169,Landris18,1,{'aduvermy/quantitative_nucleosome_analysis'}
+172,clemgoub,1,{'clemgoub/dnaPipeTE2'}
+173,FirasSadiyah,1,{'FirasSadiyah/NF-Workflow'}
+174,IdoBar,1,{'nf-core/eager'}
+175,AnneCharlotteMichel,1,{'AnneCharlotteMichel/Reprohackathon'}
+177,chenjy327,1,{'likelet/MesKit'}
+179,dzerbino,1,{'eQTL-Catalogue/qtlmap'}
+181,gnetsanet,1,{'SJLeeY10/crispedit'}
+182,mwalzer,1,{'bigbio/nf-workflows'}
+183,fbdtemme,1,{'nf-core/modules'}
+186,mistyskye,1,{'EBIvariation/variant-remapping'}
+204,QuentinLetourneur,1,{'QuentinLetourneur/Let-it-bin'}
+188,MozesBlom,1,{'MozesBlom/nf-polish'}
+192,lucky-nj,1,{'pandora414/dna'}
+194,klamkiew,1,{'klamkiew/viralclust'}
+195,kateeasoncrukci,1,{'icgc-argo-workflows/icgc-argo-sv-copy-number'}
+196,nriddiford,1,{'nriddiford/nf-core-lohcator'}
+197,LucileSol,1,{'NBISweden/pipelines-nextflow'}
+199,MatteoSchiavinato,1,{'MatteoSchiavinato/MAG_recovery'}
+200,DataSpott,1,{'replikation/poreCov'}
+201,ericaenjoy3,1,{'ericaenjoy3/rna_nf'}
+202,chenyuetian,1,{'chenyuetian/nextflow'}
+245,jbelyeu,1,{'jbelyeu/sv_calling_nf'}
+248,james-dtg,1,{'jdurbin/nf'}
+334,sima-r,1,{'nf-core/modules'}
+314,Aveglia,1,{'Aveglia/vAMPirus'}
+299,bioShaun,1,{'bioShaun/xms-rnaseq-nf'}
+300,perllb,1,{'perllb/ctg-exome'}
+301,DLBPointon,1,{'DLBPointon/annotation-pipeline-nextflow'}
+303,fabubaker,1,{'YounisLab/rnaseq-pipeline'}
+304,manabuishii,1,{'rikenbit/RamDAQ-prototype'}
+305,aalinebini,1,{'aalinebini/ampliconseq'}
+306,mjcipriano,1,{'nf-core/modules'}
+307,mjakobs,1,{'nf-core/modules'}
+311,ArnaudM22,1,{'KlausVG/reproHack'}
+312,sruthipsuresh,1,{'nf-core/modules'}
+316,CJREID,1,{'CJREID/snplord-nf'}
+296,aidaanva,1,{'nf-core/eager'}
+317,nodrogluap,1,{'connor-lab/ncov2019-artic-nf'}
+319,keoughkath,1,{'keoughkath/AcceleratedRegionsNF'}
+320,MorganePhilipp,1,{'hugovaysset/ReproHackaton'}
+321,kevinpryan,1,{'kevinpryan/rtp_workshop'}
+322,pontus,1,{'NBISweden/pipelines-nextflow'}
+324,esteinig,1,{'np-core/modules'}
+325,bede,1,{'oxfordmmm/SARS-CoV2_workflows'}
+327,markgene,1,{'markgene/cutnrun'}
+328,chaeyoung-lee,1,{'chaeyoung-lee/gcp_genomics_api'}
+332,kcleal,1,{'brentp/rare-disease-wf'}
+298,aaronmck,1,{'mckennalab/NextLineage'}
+294,rynge,1,{'rynge/searchsra-nextflow'}
+249,bingzhang16,1,{'bzhanglab/neoflow'}
+268,adamd3,1,{'adamd3/StrainSeq'}
+250,jonbra,1,{'jonbra/nf-desensitize'}
+251,MicrobialGenomics,1,{'MicrobialGenomics/TTrichiura_Tubulin'}
+252,Danilo2771,1,{'nf-core/modules'}
+255,santiagorevale,1,{'nf-core/modules'}
+259,jimmybgammyknee,1,{'sagc-bioinformatics/modules'}
+260,GFrosi,1,{'GFrosi/Nextflow-BEDtoBAM-IndexBAM'}
+261,episkadlo,1,{'episkadlo/anglerFISH'}
+263,kkuret,1,{'luslab/nf-clip'}
+266,hpliner,1,{'bbi-lab/bbi-sci'}
+267,drice-codeathons,1,{'NCBI-Codeathons/lung-rna-seq'}
+269,JIAYING2021,1,{'JIAYING2021/Hackathon021'}
+292,tcezard,1,{'EBIvariation/variant-remapping'}
+271,madhyastha,1,{'madhyastha/gatk-nextflow-sample'}
+272,xmeng,1,{'FischbachLab/nf-reads-profiler'}
+275,ChristinaVasil,1,{'nebfield/snpQT'}
+278,tamuanand,1,{'nf-core/modules'}
+279,dweemx,1,{'vib-singlecell-nf/vsn-pipelines'}
+281,salzmanlab,1,{'salzmanlab/ReadZS'}
+282,Foxcapades,1,{'VEuPathDB/proteinToGenomeAlignment'}
+283,exsquire,1,{'exsquire/diminion'}
+287,ChristopherBarrington,1,{'crickbabs/BABS-RNASeq'}
+288,mderan-da,1,{'aws-samples/aws-gatk-recipe-nextflow-pipeline'}
+168,jtk622,1,{'GMS6804-master/Sarek'}
+167,savytskanatalia,1,{'savytskanatalia/STARmap'}
+166,nilesh-tawari-elanco,1,{'nilesh-tawari/blast-pipeline'}
+57,cyrildw,1,{'cyrildw/nf-MappingOrMerging'}
+44,naveen584,1,{'naveen584/nextflow-variantcalling'}
+45,aleksandrabliznina,1,{'nf-core/modules'}
+46,wheelern,1,{'zamanianlab/RNAseq-VC-nf'}
+48,ZIWEI-WONG,1,{'likelet/MesKit'}
+50,Huisquare,1,{'Huisquare/nfdv'}
+51,pblaney,1,{'pblaney/mgp1000'}
+52,darcyabjones,1,{'darcyabjones/panann'}
+53,alexharston,1,{'goodwright/imaps-nf'}
+55,SusiJo,1,{'nf-core/modules'}
+56,KlausVG,1,{'KlausVG/reproHack'}
+59,oisinmccaffrey,1,{'oisinmccaffrey/clipseq.nextflow'}
+41,kmurat1,1,{'nf-core/modules'}
+60,chrisjackson-pellicle,1,{'chrisjackson-pellicle/HybPiper-RBGV'}
+61,DaneVass,1,{'DaneVass/BARtab'}
+63,gtuckerkellogg,1,{'GTK-lab/nextflow-awsbatch'}
+65,anvlasova,1,{'CRG-CNAG/CalliNGS-NF'}
+68,jgallowa07,1,{'jgallowa07/Nextflow-Example'}
+70,mak2508,1,{'YounisLab/rnaseq-pipeline'}
+72,Chiamh,1,{'Chiamh/meta-omics-nf'}
+76,AlexVCaron,1,{'AlexVCaron/mrHARDIflow'}
+77,elimoss,1,{'bhattlab/wits_workshop'}
+78,daviesdrew,1,{'daviesdrew/variantcalling'}
+43,nicni16,1,{'nicni16/nfcore-maxquant'}
+39,mcamarad,1,{'lifebit-ai/phewas'}
+164,gaotian52,1,{'AndersenLab/PEmRNA-seq-nf'}
+17,alvinwt,1,{'icgc-argo-workflows/icgc-argo-sv-copy-number'}
+2,KochTobi,1,{'nf-core/hlatyping'}
+3,khigashi1987,1,{'khigashi1987/CUTRUN_Nextflow'}
+4,DarianHole,1,{'phac-nml/ncov-dehoster'}
+5,elyadlezmi,1,{'elyadlezmi/RNA2CM'}
+8,monikaBrandt,1,{'monikaBrandt/nf-core-mynewpipeline'}
+9,jbrestel,1,{'VEuPathDB/proteinToGenomeAlignment'}
+11,DCGenomics,1,{'NCBI-Hackathons/Nasty_Metagenomes'}
+12,idot,1,{'csf-ngs/controldna'}
+14,chrstphdm,1,{'chrstphdm/nxf_course'}
+16,gsteinhardt,1,{'GoalConsortium/goal_misc'}
+18,lukasjelonek,1,{'lukasjelonek/sequencing-technology-usage-diagram'}
+36,adrienlemeur,1,{'Thomas-LeCoent/reprohackathon-bioinfo'}
+21,ChristopherBrunner,1,{'ChristopherBrunner/sRNAFinder'}
+22,ning-y,1,{'GTK-lab/nextflow-awsbatch'}
+23,ssun1116,1,{'ssun1116/meripseqpipe'}
+27,sirselim,1,{'nf-core/smrnaseq'}
+28,Ninomoriaty,1,{'likelet/MesKit'}
+29,cjw85,1,{'epi2me-labs/wf-transcript-target'}
+30,mzager,1,{'FredHutch/dvc-pipelines'}
+32,alex-aug,1,{'zenomeplatform/nf-germline-mapping'}
+33,tiwarialok,1,{'tiwarialok/new-rnaseq'}
+35,Juke34,1,{'NBISweden/pipelines-nextflow'}
+80,azure-pipelines[bot],1,{'gis-rpd/rpd-sg10k-grch38-gatk4-gvcf-freebayes-vcf'}
+82,Emilyaoc,1,{'Emilyaoc/Nextflow-selection-workflow'}
+86,Takadonet,1,{'phac-nml/ncov-dehoster'}
+142,NajlaBioinfo,1,{'NajlaBioinfo/hisq_paired_rnasq'}
+125,nimbusFarzaneh,1,{'BCCDC-PHL/troika-nf'}
+126,dgg32,1,{'dgg32/metagenome-binning-nextflow'}
+129,ashdederich,1,{'ashdederich/Symbiont_genomeAssembly'}
+131,mzamanian,1,{'zamanianlab/Core_RNAseq-nf'}
+132,Thadouard,1,{'AnneCharlotteMichel/Reprohackathon'}
+133,Rahul1711arora,1,{'luslab/nf-clip'}
+136,Bontempogianpaolo1,1,{'federicacitarrella/FusionFlow'}
+139,jaesvi,1,{'icgc-argo-workflows/icgc-argo-sv-copy-number'}
+140,silastittes,1,{'silastittes/panand_structure'}
+141,RitzelC,1,{'TRON-Bioinformatics/tronflow-mutect2'}
+145,DSchreyer,1,{'Jojanneke-S/PRECODE'}
+89,clemensma,1,{'clemensma/symbiontDivider'}
+146,jhayer,1,{'HadrienG/nanoflow'}
+152,michieitel,1,{'PalMuc/TransPi'}
+153,danrlu,1,{'czbiohub/sc2-illumina-pipeline'}
+154,jermth,1,{'jermth/hls-workshop'}
+155,jordeu,1,{'nf-core/cutandrun'}
+157,ckandoth,1,{'GoalConsortium/goal_misc'}
+160,FalkoHof,1,{'Gregor-Mendel-Institute/isoseq3'}
+161,cagescudero,1,{'PalMuc/TransPi'}
+162,bfssi-forest-dussault,1,{'BFSSI-Bioinformatics-Lab/bfssi-assembly-pipeline'}
+163,cying111,1,{'nf-core/nanoseq'}
+124,christophstach,1,{'christophstach/live-pipeline-nextflow'}
+123,hynesgra,1,{'msmallegan/rmghc-workshop-19'}
+122,TrisKast,1,{'nf-core/cageseq'}
+120,Jani-94,1,{'FAANG/GSM-pipeline'}
+91,federicacitarrella,1,{'federicacitarrella/FusionFlow'}
+92,PaulusBoskabouter,1,{'PaulusBoskabouter/BasicPhylo'}
+93,JasperO98,1,{'ErasmusMC-Bioinformatics/NextFlow-VC-pipeline'}
+94,JWDebler,1,{'JWDebler/nf-assembly'}
+96,redst4r,1,{'redst4r/nf-10x-kallisto'}
+99,trambau,1,{'Thomas-LeCoent/reprohackathon-bioinfo'}
+101,jaserud,1,{'icgc-argo-workflows/nextflow-data-processing-utility-tools'}
+102,ChadFibke,1,{'ChadFibke/germ'}
+103,darlenewagner,1,{'darlenewagner/nextflowViral'}
+104,mclaugsf,1,{'mclaugsf/seqtk-nextflow'}
+105,LiuJie1117,1,{'likelet/MesKit'}
+106,SergFern,1,{'SergFern/Variant_Calling'}
+108,jasteen,1,{'SoutheyLab/nextflow-workflows'}
+109,rastiks,1,{'rastiks/viralrecon'}
+111,Erkison,1,{'nf-core/modules'}
+113,paulu-aws,1,{'goldfinchbio/sentieon-nextflow'}
+114,dengshuang0116,1,{'likelet/circPipe'}
+115,asl,1,{'ablab/graphamr'}
+116,ehatch9,1,{'FredHutch/cellprofiler-batch-nf'}
+117,chbk,1,{'FAANG/analysis-TAGADA'}
+118,Mark-S-Hill,1,{'nf-core/modules'}
+333,jrdemasi,1,{'msmallegan/rmghc-workshop-19'}
+335,BeibeiDu,1,{'luslab/nf-clip'}
+663,chadisaad,1,{'nf-core/rnafusion'}
+567,eameyer,1,{'salzmanlab/ReadZS'}
+552,abotzki,1,{'vibbits/rnaseq-editing'}
+555,viklund,1,{'sickle-in-africa/saw.structural-variants'}
+556,clairealix,1,{'lifebit-ai/ukbb-tutorial'}
+559,laure182,1,{'ifremer-bioinformatics/samba'}
+560,ojziff,1,{'luslab/nf-clip'}
+561,lauramble,1,{'lauramble/rnaseq-vizfada'}
+563,ghuls,1,{'vib-singlecell-nf/vsn-pipelines'}
+564,Reda94,1,{'Reda94/GDC-RNAseq-pipeline'}
+565,trickytank,1,{'trickytank/rna_circular-nf'}
+566,zsteve,1,{'zsteve/nf-ATAC'}
+568,nickhsmith,1,{'nf-core/modules'}
+549,bibo3,1,{'bibo3/popbom'}
+569,FredDodd6,1,{'connor-lab/ncov2019-artic-nf'}
+570,weiqijin,1,{'likelet/circPipe'}
+572,cavei,1,{'icbi-lab/nextNEOpi'}
+574,beise93,1,{'beise93/afs505_u3'}
+577,ppoulin91,1,{'scilus/tractoflow'}
+578,burkej1,1,{'SoutheyLab/nextflow-workflows'}
+579,sofstam,1,{'nf-core/modules'}
+580,dangeles,1,{'egenesis/WF-NF-rnassembly'}
+581,kenyonalexander-alloy,1,{'ChadFibke/germ'}
+582,znestor,1,{'znestor/chainsaw-test'}
+550,MoritzBauer,1,{'biocorecrg/allele_specific_RNAseq'}
+548,clairecoleman1,1,{'clairecoleman1/clipseq1'}
+584,lorentzben,1,{'lorentzben/automate_16_nf'}
+526,lmurba,1,{'TheJacksonLaboratory/splicing-pipelines-nf'}
+504,mciprianoCDC,1,{'CDCgov/mycosnp-nf'}
+505,Wangxin555,1,{'likelet/MesKit'}
+506,jyguo,1,{'jyguo/optitype'}
+509,sureshhewabi,1,{'bigbio/nf-workflows'}
+513,transmute-ngs,1,{'finnor/sample-renamer'}
+514,abremges,1,{'CAMI-challenge/CAMITAX'}
+517,propan2one,1,{'propan2one/variantcallerbench'}
+518,andreas-wilm,1,{'gis-rpd/rpd-sg10k-grch38-gatk4-gvcf-freebayes-vcf'}
+519,gaow,1,{'gaow/fastqc-nf'}
+524,markxiao,1,{'markxiao/PRS-dev'}
+527,royfrancis,1,{'NBISweden/pipelines-nextflow'}
+547,jackkamm,1,{'czbiohub/sc2-illumina-pipeline'}
+528,philDTU,1,{'philDTU/plasmidPublication'}
+532,evdomene,1,{'evdomene/brbseqnf'}
+533,abumadsen,1,{'Emilyaoc/Nextflow-selection-workflow'}
+534,Oliver-Tautz,1,{'Oliver-Tautz/helloNextflow'}
+535,asthara10,1,{'asthara10/insertseq'}
+537,arnaudbore,1,{'scilus/tractoflow'}
+1,femiliani,1,{'mckennalab/NextLineage'}
+540,ashleethomson,1,{'sagc-bioinformatics/modules'}
+541,multimeric,1,{'multimeric/AwsNextflowBug'}
+546,asafpr,1,{'nf-core/ampliseq'}
+583,huhehaotecrystal,1,{'xmuyulab/scRNAseq_pipelines'}
+585,katharily,1,{'katharily/pe_stacks_pipeline'}
+336,austinreidmanny,1,{'austinreidmanny/raven-nf'}
+644,lcabus-flomics,1,{'nf-core/smrnaseq'}
+628,HeshamElAbd,1,{'HeshamElAbd/nf-core-deviptcore'}
+630,skiniry,1,{'JackCurragh/riboseq_data_processing'}
+631,harryscholes,1,{'harryscholes/giga'}
+632,giusmar,1,{'RosaDeSa/RNAseq_dsl2'}
+633,jwokaty,1,{'seandavi/curatedMetagenomicsNextflow'}
+636,sdomanskyi,1,{'nf-core/spatialtranscriptomics'}
+637,yocra3,1,{'nf-core/modules'}
+639,benpastore,1,{'benpastore/nf-smrna-seq'}
+640,jlboat,1,{'jlboat/NextflowScripts'}
+642,tamburinif,1,{'bhattlab/wits_workshop'}
+645,mjsteinbaugh,1,{'nf-core/smrnaseq'}
+626,Channing-Zeng,1,{'Channing-Zeng/metagenomics-nf'}
+646,bcantarel,1,{'GoalConsortium/goal_misc'}
+648,lDesiree,1,{'icgc-argo-workflows/icgc-argo-sv-copy-number'}
+650,Laura-Gomez,1,{'INMEGEN/conservationLandscape'}
+651,jtmccr1,1,{'jtmccr1/bft-nf'}
+652,andresfsilva,1,{'EBIvariation/variant-remapping'}
+655,jkirangw,1,{'jkirangw/WORMpipe'}
+657,YanFangBio,1,{'NCBI-Codeathons/lung-rna-seq'}
+659,Accio,1,{'bactopia/bactopia'}
+661,MDegener,1,{'MDegener/RNAseq-pipeline'}
+662,ElisabetThomsen,1,{'fargenfo/linkseq'}
+627,jdurbin,1,{'jdurbin/nf'}
+623,TCLamnidis,1,{'nf-core/eager'}
+588,fethalen,1,{'ThiloSchulze/eukaryotic-genome-assembly'}
+604,mattsoup,1,{'nebiolabs/EM-seq'}
+589,chenthorn,1,{'zamanianlab/Core_RNAseq-nf'}
+590,priyanka-surana,1,{'sanger-tol/readmapping'}
+592,turrisita,1,{'AGROSAVIABIOUNIT/MT'}
+594,lmyiing,1,{'xmuyulab/scRNAseq_pipelines'}
+595,helrick,1,{'icgc-argo-workflows/icgc-argo-sv-copy-number'}
+596,finnor,1,{'finnor/sample-renamer'}
+597,verku,1,{'NBISweden/pipelines-nextflow'}
+598,fruce-ki,1,{'ZuberLab/crispr-process-nf'}
+599,v-clarissa,1,{'czbiohub/nf-tracer'}
+601,agalitsyna,1,{'agalitsyna/RedClib'}
+606,archgen,1,{'archgen/ACAD_Nextflow_Pipeline'}
+622,mikson60,1,{'aleks96n/BioInfoKallisto'}
+608,rcappa1,1,{'nebfield/snpQT'}
+610,louisedem,1,{'hugovaysset/ReproHackaton'}
+611,fayetteklaassen,1,{'covidestim/dailyFlow'}
+612,Guillermo-Gorines,1,{'GuilleGorines/nfcore-pikavirus-legacy'}
+614,grendon,1,{'h3abionet/HPCBio-Refgraph_pipeline'}
+616,szabogtamas,1,{'szabogtamas/repertoireseq_container'}
+617,tbukur,1,{'TRON-Bioinformatics/covigator-ngs-pipeline'}
+618,MaddalenaCella,1,{'MaddalenaCella/nf-lcWGS-mapping-and-imputation'}
+619,chloea31,1,{'Ilchaffurin/Pipeline-RBMS'}
+620,zhumiao1989,1,{'pandora414/dna'}
+502,dalmiaa,1,{'dalmiaa/Sample_NF'}
+501,m3hdad,1,{'nf-core/rnavar'}
+494,jcohenadad,1,{'courtois-neuromod/anat-processing'}
+397,palatinate,1,{'philDTU/plasmidPublication'}
+381,willemdek11,1,{'ErasmusMC-Bioinformatics/NextFlow-VC-pipeline'}
+382,lisemangiante,1,{'lisemangiante/test_nextflow'}
+383,Subhodeep13,1,{'Subhodeep13/Nextflow-Fastqc'}
+384,baptisteruiz,1,{'AnneCharlotteMichel/Reprohackathon'}
+388,xingaulaglag,1,{'laclac102/ampliseq'}
+389,zhiaos,1,{'bzhanglab/nf-rnaseq'}
+390,oschwengers,1,{'nf-core/modules'}
+391,patricksorn,1,{'TRON-Bioinformatics/covigator-ngs-pipeline'}
+392,mingxinliu,1,{'mingxinliu/nfp4MBC'}
+396,allissadillman,1,{'NCBI-Hackathons/Nasty_Metagenomes'}
+398,mbradyneeley,1,{'mbradyneeley/RNASeq_Pipeline'}
+376,BrianSanderson,1,{'TheJacksonLaboratory/mmrSVD'}
+400,jasmezz,1,{'nf-core/funcscan'}
+401,bigmonty12,1,{'bigmonty12/peakCallingBenchmark'}
+402,ferygood,1,{'ferygood/nf-STAR-TEtranscript'}
+403,bjlang,1,{'cbcrg/nf-phdcourse21'}
+404,kusalananda,1,{'sickle-in-africa/saw.structural-variants'}
+405,ywilke,1,{'UMCUGenetics/NextflowModules'}
+406,adrodrzywolski,1,{'adrodrzywolski/rnaseq_analysis_pipeline'}
+408,milescsmith,1,{'milescsmith/gcls-rnaseq-nf'}
+409,evaham1,1,{'Streit-lab/streitlab-nf-modules'}
+412,JackCurragh,1,{'JackCurragh/riboseq_data_processing'}
+377,Nine-s,1,{'Nine-s/workflow_comparison_analysis'}
+374,XinHuang87,1,{'NCBI-Hackathons/Nasty_Metagenomes'}
+493,anna-saukkonen,1,{'anna-saukkonen/PAC'}
+354,jhlegarreta,1,{'scilus/tractoflow'}
+342,Thyra,1,{'NAMlab/rnaseq-mapper'}
+344,mchimenti,1,{'mchimenti/ATAC_seq_nextflow'}
+345,slimnsour,1,{'jerdra/TIGR_PURR'}
+346,craigwindell,1,{'eresearchqut/VirReport'}
+347,jguhlin,1,{'jguhlin/useful-nextflow-patterns'}
+348,cirrina,1,{'cirrina/ctg-rnaseq'}
+349,raygozag,1,{'raygozag/rnaseq'}
+351,leebrian,1,{'CDCgov/mycosnp-nf'}
+352,martinghunt,1,{'oxfordmmm/preprocessing'}
+353,kenyon-alexander,1,{'ChadFibke/germ'}
+356,joshua-d-campbell,1,{'joshua-d-campbell/nf-GATK_Exome_Preprocess'}
+373,shbrief,1,{'seandavi/curatedMetagenomicsNextflow'}
+357,lars20070,1,{'OpenMSConsulting/NextflowLFQ'}
+358,Niinleslie,1,{'likelet/MesKit'}
+359,alakob,1,{'alakob/ena-bracken-annotation'}
+361,kalanir,1,{'czbiohub/nf-bowtie'}
+363,BatoolMM,1,{'nf-core/modules'}
+364,sjsabin,1,{'supark87/minion_hrp2'}
+367,myourshaw,1,{'GoalConsortium/goal_misc'}
+368,MattHuff,1,{'MattHuff/Nextflow_Pipelines'}
+369,YussAb,1,{'YussAb/mergeVCF_MutectStrelka'}
+372,lmtani,1,{'lmtani/wf-human-mito'}
+414,ErikaKvalem,1,{'nf-core/viralrecon'}
+415,IARC-genetics,1,{'IARC-genetics/random_nf_scripts'}
+416,klkeys,1,{'nf-core/modules'}
+476,cdiener,1,{'Gibbons-Lab/pipelines'}
+462,lleroi,1,{'ifremer-bioinformatics/samba'}
+463,yonghah,1,{'yonghah/geodata-pipeline'}
+464,sb43,1,{'connor-lab/ncov2019-artic-nf'}
+465,smlmbrt,1,{'PGScatalog/pgsc_calc'}
+466,luiskuhn,1,{'luiskuhn/liverctanalysis'}
+467,BenNolann,1,{'BenNolann/rsi_analysis'}
+468,mzahm,1,{'cbirbes/NextFlowPipeline'}
+470,dianamarek,1,{'biocorecrg/SIB_course_nextflow_Nov_2021'}
+471,LeahRoberts,1,{'Vikash84/micropipe'}
+474,vincenthhu,1,{'vincenthhu/nf-core-westest'}
+478,noahaus,1,{'salvadorlab/mbovpan'}
+419,mnagari,1,{'BioinformaticsLabAtMUN/sRNACharP'}
+479,prenderj,1,{'evotools/nf-LO'}
+480,Eletham,1,{'nf-core/crisprvar'}
+481,zhangtong516,1,{'zhangtong516/icpipe-nextflow'}
+483,naryamanesh,1,{'naryamanesh/nf-bismarkAlignment'}
+485,adamrtalbot,1,{'adamrtalbot/kallisto_nf'}
+486,apriltuesday,1,{'EBIvariation/variant-remapping'}
+487,pufetin,1,{'genomicsITER/NanoCLUST'}
+489,nimarafati,1,{'NBISweden/pipelines-nextflow'}
+490,matq007,1,{'nf-core/rnafusion'}
+491,lobleya,1,{'lobleya/GATK4_WGS'}
+460,wbazant,1,{'wbazant/CORALE'}
+459,cvaske,1,{'IARCbioinfo/gatk4-HaplotypeCaller-nf'}
+457,radhika-kataria,1,{'cancerbioinformatics/PATCH-pipeline'}
+456,matthiasheinig,1,{'matthiasheinig/scworkflows'}
+421,canceromics,1,{'canceromics/MeRIPseqPipe'}
+422,leipzig,1,{'leipzig/m6a'}
+424,letovesnoi,1,{'letovesnoi/clusterassembly'}
+427,yassineS,1,{'yassineS/nf-demux'}
+429,RaverJay,1,{'replikation/poreCov'}
+432,jrkirk61,1,{'HPCBio/16S-rDNA-dada2-pipeline'}
+434,Etjean,1,{'Etjean/Long_project'}
+436,alam1988,1,{'alam1988/Nextflow'}
+437,Clinical-Genomics-Linkoping,1,{'Clinical-Genomics-Linkoping/artic-pangolin-nf'}
+438,davideyre,1,{'davideyre/bug-flow'}
+439,cahaisv,1,{'IARCbioinfo/strelka2-nf'}
+441,herczegrobert,1,{'herczegrobert/ownpipeline'}
+443,tbugfinder,1,{'nf-core/airrflow'}
+444,ralsallaq,1,{'ralsallaq/metaGx_nf'}
+447,FitzsimmonsCM,1,{'FitzsimmonsCM/RNAseq_Nextflow'}
+449,ac55-sanger,1,{'connor-lab/ncov2019-artic-nf'}
+450,snewhouse,1,{'baiyuanxiang/ngs_nextflow'}
+452,MeghanaKB-Rheos,1,{'MeghanaKB-Rheos/rnaseqpca'}
+453,mpozuelo-flomics,1,{'mpozuelo/demultiplexing'}
+454,jtangrot,1,{'nf-core/ampliseq'}
+455,Simontuk,1,{'Simontuk/sprint_covseq'}
+1077,elowy01,1,{'elowy01/nf-core-testworkflow'}
